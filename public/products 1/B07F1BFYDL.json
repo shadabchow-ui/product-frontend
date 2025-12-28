@@ -1,0 +1,697 @@
+{
+  "id": "womens-maxi-dress",
+  "handle": "womens-maxi-dress",
+  "sku": "JC1025",
+  "asin": "B07F1BFYDL",
+  "title": "Womens Maxi Dress",
+  "title_original": "72styles Infinity Dress with Bandeau, Convertible Bridesmaid Dress, Long, Plus Size, Multi-Way Dress, Twist Wrap Dress",
+  "brand": "Visit the 72styles Store",
+  "price": 49.99,
+  "social_proof": {
+    "bought_past_month": 595,
+    "text": "595+ bought in the past month"
+  },
+  "images": [
+    "https://m.media-amazon.com/images/I/61CKjx8MQpL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61D961+QAdL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61MIqLkBk-L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/818YPLHirbL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81HhRNmzIiL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61VWOwj054L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61LWxFN6RVL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61mOjTVL3GL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61NIVb-PqxL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61TxMMMk3xL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61IBkfKxRKL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61uJI3d5XzL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/615L4+zyCmL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61fAmlgv6oL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61Ku92tionL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61UyI3AQY2L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61snkmaA19L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61QEfX+Q3FL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61YBRJ2x9vL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61XzmH0p7lL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/610DPBR262L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61dRoOz37tL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61gjxRxqXTL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61RHAvJhO9L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61y35cm5GlL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/619KcMM9lPL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61xPZJ4J0HL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61ECZm4QqkL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61OnjLS5gjL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/612wUmZuSWL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/619aLLQrJML._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61-ilxoTX0L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61FW4UL9VpL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61-j+ufJHoL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61ifzBcgnlL._SL1500_.jpg"
+  ],
+  "gallery_images": [
+    "https://m.media-amazon.com/images/I/61CKjx8MQpL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61D961+QAdL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61MIqLkBk-L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/818YPLHirbL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81HhRNmzIiL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61VWOwj054L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61LWxFN6RVL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61mOjTVL3GL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61NIVb-PqxL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61TxMMMk3xL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61IBkfKxRKL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61uJI3d5XzL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/615L4+zyCmL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61fAmlgv6oL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61Ku92tionL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61UyI3AQY2L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61snkmaA19L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61QEfX+Q3FL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61YBRJ2x9vL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61XzmH0p7lL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/610DPBR262L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61dRoOz37tL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61gjxRxqXTL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61RHAvJhO9L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61y35cm5GlL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/619KcMM9lPL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61xPZJ4J0HL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61ECZm4QqkL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61OnjLS5gjL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/612wUmZuSWL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/619aLLQrJML._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61-ilxoTX0L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61FW4UL9VpL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61-j+ufJHoL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61ifzBcgnlL._SL1500_.jpg"
+  ],
+  "aplus_images": [],
+  "description_images": [],
+  "bullets": [],
+  "specs": {
+    "Is Discontinued By Manufacturer ‏": "‎ No",
+    "Item model number ‏": "‎ Wedding Dress",
+    "Department ‏": "‎ womens",
+    "Date First Available ‏": "‎ June 30, 2018",
+    "Manufacturer ‏": "‎ 72styles",
+    "ASIN ‏": "‎ B0CN4TQZCQ",
+    "Best Sellers Rank": "#13,793 in Clothing, Shoes & Jewelry ( See Top 100 in Clothing, Shoes & Jewelry ) #203 in Women's Dresses",
+    "Customer Reviews": "4.4 4.4 out of 5 stars (16,836)"
+  },
+  "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses",
+  "variations": {
+    "sizes": [
+      "5",
+      "5.5",
+      "6",
+      "6.5",
+      "7",
+      "7.5",
+      "8",
+      "8.5",
+      "9",
+      "9.5",
+      "10",
+      "11"
+    ],
+    "colors": [
+      "Olive Green",
+      "Black",
+      "Champagne",
+      "Dusty Blue",
+      "Plum",
+      "Blush Pink",
+      "Lavender",
+      "Royal Blue",
+      "Mauve",
+      "Midnight Blue",
+      "Mustard Yellow",
+      "Teal",
+      "Turquoise",
+      "Coral Pink",
+      "Grey",
+      "Silver Grey",
+      "Burgundy",
+      "Burnt Orange",
+      "Charcoal Grey",
+      "Sage",
+      "Teal Blue",
+      "Navy Blue",
+      "Dark Brown",
+      "Dusty Rose",
+      "Dark Green",
+      "Red",
+      "Taupe",
+      "Purple",
+      "Peach Coral",
+      "Dark Purple",
+      "Emerald Green"
+    ],
+    "size_chart": {
+      "label": "Size chart",
+      "href": "javascript:void(0)",
+      "html": null
+    }
+  },
+  "reviews": {
+    "average_rating": 4.4,
+    "count": 16836,
+    "customers_say": "Customers find the dress fits all body types and appreciate its versatility, being able to wear it in multiple ways. Moreover, the dress receives positive feedback for its quality, comfort, and color, with one customer noting it makes them feel like a princess. Additionally, the material receives praise for its good quality and flowy texture, and customers particularly like its suitability as a maternity dress. Select to learn more Fit Looks great Quality Comfort Color Material quality Dress quality Versatility 661 customers mention \"Fit\" 572 positive 89 negative Customers are satisfied with the dress's fit, noting that it is one-size-fits-all and accommodates various body types, with one customer mentioning it stops at the ankles. \" Perfect fit and great quality. Super easy to wear and there are so many different ways to style the top. For size reference I am 5’0 #120....\" Read more \"...It fits perfectly , its fabric is good, with the extra band they add is more versatile for choosing how to wear it, and the color looks better in...\" Read more \"Absoultely love this dress. Great fit and very versatile. The dress is made of good quality and has a decent amount of stretch for this type of dress.\" Read more \"The size is true, it fit perfectly and happy with the material and overall it is great — except the smell of the material is very strong and...\" Read more 629 customers mention \"Looks great\" 586 positive 43 negative Customers find the dress visually appealing, with one mentioning it makes them feel like a princess. \"It is beautiful ! I love the many styles you can use. I received a lot of compliments in person and on social media! It’s comfortable! Brilliant idea....\" Read more \"...to weight changes, limitless style possibilities.... all in one beautiful dress . As you read the many reviews, think about the $53 you are spending....\" Read more \"...and I tried it on and my family was surprised how form fitting, elegant , breathable, the material is so moving and the wrap offers so many options...\" Read more \" Dress is beautiful but did not come with the bandeau as expected which is disappointing being I am a heavier woman. Only reason to give a 3 star.\" Read more 535 customers mention \"Quality\" 470 positive 65 negative Customers find the dress well-made, though some mention it has cheap quality. \" Nice dress ! Good especially for the price. Little tricky to figure out how to wrap. I’m 5’2 and length is good if I wear 5 inch heels....\" Read more \"...for my sister in law and it's beautiful, versatile, affordable, great quality , very flattering, comfortable, fit so nicely, and very elegant looking.\" Read more \"This dress is good quality and can be worn in so many different ways, I’ll be keeping this one best decision I ended up making was buying this dress....\" Read more \" Love this dress and all the options - fit great all over- very flattering - easy to dance in\" Read more 443 customers mention \"Comfort\" 430 positive 13 negative Customers find the dress comfortable, with one mentioning it can be wrapped in any preferred way, while another notes it makes them feel put-together. \"...We all wore these dresses. It was comfortable as well as super cute. I loved being able to wear it in different styles. I highly recommend this dress.\" Read more \"...It was very comfortable 1st bridesmaids dress I truly wore the whole wedding, I ordered the one size regular and I was able to wrap it as we twisted...\" Read more \"Arrived early and looks phenomenal. Comfy but not too casual. Fits like a dream. You cannot beat it for the price. The perfect bridesmaid dress!!!\" Read more \"Absolutely Beautiful dress and so comfortable . Love the many ways it can be worn. Fits so many different body shapes. Plan on getting in other colors\" Read more 375 customers mention \"Color\" 334 positive 41 negative Customers love the dress's color, describing it as wonderful and perfect, with one customer specifically mentioning its deep red shade. \"...The positive: it's versatile and can be worn many ways, it's a beautiful color , it comes with a free tube top (no elastic though), and the fabric is...\" Read more \"I love the color , the material, the dress flowed a wash and wear and able to wear the dress in several different ways; like off shoulders, one...\" Read more \"I loved this dress for my bridesmaid dress to a wedding! The color is beautiful , it's simple and easy to style! I like the versatility of it....\" Read more \"...Great things about this dress are the color , the way it drapes, the stretchiness, fit, and versatility. It also didn't feel too hot in the summer....\" Read more 371 customers mention \"Material quality\" 276 positive 95 negative Customers appreciate the dress's material, describing it as flowy and of good quality, with one customer noting its shiny texture. \"I’m Inlove with this versatile dress! It’s a great material and fits great. It’s not too thick and not too thin. It converts into sexy and modest....\" Read more \"...The color was amazing and was perfect. Its a nice material . It was floor length so that was nice. And the little band to wesr was also nice.\" Read more \"It's cheap material it looks cheap it feels cheap. I could've bought a few yards or spandex and make this for 1/8th the cost....\" Read more \"...I love the material because it’s antiwrinkle, which is great for packing, it’s breathable, but still thick enough, and it’s not clinging at all on...\" Read more 368 customers mention \"Dress quality\" 364 positive 4 negative Customers find this dress to be of excellent quality, noting it works well for various occasions including maternity wear, and one customer mentions its versatile bandeau design. \"Beautiful and versatile! What a great dress ! Flattering in all the right places. Fabric is soft & flowers. Not see through. Great value for price....\" Read more \"...weddings back to back that I'm going to as a guest and this is the perfect dress that I can change for each occasion and make it look different...\" Read more \"An amazing dress that is so versatile and actually very elegant looking. Nice satin fabric feel a good fit and great dress for the price....\" Read more \"...It feels nice and looks lovely! A perfect and cheaper alternative for a bridesmaid dress\" Read more 364 customers mention \"Versatility\" 362 positive 2 negative Customers appreciate the dress's versatility, noting it can be worn in multiple ways and suits various body types. \"Fabric was good style was cute and versatile , but the dress was too short. I'm 5'8 and usually wear a 12/14. With heels the dress was above my ankles.\" Read more \"Absoultely love this dress. Great fit and very versatile . The dress is made of good quality and has a decent amount of stretch for this type of dress.\" Read more \"...The dress fits perfectly, is flattering, and is so versatile . And achieving the various styles is easy! Can't wait to wear this to the wedding.\" Read more \"...dresses before that didn’t quite match up to this one in terms of versatility , comfort, and your own personal style. Highly recommend.\" Read more",
+    "items": [
+      {
+        "title": "5.0 out of 5 stars love this dress!",
+        "body": "I wore this long green dress to my friend’s wedding and loved how it looked. I’m 5'0\" and wore 3-inch heels, and the length worked perfectly. The fit is great—totally adjustable—and the flowy style helps hide the tummy a bit, which I appreciated. It has that elegant satin look, but the fabric feels soft and cottony, making it super comfortable to wear. I was able to move around easily and enjoy the entire party without feeling restricted. Overall, such a beautiful and comfortable dress! Read more",
+        "author": "love",
+        "rating": 5.0,
+        "date": "December 10, 2025",
+        "verified": false,
+        "images": [
+          "https://m.media-amazon.com/images/I/71eDyG8mL5L._SY88._SL1500_.jpg"
+        ]
+      },
+      {
+        "title": "5.0 out of 5 stars ⭐️⭐️⭐️⭐️⭐️ Absolutely Stunning — HIGHLY RECOMMEND!",
+        "body": "This infinity dress is beyond gorgeous! The fabric is so comfy and flattering, and it has just the right amount of sexy without being over the top. I wore it to a formal wedding and got compliments all night long! What I love most is how versatile it is — I was able to change up the style throughout the night, which made it feel like a brand-new look every time. It’s fun, elegant, and incredibly easy to adjust. I loved it so much I immediately bought it in another color! If you’re looking for a dress that checks every box — comfort, style, versatility, and that wow-factor — this is the one. HIGHLY, HIGHLY RECOMMEND! Read more",
+        "author": "Midwest NLA",
+        "rating": 5.0,
+        "date": "December 12, 2025",
+        "verified": false,
+        "images": [
+          "https://m.media-amazon.com/images/I/51jTq69mRlL._SY88._SL1500_.jpg"
+        ]
+      },
+      {
+        "title": "5.0 out of 5 stars Dressmaker's View....Perfect Formal Dress for All Body Types, High Quality for an Amazing Low Price!",
+        "body": "The media could not be loaded. The “72 STYLES Infinity Dress with Bandeau, Convertible Bridesmaid Dress, Long, Plus Size, Multi-Way Dress, Twist Wrap Dress” arrived in 3 days and was nicer than described online. I chose this bridesmaid’s dress for myself and 3 other attendants for a late Spring wedding. I have designed and sewn custom Bridal Gowns and attendants' gowns for many years. The truth today is that quality fabric by the yard is very expensive. If on a budget, then this high quality \"72 Styles Infinity Dress\" is a 5*+ winner. It has many exceptional features at a very affordable price. PROS: When the first bridesmaid's dress arrived and was tried on by the attendant, she sent a photo to the Bride-to-Be, who exclaimed, \"I'm so excited! You look like a Grecian Goddess!\" (see photo). * High Quality Materials and Construction - The exquisite soft hand and hefty richness of the \"Blush Pink\" fabric was immediately impressive. I also noticed that the dress was amazingly wrinkle free right out of the bag and box. Within 24 hours of hanging in a humid bathroom area, it was entirely wrinkle free. * Unbelievably comfortable to wear in any style that you choose! * Excellent attention to detail - all seams are encased, neatly sewn to accommodate 4-way stretching, and there are no loose threads. This dress can be hemmed if desired. * The soft and satiny fabric has an eye-catching, subtle sheen to it, adding to its beauty and attractiveness. Fabric is made of 92% Polyester for strength and 8% Spandex for elasticity. * The really unique advantage of this amazing, patented gown is that you have 72+ bodice styles to choose from. Go online to You Tube at home or in the library and check out the videos that offer tutorials on bodice-styling variations. You are only limited by your imagination. When practicing, it's helpful to have a buddy behind you to help you with draping and ties. I practiced alone in front of a full-length mirror with a hand-held mirror assisting me in viewing the back. Bringing all the bridesmaids dresses to your Bachelorette party and experimenting is even more fun. * Everybody has a different shape and size, and being able to customize a dress to your own flattering, personal style and preferences is a real asset. Different bodice designs bring a lovely variety to the wedding party.... or you can all wear the same style bodice and wear that unique dress in different complementary colors. * There are 30 gorgeous, elegant colors and unlimited styles from which to choose and/or invent yourself. * Style-wise, the two gently pleated, slightly overlapping bodice pieces that rise up from the waist are a generous 12\" in width and 78\" (6-1/2') in length. That gives you an amazing amount of fabric to drape, twist, wrap and tie in unlimited ways around your neck, waist and upper body. If you don't require that much fabric in bodice ties, develop your own \"haute couture.\" You can neatly cut some fabric off to fashion hair ties, weaves, bows, small drawstring bags and more to complement your outfit. * This is a \"one-size fits all\" dress, recommended for US sizes 0-16. I wear a size 16, as I am big-boned, 5'8\", 38B and 155 lbs. The dress fits me perfectly. I am probably near the upper limit as far as elasticized waist, length and bandeau fit go. * The tube top/bandeau (for added modesty) that arrived with my 0-16 dress measures 12' x 14\" and may offer little support for oversized girls. Consider purchasing a complementary bandeau with more support. * This Eye Candy formal dress can be worn repeatedly to different events by varying the bodice style. If you need a long dress for one occasion and then tire of it, you can shorten the dress to knee or cocktail length for a different occasion. The cut-off fabric could make a beautiful matching cape or bolero jacket. * One Size Plus is available for women who wear US 18-24. Once again, large-chested women may want to purchase their own sturdy, coordinating bandeau that offers more support and coverage than the skinny tube top offered for free with the dress. * An ideal dress for pregnant women, the stretchy fabric drapes and flows well around the contours of the body. Just place the elastic waistband over your baby bump. After delivery, the dress still fits. It is especially useful if you are nursing. No need to buy additional maternity wear for a formal occasion. * The gorgeous Blush Pink fabric is True to Color. The fabric is stretchy and is non-see-through on me. Of course, fabric stretching increases the degree of see-through. If so, a half-slip can be worn underneath for more coverage if desired. * The dress hangs, drapes and flows with movement beautifully. * Ideal dress for many occasions as it takes up little space when neatly folded - a \"travel\" gown that resists wrinkles, prom, wedding, evening out, party, maternity, cruise-wear, award recognition night and more. * Recommended hand wash only in cold water for this non-shrink fabric. CONS: * NO INSTRUCTIONS INCLUDED! You Tube videos and other online info to the rescue! ... Or use your own wonderful imagination! SUMMARY: Fashionable, inexpensive, cool and comfortable, easy care, adjusts perfectly to weight changes, limitless style possibilities.... all in one beautiful dress. As you read the many reviews, think about the $53 you are spending. This is not a $150 to $200 dress. If that's in your budget, then look elsewhere. For $53, this is an incredibly good-looking and good value for the money! Enjoy! Highly Recommended. ***How to Hang Long Dress Wrinkle-Free*** Step 1: Choose a hanger with shoulder notches (please see photos). Step 2: Attach each white loop inside the dress to the shoulder notches on the hanger. Step 3: Allow the two bodice sashes to fall to the floor. Step 4: (a) Fold one bodice sash in half, vertically and neatly. (b) Carefully lift the sash up and place over the shoulder notch. Step 5: Secure the sash in place with a clothespin. Let the sash end extend down about 12”. Make sure the sash is flat on both sides, with no twisting. Repeat with second bodice sash. Step 6: Fold the bandeau/tube top in half. Step 7. Secure bandeau in place with clothespins at the top of the hanger. Read more",
+        "author": "Menah Jane",
+        "rating": 5.0,
+        "date": "April 29, 2024",
+        "verified": false,
+        "images": [
+          "https://m.media-amazon.com/images/I/81X+H8EnfiL._SY88._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/71nHqofQJ+L._SY88._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/81RQ-f1NQRL._SY88._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/713-mSjFuxL._SY88._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/71Cfm-1AB3L._SY88._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/61XKiHOXOpL._SY88._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/71-6gJM+m6L._SY88._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/61aeLDWijZL._SY88._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/81nfhHQSn7L._SY88._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/71Xwx0x3ldL._SY88._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/71GFPvHzKnL._SY88._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/71YUbOubjiL._SY88._SL1500_.jpg"
+        ]
+      },
+      {
+        "title": "4.0 out of 5 stars Good Fit",
+        "body": "Could be a little longer but fits perfect size 8-10 love the versatility. Read more",
+        "author": "Lisa Rivas",
+        "rating": 4.0,
+        "date": "November 30, 2025",
+        "verified": false,
+        "images": []
+      },
+      {
+        "title": "5.0 out of 5 stars Quality is better then anticipated and a rich color instead of a cheap finish.",
+        "body": "I was actually surprised for quality for the price! Needed a formal dress for a Christmas Ball in a short time frame - while also being 8 months pregnant! The color of the dress is a beautiful deep red, with a nice satin finish. The fabric is stretchy, thicker than anticipated but in a good way, and honestly lovely. I am small, so was hesitant with the one-size fits all pitch, but I feel it fits me perfectly. Definitely plan on some kind of sticky bra to wear under, as a straps in the back would be exposed unless you wear the slip provided. Many ways to tie this dress to fit your preferred style. Read more",
+        "author": "Faith Green",
+        "rating": 5.0,
+        "date": "December 8, 2025",
+        "verified": false,
+        "images": [
+          "https://m.media-amazon.com/images/I/71Cx7FWLE5L._SY88._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/71Rd5F9NpCL._SY88._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/71R4ETSSTDL._SY88._SL1500_.jpg"
+        ]
+      },
+      {
+        "title": "5.0 out of 5 stars Beautiful! Better than expected!",
+        "body": "Perfect fit and great quality. Super easy to wear and there are so many different ways to style the top. For size reference I am 5’0 #120. Wearing two inch heels, it hits right above the toes. Perfect for a party or bridesmaid dress. Read more",
+        "author": "Rachel",
+        "rating": 5.0,
+        "date": "December 10, 2025",
+        "verified": false,
+        "images": []
+      },
+      {
+        "title": "5.0 out of 5 stars Perfect for All Body Types — Bought Twice!",
+        "body": "I’ve purchased this dress twice, first for my bridesmaids and then again for myself for a separate event. My bridesmaids had very different body types and heights (from 5'3\" to 5'10\" and cup sizes from B to G), and each of them was able to style the dress in a way that fit and flattered their shape. The fabric is soft, comfortable, and drapes beautifully. The color was exactly as pictured and looked great in photos. After seeing how versatile it was for my wedding, I bought one for myself and loved wearing it just as much. Highly recommend for weddings, events, or anyone looking for a customizable and comfortable dress! Read more",
+        "author": "Alanna J Abreu",
+        "rating": 5.0,
+        "date": "November 30, 2025",
+        "verified": false,
+        "images": [
+          "https://m.media-amazon.com/images/I/71WUa-JsEmL._SY88._SL1500_.jpg"
+        ]
+      },
+      {
+        "title": "5.0 out of 5 stars Perfect bridesmaids dresses",
+        "body": "We ordered 4 of these for my daughters wedding. All of the girls were a size small/medium. They were perfect! The color was vibrant and photographed very well. The fabric is good quality and each girl wore the dress to suit her style. Very easy to use with no need for alterations. Would definitely order again. Read more",
+        "author": "lambee67",
+        "rating": 5.0,
+        "date": "December 10, 2025",
+        "verified": false,
+        "images": [
+          "https://m.media-amazon.com/images/I/71lD5jd4uoL._SY88._SL1500_.jpg"
+        ]
+      }
+    ]
+  },
+  "short_description": "Womens Maxi Dress is made for a polished look that still feels comfortable to wear. It is designed to sit cleanly on the body with a flattering shape that works for day plans and dressier moments without feeling overdone.\n\nThe fit focuses on balance rather than extremes, so you can move naturally while still getting a defined silhouette. Choose your usual size for a closer look, or size up if you prefer a little more ease through the waist and hips.\n\nStyling is simple: keep accessories minimal for a clean finish, or add a jacket and statement shoes when you want a sharper outfit. This piece photographs well thanks to smooth lines and a structured feel that stays put once you have it adjusted.\n\nWith the right fit and simple styling, this item becomes an easy go-to when you want something that looks intentional without requiring extra effort.\n\nFor the best look, smooth the fabric, check the neckline placement, and pair it with shoes that match the occasion and the hem length.\n\nThe design is easy to style with simple accessories and works well in photos thanks to clean lines and a balanced silhouette.",
+  "about_this_item": "Womens Maxi Dress is made for a polished look that still feels comfortable to wear. It is designed to sit cleanly on the body with a flattering shape that works for day plans and dressier moments without feeling overdone.\n\nThe fit focuses on balance rather than extremes, so you can move naturally while still getting a defined silhouette. Choose your usual size for a closer look, or size up if you prefer a little more ease through the waist and hips.\n\nStyling is simple: keep accessories minimal for a clean finish, or add a jacket and statement shoes when you want a sharper outfit. This piece photographs well thanks to smooth lines and a structured feel that stays put once you have it adjusted.\n\nWith the right fit and simple styling, this item becomes an easy go-to when you want something that looks intentional without requiring extra effort.\n\nFor the best look, smooth the fabric, check the neckline placement, and pair it with shoes that match the occasion and the hem length.\n\nThe design is easy to style with simple accessories and works well in photos thanks to clean lines and a balanced silhouette.",
+  "long_description": "Womens Maxi Dress is a versatile piece you can reach for when you want a put-together look that still feels comfortable. The goal is simple: a silhouette that reads polished, photographs well, and stays wearable for a full day or a long night.\n\nFit and sizing Fit is where most outfits win or lose. This design aims for a balanced shape with a defined line through the torso, a clean waist, and a smooth finish through the hips and legs. If you prefer a more relaxed feel, size up; if you like a closer fit, stay true to size. Sizes may include: 5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 11.\n\nFabric and comfort Comfort is not just about softness. It is also about movement and how the fabric behaves as you walk, sit, and stand. A fabric blend with a bit of give helps it keep its shape while still feeling wearable.\n\nHighlights A clean neckline and a refined silhouette for an elevated look. Designed to layer easily with jackets, wraps, or sweaters. Works well with both minimal accessories and statement pieces.\n\nHow to style Styling ideas: keep it minimal with neutral shoes and one standout accessory. For a relaxed daytime look, add a denim jacket or cardigan. For events, switch to a bolder shoe and a small clutch for a sharper finish.\n\nColor notes Available colors may include: Olive Green, Black, Champagne, Dusty Blue, Plum, Blush Pink, Lavender, Royal Blue, Mauve, Midnight Blue, Mustard Yellow, Teal, Turquoise, Coral Pink. If a shade is sold out, check back as availability can change.\n\nCare Care guidance matters if you want it to keep its shape and finish. Follow the label first.",
+  "long_description_blocks": [
+    {
+      "type": "p",
+      "text": "Womens Maxi Dress is a versatile piece you can reach for when you want a put-together look that still feels comfortable. The goal is simple: a silhouette that reads polished, photographs well, and stays wearable for a full day or a long night."
+    },
+    {
+      "type": "p",
+      "text": "Fit and sizing Fit is where most outfits win or lose. This design aims for a balanced shape with a defined line through the torso, a clean waist, and a smooth finish through the hips and legs. If you prefer a more relaxed feel, size up; if you like a closer fit, stay true to size. Sizes may include: 5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 11."
+    },
+    {
+      "type": "p",
+      "text": "Fabric and comfort Comfort is not just about softness. It is also about movement and how the fabric behaves as you walk, sit, and stand. A fabric blend with a bit of give helps it keep its shape while still feeling wearable."
+    },
+    {
+      "type": "p",
+      "text": "Highlights A clean neckline and a refined silhouette for an elevated look. Designed to layer easily with jackets, wraps, or sweaters. Works well with both minimal accessories and statement pieces."
+    },
+    {
+      "type": "p",
+      "text": "How to style Styling ideas: keep it minimal with neutral shoes and one standout accessory. For a relaxed daytime look, add a denim jacket or cardigan. For events, switch to a bolder shoe and a small clutch for a sharper finish."
+    },
+    {
+      "type": "p",
+      "text": "Color notes Available colors may include: Olive Green, Black, Champagne, Dusty Blue, Plum, Blush Pink, Lavender, Royal Blue, Mauve, Midnight Blue, Mustard Yellow, Teal, Turquoise, Coral Pink. If a shade is sold out, check back as availability can change."
+    },
+    {
+      "type": "p",
+      "text": "Care Care guidance matters if you want it to keep its shape and finish. Follow the label first."
+    }
+  ],
+  "videos": [
+    {
+      "id": "bf981233-31e1-4e9c-934c-f46151ebe5aa",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/bf981233-31e1-4e9c-934c-f46151ebe5aa/default.vertical.jobtemplate.hls.m3u8",
+      "sources": [
+        {
+          "type": "application/x-mpegURL",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/bf981233-31e1-4e9c-934c-f46151ebe5aa/default.vertical.jobtemplate.hls.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "89e3a4e6-a25e-4995-b44f-bb814e67de57",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/89e3a4e6-a25e-4995-b44f-bb814e67de57/default.jobtemplate.hls.m3u8",
+      "sources": [
+        {
+          "type": "application/x-mpegURL",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/89e3a4e6-a25e-4995-b44f-bb814e67de57/default.jobtemplate.hls.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "9bd5e5f9-b04c-4fd2-9420-0ea75cdb71ef",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9bd5e5f9-b04c-4fd2-9420-0ea75cdb71ef/default.vertical.jobtemplate.hls.m3u8",
+      "sources": [
+        {
+          "type": "application/x-mpegURL",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9bd5e5f9-b04c-4fd2-9420-0ea75cdb71ef/default.vertical.jobtemplate.hls.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "ecc7be98-beb1-4670-8ded-6ff8cf54e037",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ecc7be98-beb1-4670-8ded-6ff8cf54e037/default.vertical.jobtemplate.hls.m3u8",
+      "sources": [
+        {
+          "type": "application/x-mpegURL",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ecc7be98-beb1-4670-8ded-6ff8cf54e037/default.vertical.jobtemplate.hls.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "eed98cd9-bb08-4d53-94af-c52f02c1d230",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/eed98cd9-bb08-4d53-94af-c52f02c1d230/default.jobtemplate.hls.m3u8",
+      "sources": [
+        {
+          "type": "application/x-mpegURL",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/eed98cd9-bb08-4d53-94af-c52f02c1d230/default.jobtemplate.hls.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "c967577c-4e65-4a24-b682-27dcfb399fbe",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c967577c-4e65-4a24-b682-27dcfb399fbe/default.vertical.jobtemplate.hls.m3u8",
+      "sources": [
+        {
+          "type": "application/x-mpegURL",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c967577c-4e65-4a24-b682-27dcfb399fbe/default.vertical.jobtemplate.hls.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "80bbc282-1576-4d76-98de-bbb5a088ca83",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/80bbc282-1576-4d76-98de-bbb5a088ca83/default.vertical.jobtemplate.hls.m3u8",
+      "sources": [
+        {
+          "type": "application/x-mpegURL",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/80bbc282-1576-4d76-98de-bbb5a088ca83/default.vertical.jobtemplate.hls.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "cf6a3e55-814f-4c45-9712-ddb6067e6b36",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cf6a3e55-814f-4c45-9712-ddb6067e6b36/default.vertical.jobtemplate.hls.m3u8",
+      "sources": [
+        {
+          "type": "application/x-mpegURL",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cf6a3e55-814f-4c45-9712-ddb6067e6b36/default.vertical.jobtemplate.hls.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "42272dde-5889-4878-874f-088f1335e8eb",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/42272dde-5889-4878-874f-088f1335e8eb/default.vertical.jobtemplate.hls.m3u8",
+      "sources": [
+        {
+          "type": "application/x-mpegURL",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/42272dde-5889-4878-874f-088f1335e8eb/default.vertical.jobtemplate.hls.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "32d457a7-a5d1-47ae-9197-a32b8a91ae43",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/32d457a7-a5d1-47ae-9197-a32b8a91ae43/default.vertical.jobtemplate.hls.m3u8",
+      "sources": [
+        {
+          "type": "application/x-mpegURL",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/32d457a7-a5d1-47ae-9197-a32b8a91ae43/default.vertical.jobtemplate.hls.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "e1af643c-337e-44a9-84bc-3458caae1d9f",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e1af643c-337e-44a9-84bc-3458caae1d9f/videopreview.jobtemplate.mp4.default.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e1af643c-337e-44a9-84bc-3458caae1d9f/videopreview.jobtemplate.mp4.default.mp4"
+        }
+      ]
+    },
+    {
+      "id": "1f0a3b08-cb2a-4950-9933-816ff08e4267",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1f0a3b08-cb2a-4950-9933-816ff08e4267/videopreview.jobtemplate.mp4.default.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1f0a3b08-cb2a-4950-9933-816ff08e4267/videopreview.jobtemplate.mp4.default.mp4"
+        }
+      ]
+    }
+  ],
+  "color_swatches": {
+    "Olive Green": "https://m.media-amazon.com/images/I/313FMN76mlL._AC_SR38,50_.jpg",
+    "Black": "https://m.media-amazon.com/images/I/312d+LAkWyL._AC_SR38,50_.jpg",
+    "Champagne": "https://m.media-amazon.com/images/I/41hayEW5ObL._AC_SR38,50_.jpg",
+    "Dusty Blue": "https://m.media-amazon.com/images/I/417cAIcG40L._AC_SR38,50_.jpg",
+    "Plum": "https://m.media-amazon.com/images/I/41QepSWyWrL._AC_SR38,50_.jpg",
+    "Blush Pink": "https://m.media-amazon.com/images/I/316IODD9UAL._AC_SR38,50_.jpg",
+    "Lavender": "https://m.media-amazon.com/images/I/412AWuLGbGL._AC_SR38,50_.jpg",
+    "Royal Blue": "https://m.media-amazon.com/images/I/41zzZO5yLaL._AC_SR38,50_.jpg",
+    "Mauve": "https://m.media-amazon.com/images/I/41AKtKy7trL._AC_SR38,50_.jpg",
+    "Midnight Blue": "https://m.media-amazon.com/images/I/31F-eZOLeIL._AC_SR38,50_.jpg",
+    "Mustard Yellow": "https://m.media-amazon.com/images/I/419B9X+gzvL._AC_SR38,50_.jpg",
+    "Teal": "https://m.media-amazon.com/images/I/41lyMLFhJaL._AC_SR38,50_.jpg",
+    "Turquoise": "https://m.media-amazon.com/images/I/41cPo7TIjmL._AC_SR38,50_.jpg",
+    "Coral Pink": "https://m.media-amazon.com/images/I/41Nlo8plSxL._AC_SR38,50_.jpg",
+    "Grey": "https://m.media-amazon.com/images/I/41+YvXlOInL._AC_SR38,50_.jpg",
+    "Silver Grey": "https://m.media-amazon.com/images/I/41Vx4ByJ6IL._AC_SR38,50_.jpg",
+    "Burgundy": "https://m.media-amazon.com/images/I/41O00e-MK8L._AC_SR38,50_.jpg",
+    "Burnt Orange": "https://m.media-amazon.com/images/I/414R3eN3kuL._AC_SR38,50_.jpg",
+    "Charcoal Grey": "https://m.media-amazon.com/images/I/41czIEpZbpL._AC_SR38,50_.jpg",
+    "Sage": "https://m.media-amazon.com/images/I/414E5Vofw4L._AC_SR38,50_.jpg",
+    "Teal Blue": "https://m.media-amazon.com/images/I/41OrWGzXLuL._AC_SR38,50_.jpg",
+    "Navy Blue": "https://m.media-amazon.com/images/I/413wN-dQZ-L._AC_SR38,50_.jpg",
+    "Dark Brown": "https://m.media-amazon.com/images/I/41zOJdQAgDL._AC_SR38,50_.jpg",
+    "Dusty Rose": "https://m.media-amazon.com/images/I/31aQpYrbeyL._AC_SR38,50_.jpg",
+    "Dark Green": "https://m.media-amazon.com/images/I/31psjDQB84L._AC_SR38,50_.jpg",
+    "Red": "https://m.media-amazon.com/images/I/412xcQNWtDL._AC_SR38,50_.jpg",
+    "Taupe": "https://m.media-amazon.com/images/I/315TT03U7aL._AC_SR38,50_.jpg",
+    "Purple": "https://m.media-amazon.com/images/I/41LRDoUIyLL._AC_SR38,50_.jpg",
+    "Peach Coral": "https://m.media-amazon.com/images/I/41pZjZUApHL._AC_SR38,50_.jpg",
+    "Dark Purple": "https://m.media-amazon.com/images/I/41sX8pdIvdL._AC_SR38,50_.jpg",
+    "Emerald Green": "https://m.media-amazon.com/images/I/41TbiQ9iSuL._AC_SR38,50_.jpg"
+  },
+  "color_image_key": {
+    "Olive Green": "61VWOwj054L",
+    "Black": "61LWxFN6RVL",
+    "Champagne": "61mOjTVL3GL",
+    "Dusty Blue": "61NIVb-PqxL",
+    "Plum": "61TxMMMk3xL",
+    "Blush Pink": "61IBkfKxRKL",
+    "Lavender": "61uJI3d5XzL",
+    "Royal Blue": "615L4+zyCmL",
+    "Mauve": "61fAmlgv6oL",
+    "Midnight Blue": "61Ku92tionL",
+    "Mustard Yellow": "61UyI3AQY2L",
+    "Teal": "61snkmaA19L",
+    "Turquoise": "61QEfX+Q3FL",
+    "Coral Pink": "61YBRJ2x9vL",
+    "Grey": "61XzmH0p7lL",
+    "Silver Grey": "610DPBR262L",
+    "Burgundy": "61CKjx8MQpL",
+    "Burnt Orange": "61dRoOz37tL",
+    "Charcoal Grey": "61gjxRxqXTL",
+    "Sage": "61RHAvJhO9L",
+    "Teal Blue": "61y35cm5GlL",
+    "Navy Blue": "619KcMM9lPL",
+    "Dark Brown": "61xPZJ4J0HL",
+    "Dusty Rose": "61ECZm4QqkL",
+    "Dark Green": "61OnjLS5gjL",
+    "Red": "612wUmZuSWL",
+    "Taupe": "619aLLQrJML",
+    "Purple": "61-ilxoTX0L",
+    "Peach Coral": "61FW4UL9VpL",
+    "Dark Purple": "61-j+ufJHoL",
+    "Emerald Green": "61ifzBcgnlL"
+  },
+  "color_images": {
+    "Olive Green": [
+      "https://m.media-amazon.com/images/I/61VWOwj054L._SL1500_.jpg"
+    ],
+    "Black": [
+      "https://m.media-amazon.com/images/I/61LWxFN6RVL._SL1500_.jpg"
+    ],
+    "Champagne": [
+      "https://m.media-amazon.com/images/I/61mOjTVL3GL._SL1500_.jpg"
+    ],
+    "Dusty Blue": [
+      "https://m.media-amazon.com/images/I/61NIVb-PqxL._SL1500_.jpg"
+    ],
+    "Plum": [
+      "https://m.media-amazon.com/images/I/61TxMMMk3xL._SL1500_.jpg"
+    ],
+    "Blush Pink": [
+      "https://m.media-amazon.com/images/I/61IBkfKxRKL._SL1500_.jpg"
+    ],
+    "Lavender": [
+      "https://m.media-amazon.com/images/I/61uJI3d5XzL._SL1500_.jpg"
+    ],
+    "Royal Blue": [
+      "https://m.media-amazon.com/images/I/615L4+zyCmL._SL1500_.jpg"
+    ],
+    "Mauve": [
+      "https://m.media-amazon.com/images/I/61fAmlgv6oL._SL1500_.jpg"
+    ],
+    "Midnight Blue": [
+      "https://m.media-amazon.com/images/I/61Ku92tionL._SL1500_.jpg"
+    ],
+    "Mustard Yellow": [
+      "https://m.media-amazon.com/images/I/61UyI3AQY2L._SL1500_.jpg"
+    ],
+    "Teal": [
+      "https://m.media-amazon.com/images/I/61snkmaA19L._SL1500_.jpg"
+    ],
+    "Turquoise": [
+      "https://m.media-amazon.com/images/I/61QEfX+Q3FL._SL1500_.jpg"
+    ],
+    "Coral Pink": [
+      "https://m.media-amazon.com/images/I/61YBRJ2x9vL._SL1500_.jpg"
+    ],
+    "Grey": [
+      "https://m.media-amazon.com/images/I/61XzmH0p7lL._SL1500_.jpg"
+    ],
+    "Silver Grey": [
+      "https://m.media-amazon.com/images/I/610DPBR262L._SL1500_.jpg"
+    ],
+    "Burgundy": [
+      "https://m.media-amazon.com/images/I/61CKjx8MQpL._SL1500_.jpg"
+    ],
+    "Burnt Orange": [
+      "https://m.media-amazon.com/images/I/61dRoOz37tL._SL1500_.jpg"
+    ],
+    "Charcoal Grey": [
+      "https://m.media-amazon.com/images/I/61gjxRxqXTL._SL1500_.jpg"
+    ],
+    "Sage": [
+      "https://m.media-amazon.com/images/I/61RHAvJhO9L._SL1500_.jpg"
+    ],
+    "Teal Blue": [
+      "https://m.media-amazon.com/images/I/61y35cm5GlL._SL1500_.jpg"
+    ],
+    "Navy Blue": [
+      "https://m.media-amazon.com/images/I/619KcMM9lPL._SL1500_.jpg"
+    ],
+    "Dark Brown": [
+      "https://m.media-amazon.com/images/I/61xPZJ4J0HL._SL1500_.jpg"
+    ],
+    "Dusty Rose": [
+      "https://m.media-amazon.com/images/I/61ECZm4QqkL._SL1500_.jpg"
+    ],
+    "Dark Green": [
+      "https://m.media-amazon.com/images/I/61OnjLS5gjL._SL1500_.jpg"
+    ],
+    "Red": [
+      "https://m.media-amazon.com/images/I/612wUmZuSWL._SL1500_.jpg"
+    ],
+    "Taupe": [
+      "https://m.media-amazon.com/images/I/619aLLQrJML._SL1500_.jpg"
+    ],
+    "Purple": [
+      "https://m.media-amazon.com/images/I/61-ilxoTX0L._SL1500_.jpg"
+    ],
+    "Peach Coral": [
+      "https://m.media-amazon.com/images/I/61FW4UL9VpL._SL1500_.jpg"
+    ],
+    "Dark Purple": [
+      "https://m.media-amazon.com/images/I/61-j+ufJHoL._SL1500_.jpg"
+    ],
+    "Emerald Green": [
+      "https://m.media-amazon.com/images/I/61ifzBcgnlL._SL1500_.jpg"
+    ]
+  },
+  "related": [
+    {
+      "id": "womens-maxi-dress-bodycon-long-sleeve",
+      "title": "Womens Maxi Dress Bodycon Long Sleeve",
+      "price": 41.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Casual",
+      "images": [
+        "https://m.media-amazon.com/images/I/81B0EWBbxbL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-dress",
+      "title": "Womens Dress",
+      "price": 295.0,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Club & Night Out",
+      "images": [
+        "https://m.media-amazon.com/images/I/51tOCtnN9ML._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-dress-formal-cocktail-evening",
+      "title": "Womens Dress Formal Cocktail Evening",
+      "price": 59.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Formal",
+      "images": [
+        "https://m.media-amazon.com/images/I/71ctK4kwdWL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-mermaid-short-sleeve-formal",
+      "title": "Womens Maxi Dress Mermaid Short Sleeve Formal",
+      "price": 79.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Formal",
+      "images": [
+        "https://m.media-amazon.com/images/I/61ODaWZ8uJL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-dress",
+      "title": "Womens Dress",
+      "price": 95.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Formal",
+      "images": [
+        "https://m.media-amazon.com/images/I/41vU0V-3D0L._SL1500_.jpg"
+      ]
+    }
+  ],
+  "customer_also_viewed": [
+    {
+      "id": "womens-maxi-dress-maxi",
+      "title": "Womens Maxi Dress Maxi",
+      "price": 59.9,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Casual",
+      "images": [
+        "https://m.media-amazon.com/images/I/61-GMo0HHjL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-sleeveless-off-shoulder",
+      "title": "Womens Maxi Dress Sleeveless Off Shoulder",
+      "price": 42.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Casual",
+      "images": [
+        "https://m.media-amazon.com/images/I/51oz3E7J01L._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-bodycon-long-sleeve-cocktail",
+      "title": "Womens Maxi Dress Bodycon Long Sleeve Cocktail",
+      "price": 37.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Club & Night Out",
+      "images": [
+        "https://m.media-amazon.com/images/I/71d0VKSCOzL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-sleeveless-v-neck-mermaid",
+      "title": "Womens Maxi Dress Sleeveless V Neck Mermaid",
+      "price": 98.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Formal",
+      "images": [
+        "https://m.media-amazon.com/images/I/619RXI5CEML._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-cocktail-long-sleeve-maxi",
+      "title": "Womens Maxi Dress Cocktail Long Sleeve Maxi",
+      "price": 49.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Cocktail",
+      "images": [
+        "https://m.media-amazon.com/images/I/615VfveT48L._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-dress",
+      "title": "Womens Dress",
+      "price": 126.0,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Casual",
+      "images": [
+        "https://m.media-amazon.com/images/I/714Cs9MTO9L._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-long-sleeve-maxi-v-neck",
+      "title": "Womens Maxi Dress Long Sleeve Maxi V Neck",
+      "price": 53.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Formal",
+      "images": [
+        "https://m.media-amazon.com/images/I/713UUM+RilL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-long-sleeve",
+      "title": "Womens Maxi Dress Long Sleeve",
+      "price": 47.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Club & Night Out",
+      "images": [
+        "https://m.media-amazon.com/images/I/71uTg9+55yL._SL1500_.jpg"
+      ]
+    }
+  ]
+}

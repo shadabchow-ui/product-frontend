@@ -1,0 +1,490 @@
+{
+  "id": "womens-dress",
+  "handle": "womens-dress-b0dzk2wnm8",
+  "sku": "JC1021",
+  "asin": "B0DZK2WNM8",
+  "title": "Womens Dress",
+  "title_original": "Pendleton Women’s Western Scenic Cardigan - 100% Cotton Knit Sweater Jacket, Ribbed Collar, Washable - Brick/Rose Multi",
+  "brand": "Pendleton",
+  "price": 189.0,
+  "social_proof": {
+    "bought_past_month": 82,
+    "text": "82+ bought in the past month"
+  },
+  "images": [
+    "https://m.media-amazon.com/images/I/71-+29u9a2L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/719buG0cWAL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81vm-djDt4L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81f+TjwG1xL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71XQxFr4EEL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81mx4wvnAEL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81MoPdX8c2L._SL1500_.jpg"
+  ],
+  "gallery_images": [
+    "https://m.media-amazon.com/images/I/71-+29u9a2L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/719buG0cWAL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81vm-djDt4L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81f+TjwG1xL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71XQxFr4EEL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81mx4wvnAEL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81MoPdX8c2L._SL1500_.jpg"
+  ],
+  "aplus_images": [
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0a6a7e97-4e5d-4b73-85b6-4f61cbc9595f.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e2caee44-75d8-495d-a378-4aaeb30b7a8c.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/76f0f4b2-b2f3-4927-a8a2-fe1115df2c29.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b3cfdee2-a46d-4a27-9d32-067e184da61d.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8d9dd6df-e419-4924-8d88-0934aa838af1.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/35e19575-bcf3-4c9f-93eb-822c99156e5f.__AC_SR1200,1200___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/85659d2c-da15-4fc2-9b08-07240f307ce2.__AC_SR1200,1200___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4144f809-e783-4012-be95-b8d3160bf7ab.__AC_SR1200,1200___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4865f644-7a03-47fb-9e63-45c897c24ed9.__AC_SR1200,1200___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/002f946e-8660-4d5a-99df-0c93a1ee54ad.__AC_SR1200,1200___.jpg"
+  ],
+  "description_images": [
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0a6a7e97-4e5d-4b73-85b6-4f61cbc9595f.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e2caee44-75d8-495d-a378-4aaeb30b7a8c.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/76f0f4b2-b2f3-4927-a8a2-fe1115df2c29.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b3cfdee2-a46d-4a27-9d32-067e184da61d.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8d9dd6df-e419-4924-8d88-0934aa838af1.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/35e19575-bcf3-4c9f-93eb-822c99156e5f.__AC_SR1200,1200___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/85659d2c-da15-4fc2-9b08-07240f307ce2.__AC_SR1200,1200___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4144f809-e783-4012-be95-b8d3160bf7ab.__AC_SR1200,1200___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4865f644-7a03-47fb-9e63-45c897c24ed9.__AC_SR1200,1200___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/002f946e-8660-4d5a-99df-0c93a1ee54ad.__AC_SR1200,1200___.jpg"
+  ],
+  "bullets": [],
+  "specs": {
+    "Item model number ‏": "‎ TC631-87439",
+    "Department ‏": "‎ womens",
+    "Date First Available ‏": "‎ March 6, 2025",
+    "Manufacturer ‏": "‎ Pendleton",
+    "ASIN ‏": "‎ B0F3V1B4D2",
+    "Best Sellers Rank": "#1,033,225 in Clothing, Shoes & Jewelry ( See Top 100 in Clothing, Shoes & Jewelry ) #5,057 in Women's Cardigans",
+    "Customer Reviews": "4.8 4.8 out of 5 stars (13)"
+  },
+  "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Cardigans",
+  "category_path": [
+    "Clothing, Shoes & Jewelry",
+    "Women",
+    "Clothing",
+    "Sweaters",
+    "Cardigans"
+  ],
+  "category_slug": "clothing-shoes-jewelry/women/clothing/sweaters/cardigans",
+  "category_leaf": "Cardigans",
+  "variations": {
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Brick/Rose Multi"
+    ],
+    "size_chart": {
+      "label": "Size chart",
+      "href": "javascript:void(0)",
+      "html": "<table class=\"a-bordered a-size-base\" id=\"fit-sizechartv2-0-table-0\"><tr><th>Brand Size</th><th>USA</th><th>Bust (in)</th><th>Waist (in)</th></tr><tr><th></th><td class=\"a-nowrap\">XXS</td><td class=\"a-nowrap\">31.5</td><td class=\"a-nowrap\">25.5</td></tr><tr><th>0</th><td class=\"a-nowrap\">XS</td><td class=\"a-nowrap\">32.5</td><td class=\"a-nowrap\">26.5</td></tr><tr><th>2</th><td class=\"a-nowrap\">XS</td><td class=\"a-nowrap\">33.5</td><td class=\"a-nowrap\">27.5</td></tr><tr><th>4</th><td class=\"a-nowrap\">S</td><td class=\"a-nowrap\">34.5</td><td class=\"a-nowrap\">28.5</td></tr><tr><th>6</th><td class=\"a-nowrap\">S</td><td class=\"a-nowrap\">35.5</td><td class=\"a-nowrap\">29.5</td></tr><tr><th>8</th><td class=\"a-nowrap\">M</td><td class=\"a-nowrap\">36.5</td><td class=\"a-nowrap\">30.5</td></tr><tr><th>10</th><td class=\"a-nowrap\">M</td><td class=\"a-nowrap\">37.5</td><td class=\"a-nowrap\">31.5</td></tr><tr><th>12</th><td class=\"a-nowrap\">L</td><td class=\"a-nowrap\">39</td><td class=\"a-nowrap\">33</td></tr><tr><th>14</th><td class=\"a-nowrap\">L</td><td class=\"a-nowrap\">40.5</td><td class=\"a-nowrap\">34.5</td></tr><tr><th>16</th><td class=\"a-nowrap\">XL</td><td class=\"a-nowrap\">42.2</td><td class=\"a-nowrap\">36.2</td></tr><tr><th>18</th><td class=\"a-nowrap\">XL</td><td class=\"a-nowrap\">44</td><td class=\"a-nowrap\">38</td></tr><tr><th></th><td class=\"a-nowrap\">XXL</td><td class=\"a-nowrap\">45.8</td><td class=\"a-nowrap\">39.8</td></tr><tr><th></th><td class=\"a-nowrap\">XXL</td><td class=\"a-nowrap\">47.5</td><td class=\"a-nowrap\">41.5</td></tr></table>"
+    }
+  },
+  "reviews": {
+    "average_rating": 4.8,
+    "count": 13,
+    "customers_say": null,
+    "items": [
+      {
+        "title": "5.0 out of 5 stars A beautiful, cotton cardigan and true Pendleton quality",
+        "body": "This Pendleton cardigan is so very nice. The cotton is soft, medium thickness and comfortable. I have other Pendleton cardigans and I always get size x-small, so I got that size and it fits as expected. I wear xs in most clothing. The cardigan is a slightly cropped length and also has a slightly relaxed fit. The bust measurement on the x-small is about 37”. It looks amazing with a light denim shirt, jeans and cowboy boots, but you could definitely wear this in a more dressed up style by wearing it with a dressier top and pants. It would look great with a denim skirt as well. I am going to plan all my outfits around this sweater come autumn! The design is beautiful and is knitted into the fabric of the cardigan. The inside has a different, simple, yet complementary design that is also very pretty. The south western design includes a saguaro cactus, some scrub, a butte and a galloping horse which make the design so unique and special. There are only five colors in shades of dark beige, a soft muted pink, two shades of clay, plus maroon, yet the design and details are just perfect. The colors seem true to what is depicted on the Amazon page for this item except for the lightest color. In the Amazon pictures the collar and bottom of the sweater look like a cream or off white shade, but my sweater looks beige in those areas (my photos make it look lighter than it does in person). The inside is neatly finished as one would expect from a sweater in this price range. This sweater can be machine washed on gentle or dry cleaned. It comes with an extra button and a length of beige cotton yarn (thread). It’s a wonderful sweater and I love it. I’m 5’4” tall and long waisted for my height, and the cardigan length works well on me. The length is listed as 20.5” and that is consistent with the measurements of my sweater. Overall, I think this is a very special and gorgeous cardigan, and it is true Pendleton style and quality. The fabric has a nice weight to it and feels soft and comfortable. It fits nicely and will definitely get a lot of use once the weather cools down. I’m so delighted to have this in my wardrobe. Read more",
+        "author": "SoYoSauce",
+        "rating": 5.0,
+        "date": "September 8, 2025",
+        "verified": false,
+        "images": [
+          "https://m.media-amazon.com/images/I/81w6wLc90FL._SY88._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/91JbF3Tz+yL._SY88._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/91zsSMNQlrL._SY88._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/91TKzWaAJnL._SY88._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/91xL1P3QPTL._SY88._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/91tbAdTuNML._SY88._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/81BWmR+uLiL._SY88._SL1500_.jpg"
+        ]
+      },
+      {
+        "title": "5.0 out of 5 stars Very nice sweater. Runs a little big for width.",
+        "body": "This sweater is very nice. It is shorter than I expected. I am busty so that may contribute. Hits me just above the waist. I would say this runs large. I got my usual shirt or sweater size and it’s an oversized feel on me in width. The quality is magnificent. It’s very warm. The colors and design are so pretty and vibrant. The material is incredibly nice. It’s is very comfortable and very warm. This would make a great sweater for a southwest look but can work into any look. Awesome for jeans or a skirt or slacks. Read more",
+        "author": "Shano",
+        "rating": 5.0,
+        "date": "November 11, 2025",
+        "verified": false,
+        "images": [
+          "https://m.media-amazon.com/images/I/81EPRjiWGhL._SY88._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/81QWAduvWBL._SY88._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/71GoiJZtXVL._SY88._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/81DcwZPjSfL._SY88._SL1500_.jpg"
+        ]
+      },
+      {
+        "title": "4.0 out of 5 stars Very Unique Jacquard-knit Desert Scenery",
+        "body": "I am a long-time Pendleton fan so wish this cardigan were executed better. The good: 1) the 100% cotton construction is substantial but not bulky so truly an all-seasons piece; 2) the color palette and \"western\" theme go perfectly together; and 3) the quality is reasonable (though expected at the price point) with no loose threads, poor stitching, or uneven seams. However, I was very disappointed to find uneven (both in shape, size, and distribution) white spots (mostly at the shoulder seams) among larger patches of darker colors, which look like sloppy execution upon closer inspection. In term of sizing: Note that I upsized for an extra relaxed fit so can't speak to \"regular\" fit; it does run a bit more cropped and more generous in cut even at a larger size. Read more",
+        "author": "Elle",
+        "rating": 4.0,
+        "date": "September 15, 2025",
+        "verified": false,
+        "images": [
+          "https://m.media-amazon.com/images/I/61l51xEMnZL._SY88._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/611fh2dmi5L._SY88._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/71rLvUxGpvL._SY88._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/51DzF1NKLDL._SY88._SL1500_.jpg"
+        ]
+      },
+      {
+        "title": "5.0 out of 5 stars Really great knit quality but runs a bit big",
+        "body": "This is a really beautiful sweater. One of my first from Pendleton and I'm really impressed with the quality. Pros: - Knit is really beautiful - it's made with really soft yarn, so it's easy to get comfy. You can wear just a tank top under it and it won't get itchy. So soft and comfy - Really nice quality - it's a heavier knit so will keep you comfortable - Collar has a beautiful shape to it - gives the sweater a nice structure - Colors are beautiful - I want to immediately go to Arizona or Montana or somewhere else with beautiful outdoors Cons: - Not necessarily a con but if you wear this without a top on underneath, it's a bit low cut. So I'd recommend planning to wear something under - Again, not necessarily a con but the fit is a bit big. I normally wear and XS or SM, and this I thought ran a bit big (or it's just a baggier fit). Would have preferred this be a bit tighter/ more fitted, so I'd size down next time Read more",
+        "author": "Customer",
+        "rating": 5.0,
+        "date": "September 21, 2025",
+        "verified": false,
+        "images": [
+          "https://m.media-amazon.com/images/I/71deeZ27cUL._SY88._SL1500_.jpg"
+        ]
+      },
+      {
+        "title": "5.0 out of 5 stars High quality and soft cardigan",
+        "body": "This is the nicest cardigan I own. It's so comfy, warm, and SOO soft. I love the cute western scene, and it will go perfectly with some jeans and my cowgirl boots. The lower neckline means you can add in additional color from your shirt to show, and wear a longer necklace with it. The sleeves are long, so you can cuff them if needed or wear them long to keep your hands warm. The fabric is heavy and stitched so well, this cardigan will last forever. Pendleton is such a high quality brand in general, and they live up to their name with this cardigan. I'm 5'7\" and 150-155lbs. The medium fits like a glove. I probably could have gotten a small too, but I like it looser. Read more",
+        "author": "Tina",
+        "rating": 5.0,
+        "date": "September 29, 2025",
+        "verified": false,
+        "images": [
+          "https://m.media-amazon.com/images/I/71HjxYzYtOL._SY88._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/81uwDyHW2yL._SY88._SL1500_.jpg"
+        ]
+      },
+      {
+        "title": "5.0 out of 5 stars Typical, high quality Pendleton clothing",
+        "body": "I'm so happy with this sweater. It is very high quality; very well constructed and 100% cotton. It is a typical Pendleton double-thick knit used for sweaters with an intarsia scenic design which gives it extra stability. It is quite soft yet firm. The design is so pretty, it reminds me of my travels through the Navajo Nation, visiting Monument Valley, Valley of the Gods, and the wild horses there. So beautiful. I ordered a size Large which is my typical Pendleton women's size. The sweater measures 44\" at the bustline measured immediately under the armpits. The sleeves measure 23.25\" from the shoulder and 16.25\" from the armpit. I've bought 6 Pendleton wool shirts, 3 wool blankets, 1 wool sweater over the years. This sweater is just as nice as the other Pendleton products I own. I think this sweater is a good value at $189 for a superior quality item that can last for decades. Read more",
+        "author": "Gemma",
+        "rating": 5.0,
+        "date": "September 8, 2025",
+        "verified": false,
+        "images": [
+          "https://m.media-amazon.com/images/I/815alNROn3L._SY88._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/819Kcx0HXpL._SY88._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/81rik6yu+TL._SY88._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/71IDwL5Q-eL._SY88._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/8153PiNEd-L._SY88._SL1500_.jpg"
+        ]
+      }
+    ]
+  },
+  "short_description": "Womens Dress is made for a polished look that still feels comfortable to wear. It is designed to sit cleanly on the body with a flattering shape that works for day plans and dressier moments without feeling overdone.\n\nThe fit focuses on balance rather than extremes, so you can move naturally while still getting a defined silhouette. Choose your usual size for a closer look, or size up if you prefer a little more ease through the waist and hips.\n\nStyling is simple: keep accessories minimal for a clean finish, or add a jacket and statement shoes when you want a sharper outfit. This piece photographs well thanks to smooth lines and a structured feel that stays put once you have it adjusted.\n\nWith the right fit and simple styling, this item becomes an easy go-to when you want something that looks intentional without requiring extra effort.\n\nThe design is easy to style with simple accessories and works well in photos thanks to clean lines and a balanced silhouette.\n\nComfort comes from both the cut and the fabric, so selecting your preferred fit makes a noticeable difference over a full day of wear.",
+  "about_this_item": "Womens Dress is made for a polished look that still feels comfortable to wear. It is designed to sit cleanly on the body with a flattering shape that works for day plans and dressier moments without feeling overdone.\n\nThe fit focuses on balance rather than extremes, so you can move naturally while still getting a defined silhouette. Choose your usual size for a closer look, or size up if you prefer a little more ease through the waist and hips.\n\nStyling is simple: keep accessories minimal for a clean finish, or add a jacket and statement shoes when you want a sharper outfit. This piece photographs well thanks to smooth lines and a structured feel that stays put once you have it adjusted.\n\nWith the right fit and simple styling, this item becomes an easy go-to when you want something that looks intentional without requiring extra effort.\n\nThe design is easy to style with simple accessories and works well in photos thanks to clean lines and a balanced silhouette.\n\nComfort comes from both the cut and the fabric, so selecting your preferred fit makes a noticeable difference over a full day of wear.",
+  "long_description": "Womens Dress is a versatile piece you can reach for when you want a put-together look that still feels comfortable. The goal is simple: a silhouette that reads polished, photographs well, and stays wearable for a full day or a long night.\n\nFit and sizing Fit is where most outfits win or lose. This design aims for a balanced shape with a defined line through the torso, a clean waist, and a smooth finish through the hips and legs. If you prefer a more relaxed feel, size up; if you like a closer fit, stay true to size. Sizes may include: XS, S, M, L, XL.\n\nFabric and comfort Comfort is not just about softness. It is also about movement and how the fabric behaves as you walk, sit, and stand. A fabric blend with a bit of give helps it keep its shape while still feeling wearable.\n\nHighlights A clean neckline and a refined silhouette for an elevated look. Designed to layer easily with jackets, wraps, or sweaters. Works well with both minimal accessories and statement pieces.\n\nHow to style Styling ideas: keep it minimal with neutral shoes and one standout accessory. For a relaxed daytime look, add a denim jacket or cardigan. For events, switch to a bolder shoe and a small clutch for a sharper finish.\n\nColor notes Available colors may include: Brick/Rose Multi. If a shade is sold out, check back as availability can change.\n\nCare Care guidance matters if you want it to keep its shape and finish. Follow the label first.",
+  "long_description_blocks": [
+    {
+      "type": "p",
+      "text": "Womens Dress is a versatile piece you can reach for when you want a put-together look that still feels comfortable. The goal is simple: a silhouette that reads polished, photographs well, and stays wearable for a full day or a long night."
+    },
+    {
+      "type": "p",
+      "text": "Fit and sizing Fit is where most outfits win or lose. This design aims for a balanced shape with a defined line through the torso, a clean waist, and a smooth finish through the hips and legs. If you prefer a more relaxed feel, size up; if you like a closer fit, stay true to size. Sizes may include: XS, S, M, L, XL."
+    },
+    {
+      "type": "img",
+      "src": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0a6a7e97-4e5d-4b73-85b6-4f61cbc9595f.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "alt": "Womens Dress details image 1"
+    },
+    {
+      "type": "p",
+      "text": "Fabric and comfort Comfort is not just about softness. It is also about movement and how the fabric behaves as you walk, sit, and stand. A fabric blend with a bit of give helps it keep its shape while still feeling wearable."
+    },
+    {
+      "type": "img",
+      "src": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e2caee44-75d8-495d-a378-4aaeb30b7a8c.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "alt": "Womens Dress details image 2"
+    },
+    {
+      "type": "p",
+      "text": "Highlights A clean neckline and a refined silhouette for an elevated look. Designed to layer easily with jackets, wraps, or sweaters. Works well with both minimal accessories and statement pieces."
+    },
+    {
+      "type": "img",
+      "src": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/76f0f4b2-b2f3-4927-a8a2-fe1115df2c29.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "alt": "Womens Dress details image 3"
+    },
+    {
+      "type": "p",
+      "text": "How to style Styling ideas: keep it minimal with neutral shoes and one standout accessory. For a relaxed daytime look, add a denim jacket or cardigan. For events, switch to a bolder shoe and a small clutch for a sharper finish."
+    },
+    {
+      "type": "img",
+      "src": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b3cfdee2-a46d-4a27-9d32-067e184da61d.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "alt": "Womens Dress details image 4"
+    },
+    {
+      "type": "p",
+      "text": "Color notes Available colors may include: Brick/Rose Multi. If a shade is sold out, check back as availability can change."
+    },
+    {
+      "type": "img",
+      "src": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8d9dd6df-e419-4924-8d88-0934aa838af1.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "alt": "Womens Dress details image 5"
+    },
+    {
+      "type": "p",
+      "text": "Care Care guidance matters if you want it to keep its shape and finish. Follow the label first."
+    }
+  ],
+  "videos": [
+    {
+      "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/15aeae1a-7674-4b16-bb55-e3b0183c78c4.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG&quot;,&quot;videoSrc&quot;:&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/15aeae1a-7674-4b16-bb55-e3b0183c78c4.mp4/productVideoOptimized.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/15aeae1a-7674-4b16-bb55-e3b0183c78c4.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG&quot;,&quot;videoSrc&quot;:&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/15aeae1a-7674-4b16-bb55-e3b0183c78c4.mp4/productVideoOptimized.mp4"
+        }
+      ]
+    },
+    {
+      "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/15aeae1a-7674-4b16-bb55-e3b0183c78c4.mp4/productVideoOptimized.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/15aeae1a-7674-4b16-bb55-e3b0183c78c4.mp4/productVideoOptimized.mp4"
+        }
+      ]
+    },
+    {
+      "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/15aeae1a-7674-4b16-bb55-e3b0183c78c4.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/15aeae1a-7674-4b16-bb55-e3b0183c78c4.mp4"
+        }
+      ]
+    },
+    {
+      "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7e61ca0f-fc0f-4653-bb57-5967527f6828.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG&quot;,&quot;videoSrc&quot;:&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7e61ca0f-fc0f-4653-bb57-5967527f6828.mp4/productVideoOptimized.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7e61ca0f-fc0f-4653-bb57-5967527f6828.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG&quot;,&quot;videoSrc&quot;:&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7e61ca0f-fc0f-4653-bb57-5967527f6828.mp4/productVideoOptimized.mp4"
+        }
+      ]
+    },
+    {
+      "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7e61ca0f-fc0f-4653-bb57-5967527f6828.mp4/productVideoOptimized.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7e61ca0f-fc0f-4653-bb57-5967527f6828.mp4/productVideoOptimized.mp4"
+        }
+      ]
+    },
+    {
+      "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7e61ca0f-fc0f-4653-bb57-5967527f6828.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7e61ca0f-fc0f-4653-bb57-5967527f6828.mp4"
+        }
+      ]
+    },
+    {
+      "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4957e7ff-4fbb-4b93-bf80-9064a4869fd5.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG&quot;,&quot;videoSrc&quot;:&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4957e7ff-4fbb-4b93-bf80-9064a4869fd5.mp4/productVideoOptimized.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4957e7ff-4fbb-4b93-bf80-9064a4869fd5.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG&quot;,&quot;videoSrc&quot;:&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4957e7ff-4fbb-4b93-bf80-9064a4869fd5.mp4/productVideoOptimized.mp4"
+        }
+      ]
+    },
+    {
+      "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4957e7ff-4fbb-4b93-bf80-9064a4869fd5.mp4/productVideoOptimized.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4957e7ff-4fbb-4b93-bf80-9064a4869fd5.mp4/productVideoOptimized.mp4"
+        }
+      ]
+    },
+    {
+      "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4957e7ff-4fbb-4b93-bf80-9064a4869fd5.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4957e7ff-4fbb-4b93-bf80-9064a4869fd5.mp4"
+        }
+      ]
+    },
+    {
+      "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4287babc-1fbc-4a08-be49-0fc29b3f41fd.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG&quot;,&quot;videoSrc&quot;:&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4287babc-1fbc-4a08-be49-0fc29b3f41fd.mp4/productVideoOptimized.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4287babc-1fbc-4a08-be49-0fc29b3f41fd.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG&quot;,&quot;videoSrc&quot;:&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4287babc-1fbc-4a08-be49-0fc29b3f41fd.mp4/productVideoOptimized.mp4"
+        }
+      ]
+    },
+    {
+      "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4287babc-1fbc-4a08-be49-0fc29b3f41fd.mp4/productVideoOptimized.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4287babc-1fbc-4a08-be49-0fc29b3f41fd.mp4/productVideoOptimized.mp4"
+        }
+      ]
+    },
+    {
+      "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4287babc-1fbc-4a08-be49-0fc29b3f41fd.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4287babc-1fbc-4a08-be49-0fc29b3f41fd.mp4"
+        }
+      ]
+    }
+  ],
+  "color_swatches": {
+    "Brick/Rose Multi": "https://m.media-amazon.com/images/I/41hoB50YuvL._AC_SR38,50_.jpg"
+  },
+  "color_image_key": {
+    "Brick/Rose Multi": "71-+29u9a2L"
+  },
+  "color_images": {
+    "Brick/Rose Multi": [
+      "https://m.media-amazon.com/images/I/71-+29u9a2L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/719buG0cWAL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81vm-djDt4L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81f+TjwG1xL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71XQxFr4EEL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81mx4wvnAEL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81MoPdX8c2L._SL1500_.jpg"
+    ]
+  },
+  "related": [
+    {
+      "id": "womens-maxi-dress",
+      "title": "Womens Maxi Dress",
+      "price": 27.35,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Cardigans",
+      "images": [
+        "https://m.media-amazon.com/images/I/81RJItg61IL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-long-sleeve",
+      "title": "Womens Maxi Dress Long Sleeve",
+      "price": 45.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Cardigans",
+      "images": [
+        "https://m.media-amazon.com/images/I/71u6KXgel8L._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-long-sleeve",
+      "title": "Womens Maxi Dress Long Sleeve",
+      "price": 67.46,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Cardigans",
+      "images": [
+        "https://m.media-amazon.com/images/I/71CnpE8wAnL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-long-sleeve",
+      "title": "Womens Maxi Dress Long Sleeve",
+      "price": 24.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Pullovers",
+      "images": [
+        "https://m.media-amazon.com/images/I/71yXQkWXyKL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-long-sleeve",
+      "title": "Womens Maxi Dress Long Sleeve",
+      "price": 41.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Pullovers",
+      "images": [
+        "https://m.media-amazon.com/images/I/91qHM7YmOFL._SL1500_.jpg"
+      ]
+    }
+  ],
+  "customer_also_viewed": [
+    {
+      "id": "womens-maxi-dress-long-sleeve",
+      "title": "Womens Maxi Dress Long Sleeve",
+      "price": 18.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Shrugs",
+      "images": [
+        "https://m.media-amazon.com/images/I/81qc9X1NsRL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-long-sleeve",
+      "title": "Womens Maxi Dress Long Sleeve",
+      "price": 12.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Pullovers",
+      "images": [
+        "https://m.media-amazon.com/images/I/81rn7svXhHL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-long-sleeve",
+      "title": "Womens Maxi Dress Long Sleeve",
+      "price": 35.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Cardigans",
+      "images": [
+        "https://m.media-amazon.com/images/I/81B5RIYgD9L._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-long-sleeve",
+      "title": "Womens Maxi Dress Long Sleeve",
+      "price": 39.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Pullovers",
+      "images": [
+        "https://m.media-amazon.com/images/I/71juNmh+4iL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-long-sleeve",
+      "title": "Womens Maxi Dress Long Sleeve",
+      "price": 42.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Cardigans",
+      "images": [
+        "https://m.media-amazon.com/images/I/61fM3H1wEeL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress",
+      "title": "Womens Maxi Dress",
+      "price": 19.2,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Pullovers",
+      "images": [
+        "https://m.media-amazon.com/images/I/718uIhrxKtL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-long-sleeve",
+      "title": "Womens Maxi Dress Long Sleeve",
+      "price": 155.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Pullovers",
+      "images": [
+        "https://m.media-amazon.com/images/I/91HRGuHerUL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-long-sleeve",
+      "title": "Womens Maxi Dress Long Sleeve",
+      "price": 41.42,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Pullovers",
+      "images": [
+        "https://m.media-amazon.com/images/I/81D2vBOHaOL._SL1500_.jpg"
+      ]
+    }
+  ],
+  "slug": "womens-dress-b0dzk2wnm8"
+}

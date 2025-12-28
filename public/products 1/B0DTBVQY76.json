@@ -1,0 +1,505 @@
+{
+  "id": "womens-maxi-dress",
+  "handle": "womens-maxi-dress",
+  "sku": "JC1831",
+  "asin": "B0DTBVQY76",
+  "title": "Womens Maxi Dress",
+  "title_original": "Long Glitter Lace Peplum Dress W/an Overlay Jacket & Rhinestone Buckle",
+  "brand": "R&M Richards",
+  "price": 140.88,
+  "social_proof": {
+    "bought_past_month": 244,
+    "text": "244+ bought in the past month"
+  },
+  "images": [
+    "https://m.media-amazon.com/images/I/81KBYKOx4OL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/91y9DfwTAYL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81rRvERd84L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/811zweFm-jL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81eWM6CoDoL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81waaejlvfL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81AAQKV7DlL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81TDumf4r2L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/917EI8tiqIL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81koJNWRi2L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/812w0aZZxOL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81oHEvUR7rL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81B4wudBhwL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81RPXX+MCvL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81pH9+GDGtL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71i6wJNGZEL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71KPZQ8FsyL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71uUStNihCL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81xLBbdqXzL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81AmD03J6IL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/812+6I6ApjL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81Tgj3j8g3L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71Dc-RDokgL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71ntn-R++9L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71nstMZ8k4L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71h0EXAFCDL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81lrwZSbICL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81oSNr213bL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81nn+gIboRL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/91nFaDJtDYL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71wNT3RS89L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71qtIXaMRlL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81RpXSTn0QL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81PMnbP49sL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81NhX5a70HL._SL1500_.jpg"
+  ],
+  "gallery_images": [
+    "https://m.media-amazon.com/images/I/81KBYKOx4OL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/91y9DfwTAYL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81rRvERd84L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/811zweFm-jL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81eWM6CoDoL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81waaejlvfL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81AAQKV7DlL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81TDumf4r2L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/917EI8tiqIL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81koJNWRi2L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/812w0aZZxOL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81oHEvUR7rL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81B4wudBhwL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81RPXX+MCvL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81pH9+GDGtL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71i6wJNGZEL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71KPZQ8FsyL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71uUStNihCL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81xLBbdqXzL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81AmD03J6IL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/812+6I6ApjL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81Tgj3j8g3L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71Dc-RDokgL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71ntn-R++9L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71nstMZ8k4L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71h0EXAFCDL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81lrwZSbICL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81oSNr213bL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81nn+gIboRL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/91nFaDJtDYL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71wNT3RS89L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71qtIXaMRlL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81RpXSTn0QL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81PMnbP49sL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81NhX5a70HL._SL1500_.jpg"
+  ],
+  "aplus_images": [],
+  "description_images": [],
+  "bullets": [],
+  "specs": {
+    "Department ‏": "‎ womens",
+    "Date First Available ‏": "‎ October 29, 2024",
+    "Manufacturer ‏": "‎ R&M Richards",
+    "ASIN ‏": "‎ B0DLBVHJ1D",
+    "Best Sellers Rank": "#366,426 in Clothing, Shoes & Jewelry ( See Top 100 in Clothing, Shoes & Jewelry ) #2,303 in Women's Formal Dresses",
+    "Customer Reviews": "4.5 4.5 out of 5 stars (9)"
+  },
+  "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Formal",
+  "variations": {
+    "sizes": [
+      "5",
+      "5.5",
+      "6",
+      "6.5",
+      "7",
+      "7.5",
+      "8",
+      "8.5",
+      "9",
+      "9.5",
+      "10",
+      "11"
+    ],
+    "colors": [
+      "Orchid",
+      "Wine",
+      "Blue",
+      "Rose",
+      "Champagne"
+    ],
+    "size_chart": {
+      "label": "Size chart",
+      "href": "javascript:void(0)",
+      "html": null
+    }
+  },
+  "reviews": {
+    "average_rating": 4.5,
+    "count": 9,
+    "customers_say": "Customers love the dress's fit and find it gorgeous. The glitter content receives mixed feedback, with one customer noting that the glitter stays put during wear. Generated from the text of customer reviews Select to learn more Fit (4) Elegance (3) Glitter content (3) 4 customers mention fit, 3 positive, 1 negative 4 customers mention \"Fit\" 3 positive 1 negative Customers love how the dress fits, with one mentioning they can carefully slip it over their head. \" I bought it for my daughter's wedding. I love the fit and quality. It was the fourth dress that I purchased. \" Read more \" ...It’s classy & understatedly elegant, & I can carefully slip it over my head & never touch the back zipper!... \" Read more \" This was a gorgeous dress! It was too long for me . I’m 5’2 and it just didn’t work for me. Otherwise it was true to size. \" Read more \" ...It has a lot of glitter falling from it so be ready for that. Well made fit was true to size! It has stretch to the fabric. I did have to hem it!... \" Read more 3 customers mention elegance, 3 positive, 0 negative 3 customers mention \"Elegance\" 3 positive 0 negative Customers find the dress gorgeous. \" This was a gorgeous dress ! It was too long for me. I’m 5’2 and it just didn’t work for me. Otherwise it was true to size. \" Read more \" This is a beautiful dress ! It has a lot of glitter falling from it so be ready for that. Well made fit was true to size!... \" Read more \" ...It’s classy & understatedly elegant, & I can carefully slip it over my head & never touch the back zipper!... \" Read more 3 customers mention glitter content, 2 positive, 1 negative 3 customers mention \"Glitter content\" 2 positive 1 negative Customers have mixed opinions about the glitter content of the dress, with one customer noting that the glitter stays put while another mentions it falls off during wear. \" ...hue, & unlike the dusty pink rose I tried on locally, none of the glitter came off the dress or the jacket when I tried it on, which is fabulous! \" Read more \" This is a beautiful dress! It has a lot of glitter falling from it so be ready for that. Well made fit was true to size!... \" Read more \" A lot of glitter !... \" Read more",
+    "items": [
+      {
+        "title": "5.0 out of 5 stars A lot of glitter!",
+        "body": "This is a beautiful dress! It has a lot of glitter falling from it so be ready for that. Well made fit was true to size! It has stretch to the fabric. I did have to hem it! It made for a beautiful mother of the Groom outfit! Read more",
+        "author": "cozette bradley",
+        "rating": 5.0,
+        "date": "December 1, 2025",
+        "verified": false,
+        "images": []
+      },
+      {
+        "title": "5.0 out of 5 stars Gorgeous, & the glitter stays put—on the dress!",
+        "body": "I tried this on in a different shade in a local department store; it’s a popular style. I knew I needed a size 8, & this dress/peplum jacket combo doesn’t disappoint. It’s classy & understatedly elegant, & I can carefully slip it over my head & never touch the back zipper! It has enough stretch that I don’t need to unzip it at all, which is great because there’s no one to assist me. It’s a gorgeous deep cranberry hue, & unlike the dusty pink rose I tried on locally, none of the glitter came off the dress or the jacket when I tried it on, which is fabulous! Read more",
+        "author": "Teresa Lewis Watts",
+        "rating": 5.0,
+        "date": "October 29, 2025",
+        "verified": false,
+        "images": []
+      },
+      {
+        "title": "5.0 out of 5 stars Love it!",
+        "body": "I bought it for my daughter's wedding. I love the fit and quality. It was the fourth dress that I purchased. Read more",
+        "author": "Michelle",
+        "rating": 5.0,
+        "date": "April 30, 2025",
+        "verified": false,
+        "images": []
+      },
+      {
+        "title": "5.0 out of 5 stars Pretty and elegant dress",
+        "body": "This was a gorgeous dress! It was too long for me. I’m 5’2 and it just didn’t work for me. Otherwise it was true to size. Read more",
+        "author": "C.L.",
+        "rating": 5.0,
+        "date": "December 20, 2025",
+        "verified": false,
+        "images": []
+      },
+      {
+        "title": "5.0 out of 5 stars Grandmother wedding dress",
+        "body": "This is very flattering on an apple or pear figure for elder lady. The jacket is an added bonus! Read more",
+        "author": "Jason King",
+        "rating": 5.0,
+        "date": "September 16, 2025",
+        "verified": false,
+        "images": []
+      }
+    ]
+  },
+  "short_description": "Womens Maxi Dress is made for a polished look that still feels comfortable to wear. It is designed to sit cleanly on the body with a flattering shape that works for day plans and dressier moments without feeling overdone.\n\nThe fit focuses on balance rather than extremes, so you can move naturally while still getting a defined silhouette. Choose your usual size for a closer look, or size up if you prefer a little more ease through the waist and hips.\n\nStyling is simple: keep accessories minimal for a clean finish, or add a jacket and statement shoes when you want a sharper outfit. This piece photographs well thanks to smooth lines and a structured feel that stays put once you have it adjusted.\n\nWith the right fit and simple styling, this item becomes an easy go-to when you want something that looks intentional without requiring extra effort.\n\nIf you are between sizes, choose based on how close you like the fit through the waist and hips, then adjust with your usual layering choices.\n\nThe design is easy to style with simple accessories and works well in photos thanks to clean lines and a balanced silhouette.",
+  "about_this_item": "Womens Maxi Dress is made for a polished look that still feels comfortable to wear. It is designed to sit cleanly on the body with a flattering shape that works for day plans and dressier moments without feeling overdone.\n\nThe fit focuses on balance rather than extremes, so you can move naturally while still getting a defined silhouette. Choose your usual size for a closer look, or size up if you prefer a little more ease through the waist and hips.\n\nStyling is simple: keep accessories minimal for a clean finish, or add a jacket and statement shoes when you want a sharper outfit. This piece photographs well thanks to smooth lines and a structured feel that stays put once you have it adjusted.\n\nWith the right fit and simple styling, this item becomes an easy go-to when you want something that looks intentional without requiring extra effort.\n\nIf you are between sizes, choose based on how close you like the fit through the waist and hips, then adjust with your usual layering choices.\n\nThe design is easy to style with simple accessories and works well in photos thanks to clean lines and a balanced silhouette.",
+  "long_description": "Womens Maxi Dress is a versatile piece you can reach for when you want a put-together look that still feels comfortable. The goal is simple: a silhouette that reads polished, photographs well, and stays wearable for a full day or a long night.\n\nFit and sizing Fit is where most outfits win or lose. This design aims for a balanced shape with a defined line through the torso, a clean waist, and a smooth finish through the hips and legs. If you prefer a more relaxed feel, size up; if you like a closer fit, stay true to size. Sizes may include: 5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 11.\n\nFabric and comfort Comfort is not just about softness. It is also about movement and how the fabric behaves as you walk, sit, and stand. A fabric blend with a bit of give helps it keep its shape while still feeling wearable.\n\nHighlights A clean neckline and a refined silhouette for an elevated look. Designed to layer easily with jackets, wraps, or sweaters. Works well with both minimal accessories and statement pieces.\n\nHow to style Styling ideas: keep it minimal with neutral shoes and one standout accessory. For a relaxed daytime look, add a denim jacket or cardigan. For events, switch to a bolder shoe and a small clutch for a sharper finish.\n\nColor notes Available colors may include: Orchid, Wine, Blue, Rose, Champagne. If a shade is sold out, check back as availability can change.\n\nCare Care guidance matters if you want it to keep its shape and finish. Follow the label first.",
+  "long_description_blocks": [
+    {
+      "type": "p",
+      "text": "Womens Maxi Dress is a versatile piece you can reach for when you want a put-together look that still feels comfortable. The goal is simple: a silhouette that reads polished, photographs well, and stays wearable for a full day or a long night."
+    },
+    {
+      "type": "p",
+      "text": "Fit and sizing Fit is where most outfits win or lose. This design aims for a balanced shape with a defined line through the torso, a clean waist, and a smooth finish through the hips and legs. If you prefer a more relaxed feel, size up; if you like a closer fit, stay true to size. Sizes may include: 5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 11."
+    },
+    {
+      "type": "p",
+      "text": "Fabric and comfort Comfort is not just about softness. It is also about movement and how the fabric behaves as you walk, sit, and stand. A fabric blend with a bit of give helps it keep its shape while still feeling wearable."
+    },
+    {
+      "type": "p",
+      "text": "Highlights A clean neckline and a refined silhouette for an elevated look. Designed to layer easily with jackets, wraps, or sweaters. Works well with both minimal accessories and statement pieces."
+    },
+    {
+      "type": "p",
+      "text": "How to style Styling ideas: keep it minimal with neutral shoes and one standout accessory. For a relaxed daytime look, add a denim jacket or cardigan. For events, switch to a bolder shoe and a small clutch for a sharper finish."
+    },
+    {
+      "type": "p",
+      "text": "Color notes Available colors may include: Orchid, Wine, Blue, Rose, Champagne. If a shade is sold out, check back as availability can change."
+    },
+    {
+      "type": "p",
+      "text": "Care Care guidance matters if you want it to keep its shape and finish. Follow the label first."
+    }
+  ],
+  "videos": [
+    {
+      "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1a51dce4-2eee-4087-880d-72dcd77b81b1.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG&quot;,&quot;videoSrc&quot;:&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1a51dce4-2eee-4087-880d-72dcd77b81b1.mp4/productVideoOptimized.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1a51dce4-2eee-4087-880d-72dcd77b81b1.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG&quot;,&quot;videoSrc&quot;:&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1a51dce4-2eee-4087-880d-72dcd77b81b1.mp4/productVideoOptimized.mp4"
+        }
+      ]
+    },
+    {
+      "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1a51dce4-2eee-4087-880d-72dcd77b81b1.mp4/productVideoOptimized.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1a51dce4-2eee-4087-880d-72dcd77b81b1.mp4/productVideoOptimized.mp4"
+        }
+      ]
+    },
+    {
+      "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1a51dce4-2eee-4087-880d-72dcd77b81b1.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1a51dce4-2eee-4087-880d-72dcd77b81b1.mp4"
+        }
+      ]
+    },
+    {
+      "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/184d16e3-f9a1-4932-8554-0c0eb897278b.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG&quot;,&quot;videoSrc&quot;:&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/184d16e3-f9a1-4932-8554-0c0eb897278b.mp4/productVideoOptimized.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/184d16e3-f9a1-4932-8554-0c0eb897278b.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG&quot;,&quot;videoSrc&quot;:&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/184d16e3-f9a1-4932-8554-0c0eb897278b.mp4/productVideoOptimized.mp4"
+        }
+      ]
+    },
+    {
+      "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/184d16e3-f9a1-4932-8554-0c0eb897278b.mp4/productVideoOptimized.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/184d16e3-f9a1-4932-8554-0c0eb897278b.mp4/productVideoOptimized.mp4"
+        }
+      ]
+    },
+    {
+      "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/184d16e3-f9a1-4932-8554-0c0eb897278b.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/184d16e3-f9a1-4932-8554-0c0eb897278b.mp4"
+        }
+      ]
+    },
+    {
+      "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b16890c9-bebc-447a-98a6-e8922fb8b79a.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG&quot;,&quot;videoSrc&quot;:&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b16890c9-bebc-447a-98a6-e8922fb8b79a.mp4/productVideoOptimized.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b16890c9-bebc-447a-98a6-e8922fb8b79a.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG&quot;,&quot;videoSrc&quot;:&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b16890c9-bebc-447a-98a6-e8922fb8b79a.mp4/productVideoOptimized.mp4"
+        }
+      ]
+    },
+    {
+      "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b16890c9-bebc-447a-98a6-e8922fb8b79a.mp4/productVideoOptimized.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b16890c9-bebc-447a-98a6-e8922fb8b79a.mp4/productVideoOptimized.mp4"
+        }
+      ]
+    },
+    {
+      "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b16890c9-bebc-447a-98a6-e8922fb8b79a.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b16890c9-bebc-447a-98a6-e8922fb8b79a.mp4"
+        }
+      ]
+    },
+    {
+      "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/ddf84279-5ded-42f9-9155-d33dbccfa6cf.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG&quot;,&quot;videoSrc&quot;:&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/ddf84279-5ded-42f9-9155-d33dbccfa6cf.mp4/productVideoOptimized.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/ddf84279-5ded-42f9-9155-d33dbccfa6cf.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG&quot;,&quot;videoSrc&quot;:&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/ddf84279-5ded-42f9-9155-d33dbccfa6cf.mp4/productVideoOptimized.mp4"
+        }
+      ]
+    },
+    {
+      "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/ddf84279-5ded-42f9-9155-d33dbccfa6cf.mp4/productVideoOptimized.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/ddf84279-5ded-42f9-9155-d33dbccfa6cf.mp4/productVideoOptimized.mp4"
+        }
+      ]
+    },
+    {
+      "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/ddf84279-5ded-42f9-9155-d33dbccfa6cf.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/ddf84279-5ded-42f9-9155-d33dbccfa6cf.mp4"
+        }
+      ]
+    }
+  ],
+  "color_swatches": {
+    "Orchid": "https://m.media-amazon.com/images/I/41LCgDysi+L._AC_SR38,50_.jpg",
+    "Wine": "https://m.media-amazon.com/images/I/41jBJq2OLSL._AC_SR38,50_.jpg",
+    "Blue": "https://m.media-amazon.com/images/I/41WA6SskEML._AC_SR38,50_.jpg",
+    "Rose": "https://m.media-amazon.com/images/I/31nnZi+Oj2L._AC_SR38,50_.jpg",
+    "Champagne": "https://m.media-amazon.com/images/I/317vFBpH63L._AC_SR38,50_.jpg"
+  },
+  "color_image_key": {
+    "Orchid": "81TDumf4r2L",
+    "Wine": "81pH9+GDGtL",
+    "Blue": "81KBYKOx4OL",
+    "Rose": "81Tgj3j8g3L",
+    "Champagne": "81nn+gIboRL"
+  },
+  "color_images": {
+    "Orchid": [
+      "https://m.media-amazon.com/images/I/81TDumf4r2L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/917EI8tiqIL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81koJNWRi2L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/812w0aZZxOL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81oHEvUR7rL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81B4wudBhwL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81RPXX+MCvL._SL1500_.jpg"
+    ],
+    "Wine": [
+      "https://m.media-amazon.com/images/I/81pH9+GDGtL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71i6wJNGZEL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71KPZQ8FsyL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71uUStNihCL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81xLBbdqXzL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81AmD03J6IL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/812+6I6ApjL._SL1500_.jpg"
+    ],
+    "Blue": [
+      "https://m.media-amazon.com/images/I/81KBYKOx4OL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91y9DfwTAYL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81rRvERd84L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/811zweFm-jL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81eWM6CoDoL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81waaejlvfL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81AAQKV7DlL._SL1500_.jpg"
+    ],
+    "Rose": [
+      "https://m.media-amazon.com/images/I/81Tgj3j8g3L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71Dc-RDokgL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71ntn-R++9L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71nstMZ8k4L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71h0EXAFCDL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81lrwZSbICL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81oSNr213bL._SL1500_.jpg"
+    ],
+    "Champagne": [
+      "https://m.media-amazon.com/images/I/81nn+gIboRL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91nFaDJtDYL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71wNT3RS89L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71qtIXaMRlL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81RpXSTn0QL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81PMnbP49sL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81NhX5a70HL._SL1500_.jpg"
+    ]
+  },
+  "related": [
+    {
+      "id": "womens-maxi-dress-bodycon-long-sleeve",
+      "title": "Womens Maxi Dress Bodycon Long Sleeve",
+      "price": 41.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Casual",
+      "images": [
+        "https://m.media-amazon.com/images/I/81B0EWBbxbL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-dress",
+      "title": "Womens Dress",
+      "price": 295.0,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Club & Night Out",
+      "images": [
+        "https://m.media-amazon.com/images/I/51tOCtnN9ML._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-dress-formal-cocktail-evening",
+      "title": "Womens Dress Formal Cocktail Evening",
+      "price": 59.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Formal",
+      "images": [
+        "https://m.media-amazon.com/images/I/71ctK4kwdWL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-mermaid-short-sleeve-formal",
+      "title": "Womens Maxi Dress Mermaid Short Sleeve Formal",
+      "price": 79.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Formal",
+      "images": [
+        "https://m.media-amazon.com/images/I/61ODaWZ8uJL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-dress",
+      "title": "Womens Dress",
+      "price": 95.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Formal",
+      "images": [
+        "https://m.media-amazon.com/images/I/41vU0V-3D0L._SL1500_.jpg"
+      ]
+    }
+  ],
+  "customer_also_viewed": [
+    {
+      "id": "womens-maxi-dress-maxi",
+      "title": "Womens Maxi Dress Maxi",
+      "price": 59.9,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Casual",
+      "images": [
+        "https://m.media-amazon.com/images/I/61-GMo0HHjL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-sleeveless-off-shoulder",
+      "title": "Womens Maxi Dress Sleeveless Off Shoulder",
+      "price": 42.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Casual",
+      "images": [
+        "https://m.media-amazon.com/images/I/51oz3E7J01L._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-bodycon-long-sleeve-cocktail",
+      "title": "Womens Maxi Dress Bodycon Long Sleeve Cocktail",
+      "price": 37.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Club & Night Out",
+      "images": [
+        "https://m.media-amazon.com/images/I/71d0VKSCOzL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-sleeveless-v-neck-mermaid",
+      "title": "Womens Maxi Dress Sleeveless V Neck Mermaid",
+      "price": 98.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Formal",
+      "images": [
+        "https://m.media-amazon.com/images/I/619RXI5CEML._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-cocktail-long-sleeve-maxi",
+      "title": "Womens Maxi Dress Cocktail Long Sleeve Maxi",
+      "price": 49.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Cocktail",
+      "images": [
+        "https://m.media-amazon.com/images/I/615VfveT48L._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-dress",
+      "title": "Womens Dress",
+      "price": 126.0,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Casual",
+      "images": [
+        "https://m.media-amazon.com/images/I/714Cs9MTO9L._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-long-sleeve-maxi-v-neck",
+      "title": "Womens Maxi Dress Long Sleeve Maxi V Neck",
+      "price": 53.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Formal",
+      "images": [
+        "https://m.media-amazon.com/images/I/713UUM+RilL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-long-sleeve",
+      "title": "Womens Maxi Dress Long Sleeve",
+      "price": 47.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Club & Night Out",
+      "images": [
+        "https://m.media-amazon.com/images/I/71uTg9+55yL._SL1500_.jpg"
+      ]
+    }
+  ]
+}

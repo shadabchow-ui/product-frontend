@@ -1,0 +1,546 @@
+{
+  "id": "womens-dress",
+  "handle": "womens-dress-b09f5pf3kk",
+  "sku": "JC1023",
+  "asin": "B09F5PF3KK",
+  "title": "Womens Dress",
+  "title_original": "Sovoyontee Women's Cute Funny Ugly Christmas Sweater Puff Sleeve Snowflake Reindeer Holiday Oversized Knit Pullover",
+  "brand": "Sovoyontee",
+  "price": 27.99,
+  "social_proof": {
+    "bought_past_month": 77,
+    "text": "77+ bought in the past month"
+  },
+  "images": [
+    "https://m.media-amazon.com/images/I/71FJNOg3RcL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71I16AAJbjL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/613oRMPDl6L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71lW1SOuGaL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/617HPSHEsaL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71CBBCRMSiL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71FuO8ODLaL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71wjqWGdpTL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61DLYCPjESL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71iO1h5ZDYL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61HklRwYGLL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71AnugN12JL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61H19vHSVyL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71vJjTtW1PL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71d5W5xz1hL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71igiQKSS0L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/719ULZWyRRL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/716tskI8V7L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71IvUI8vtWL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81NITEfU34L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/715B2yOpT2L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71gT1Mz1XML._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71YjYlkFrML._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61xsQ4SaBrL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71wgXatwKOL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61zR5TrnwDL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71vSyLJlChL._SL1500_.jpg"
+  ],
+  "gallery_images": [
+    "https://m.media-amazon.com/images/I/71FJNOg3RcL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71I16AAJbjL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/613oRMPDl6L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71lW1SOuGaL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/617HPSHEsaL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71CBBCRMSiL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71FuO8ODLaL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71wjqWGdpTL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61DLYCPjESL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71iO1h5ZDYL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61HklRwYGLL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71AnugN12JL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61H19vHSVyL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71vJjTtW1PL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71d5W5xz1hL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71igiQKSS0L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/719ULZWyRRL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/716tskI8V7L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71IvUI8vtWL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81NITEfU34L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/715B2yOpT2L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71gT1Mz1XML._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71YjYlkFrML._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61xsQ4SaBrL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71wgXatwKOL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61zR5TrnwDL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71vSyLJlChL._SL1500_.jpg"
+  ],
+  "aplus_images": [
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/40e81d24-05e0-428e-96bd-4b1f6cb0c076.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6552fc9e-a4ae-44c5-8d46-def6169da311.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/db20b8ec-954c-4f78-b5be-8b97637ccdf4.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/65bd67c4-1127-4b32-96b3-78d69a110bed.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e5670d09-9cd6-4370-bb3a-5853291ca846.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+    "https://m.media-amazon.com/images/I/519js616qhL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/415COhBl96L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/415zCR4eRIL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41uygE3JrrL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41VCW5BrINL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/31O8-4vMPjL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41cHwhjdt4L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41gESbZVBCL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/51b-i%2BSyObL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41ImN1RNdHL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/51UyHvdYygL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/51Il10FlqYL._SL1500_.jpg"
+  ],
+  "description_images": [
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/40e81d24-05e0-428e-96bd-4b1f6cb0c076.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6552fc9e-a4ae-44c5-8d46-def6169da311.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/db20b8ec-954c-4f78-b5be-8b97637ccdf4.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/65bd67c4-1127-4b32-96b3-78d69a110bed.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e5670d09-9cd6-4370-bb3a-5853291ca846.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+    "https://m.media-amazon.com/images/I/519js616qhL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/415COhBl96L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/415zCR4eRIL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41uygE3JrrL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41VCW5BrINL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/31O8-4vMPjL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41cHwhjdt4L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41gESbZVBCL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/51b-i%2BSyObL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41ImN1RNdHL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/51UyHvdYygL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/51Il10FlqYL._SL1500_.jpg"
+  ],
+  "bullets": [],
+  "specs": {
+    "Item model number ‏": "‎ SVPSE3031",
+    "Department ‏": "‎ womens",
+    "Date First Available ‏": "‎ August 28, 2020",
+    "ASIN ‏": "‎ B08PD6781X",
+    "Best Sellers Rank": "#116,031 in Clothing, Shoes & Jewelry ( See Top 100 in Clothing, Shoes & Jewelry ) #1,257 in Women's Pullover Sweaters",
+    "Customer Reviews": "4.3 4.3 out of 5 stars (539)"
+  },
+  "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Pullovers",
+  "category_path": [
+    "Clothing, Shoes & Jewelry",
+    "Women",
+    "Clothing",
+    "Sweaters",
+    "Pullovers"
+  ],
+  "category_slug": "clothing-shoes-jewelry/women/clothing/sweaters/pullovers",
+  "category_leaf": "Pullovers",
+  "variations": {
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Red - Alpaca With Scarf and Glasses",
+      "Red - Cat in Santa Hat",
+      "Red-alpaca",
+      "Light Grey-chipmunk",
+      "Red - Clown Reindeer With Bell",
+      "Gray-snowmen",
+      "Red-reindeer",
+      "Ruby-snowmen",
+      "Red - Snowman With Hat & Scarf"
+    ],
+    "size_chart": {
+      "label": "Size chart",
+      "href": "javascript:void(0)",
+      "html": "<table class=\"a-bordered a-size-base\" id=\"fit-sizechartv2-0-table-0\"><tr><th>Brand Size</th><th>Bust (in)</th><th>Waist (in)</th><th>Hip (in)</th><th>Sleeve Length (in)</th><th>Shoulder (in)</th><th>HemLength (in)</th><th>Length (in)</th></tr><tr><th>S</th><td class=\"a-nowrap\">37</td><td class=\"a-nowrap\">24.4</td><td class=\"a-nowrap\">37</td><td class=\"a-nowrap\">17.7</td><td class=\"a-nowrap\">25.2</td><td class=\"a-nowrap\">26</td><td class=\"a-nowrap\">61.4</td></tr><tr><th>M</th><td class=\"a-nowrap\">37.8</td><td class=\"a-nowrap\">26</td><td class=\"a-nowrap\">38.6</td><td class=\"a-nowrap\">18.1</td><td class=\"a-nowrap\">25.6</td><td class=\"a-nowrap\">26.4</td><td class=\"a-nowrap\">63</td></tr><tr><th>L</th><td class=\"a-nowrap\">39.4</td><td class=\"a-nowrap\">27.6</td><td class=\"a-nowrap\">40.2</td><td class=\"a-nowrap\">18.5</td><td class=\"a-nowrap\">26.2</td><td class=\"a-nowrap\">27.2</td><td class=\"a-nowrap\">64.6</td></tr><tr><th>XL</th><td class=\"a-nowrap\">42.5</td><td class=\"a-nowrap\">34.6</td><td class=\"a-nowrap\">43.3</td><td class=\"a-nowrap\">18.9</td><td class=\"a-nowrap\">26.8</td><td class=\"a-nowrap\">27.9</td><td class=\"a-nowrap\">66.9</td></tr></table>"
+    }
+  },
+  "reviews": {
+    "average_rating": 4.3,
+    "count": 539,
+    "customers_say": "Customers find the Christmas sweater cute, soft, and of great quality, with a great fit. Customers disagree on the sizing, with some finding it perfect while others say it runs small.",
+    "items": [
+      {
+        "title": "5.0 out of 5 stars Super cute for a cat lover",
+        "body": "Best Holiday sweater for CHONKY cat lovers! Warm. True to size. A little itchy. Super cute! My slim, 12 year old girl loved the slouchy look. Read more",
+        "author": "GG Top",
+        "rating": 5.0,
+        "date": "April 13, 2025",
+        "verified": false,
+        "images": []
+      },
+      {
+        "title": "5.0 out of 5 stars Not an ugly sweater - it’s cute",
+        "body": "I have worn the sweater once, and received several compliments. I put a white blouse beneath, and it really looked sharp. I love the puffy sleeves, too. Read more",
+        "author": "Jan Abendroth",
+        "rating": 5.0,
+        "date": "December 15, 2024",
+        "verified": false,
+        "images": []
+      },
+      {
+        "title": "4.0 out of 5 stars Cute and comfy",
+        "body": "Very cute and good quality. Read more",
+        "author": "Kathleen Wayne",
+        "rating": 4.0,
+        "date": "August 26, 2025",
+        "verified": false,
+        "images": []
+      },
+      {
+        "title": "5.0 out of 5 stars Cutest Ugly Sweater",
+        "body": "This is a really nice sweater, great quality, and super adorable! Even cuter in person. Love the puffy sleeves, too. It was a bit smaller than expected for an “oversized” sweater. If you actually want oversized I’d go a size up. I got a medium and it fits perfectly, but not oversized as it says. I can’t wait to wear it to my family party! Read more",
+        "author": "Laney B",
+        "rating": 5.0,
+        "date": "November 22, 2022",
+        "verified": false,
+        "images": []
+      },
+      {
+        "title": "5.0 out of 5 stars Super cute!",
+        "body": "This holiday sweater is adorable! It is comfortable and cute. Two of the bells have come off in the wash, but they were easy to sew back on. Read more",
+        "author": "Karen Gerbec",
+        "rating": 5.0,
+        "date": "December 3, 2023",
+        "verified": false,
+        "images": []
+      },
+      {
+        "title": "5.0 out of 5 stars <Not Ugly> Christmas Sweater",
+        "body": "Bought for an ugly Christmas Sweater party, but it’s not ugly at all! Love this sweater!! Comfy, soft and pretty! Read more",
+        "author": "JRichardson",
+        "rating": 5.0,
+        "date": "December 29, 2023",
+        "verified": false,
+        "images": [
+          "https://m.media-amazon.com/images/I/81mg0q7rL4L._SY88._SL1500_.jpg"
+        ]
+      },
+      {
+        "title": "3.0 out of 5 stars Okay not what expected",
+        "body": "The sleeves weren't puffy like said and it shrunk a bit when I washed it in cold water, I and people liked it. The bells came off and I had to put them back on Read more",
+        "author": "Webb",
+        "rating": 3.0,
+        "date": "December 26, 2024",
+        "verified": false,
+        "images": []
+      },
+      {
+        "title": "5.0 out of 5 stars Jania",
+        "body": "I loved my sweater shirt, is beautiful, great material, it attended my expectations. Read more",
+        "author": "Jania Catarina Nemelka",
+        "rating": 5.0,
+        "date": "December 2, 2023",
+        "verified": false,
+        "images": []
+      }
+    ]
+  },
+  "short_description": "Womens Dress is made for a polished look that still feels comfortable to wear. It is designed to sit cleanly on the body with a flattering shape that works for day plans and dressier moments without feeling overdone.\n\nThe fit focuses on balance rather than extremes, so you can move naturally while still getting a defined silhouette. Choose your usual size for a closer look, or size up if you prefer a little more ease through the waist and hips.\n\nStyling is simple: keep accessories minimal for a clean finish, or add a jacket and statement shoes when you want a sharper outfit. This piece photographs well thanks to smooth lines and a structured feel that stays put once you have it adjusted.\n\nWith the right fit and simple styling, this item becomes an easy go-to when you want something that looks intentional without requiring extra effort.\n\nTo keep it looking sharp, follow the care label first and avoid high heat when drying or steaming if the material is sensitive.\n\nTo keep it looking sharp, follow the care label first and avoid high heat when drying or steaming if the material is sensitive.",
+  "about_this_item": "Womens Dress is made for a polished look that still feels comfortable to wear. It is designed to sit cleanly on the body with a flattering shape that works for day plans and dressier moments without feeling overdone.\n\nThe fit focuses on balance rather than extremes, so you can move naturally while still getting a defined silhouette. Choose your usual size for a closer look, or size up if you prefer a little more ease through the waist and hips.\n\nStyling is simple: keep accessories minimal for a clean finish, or add a jacket and statement shoes when you want a sharper outfit. This piece photographs well thanks to smooth lines and a structured feel that stays put once you have it adjusted.\n\nWith the right fit and simple styling, this item becomes an easy go-to when you want something that looks intentional without requiring extra effort.\n\nTo keep it looking sharp, follow the care label first and avoid high heat when drying or steaming if the material is sensitive.\n\nTo keep it looking sharp, follow the care label first and avoid high heat when drying or steaming if the material is sensitive.",
+  "long_description": "Womens Dress is a versatile piece you can reach for when you want a put-together look that still feels comfortable. The goal is simple: a silhouette that reads polished, photographs well, and stays wearable for a full day or a long night.\n\nFit and sizing Fit is where most outfits win or lose. This design aims for a balanced shape with a defined line through the torso, a clean waist, and a smooth finish through the hips and legs. If you prefer a more relaxed feel, size up; if you like a closer fit, stay true to size. Sizes may include: One Size.\n\nFabric and comfort Comfort is not just about softness. It is also about movement and how the fabric behaves as you walk, sit, and stand. A fabric blend with a bit of give helps it keep its shape while still feeling wearable.\n\nHighlights A clean neckline and a refined silhouette for an elevated look. Designed to layer easily with jackets, wraps, or sweaters. Works well with both minimal accessories and statement pieces.\n\nHow to style Styling ideas: keep it minimal with neutral shoes and one standout accessory. For a relaxed daytime look, add a denim jacket or cardigan. For events, switch to a bolder shoe and a small clutch for a sharper finish.\n\nColor notes Available colors may include: Red - Alpaca With Scarf and Glasses, Red - Cat in Santa Hat, Red-alpaca, Light Grey-chipmunk, Red - Clown Reindeer With Bell, Gray-snowmen, Red-reindeer, Ruby-snowmen, Red - Snowman With Hat & Scarf. If a shade is sold out, check back as availability can change.\n\nCare Care guidance matters if you want it to keep its shape and finish. Follow the label first.",
+  "long_description_blocks": [
+    {
+      "type": "p",
+      "text": "Womens Dress is a versatile piece you can reach for when you want a put-together look that still feels comfortable. The goal is simple: a silhouette that reads polished, photographs well, and stays wearable for a full day or a long night."
+    },
+    {
+      "type": "p",
+      "text": "Fit and sizing Fit is where most outfits win or lose. This design aims for a balanced shape with a defined line through the torso, a clean waist, and a smooth finish through the hips and legs. If you prefer a more relaxed feel, size up; if you like a closer fit, stay true to size. Sizes may include: One Size."
+    },
+    {
+      "type": "img",
+      "src": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/40e81d24-05e0-428e-96bd-4b1f6cb0c076.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "alt": "Womens Dress details image 1"
+    },
+    {
+      "type": "p",
+      "text": "Fabric and comfort Comfort is not just about softness. It is also about movement and how the fabric behaves as you walk, sit, and stand. A fabric blend with a bit of give helps it keep its shape while still feeling wearable."
+    },
+    {
+      "type": "img",
+      "src": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6552fc9e-a4ae-44c5-8d46-def6169da311.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "alt": "Womens Dress details image 2"
+    },
+    {
+      "type": "p",
+      "text": "Highlights A clean neckline and a refined silhouette for an elevated look. Designed to layer easily with jackets, wraps, or sweaters. Works well with both minimal accessories and statement pieces."
+    },
+    {
+      "type": "img",
+      "src": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/db20b8ec-954c-4f78-b5be-8b97637ccdf4.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "alt": "Womens Dress details image 3"
+    },
+    {
+      "type": "p",
+      "text": "How to style Styling ideas: keep it minimal with neutral shoes and one standout accessory. For a relaxed daytime look, add a denim jacket or cardigan. For events, switch to a bolder shoe and a small clutch for a sharper finish."
+    },
+    {
+      "type": "img",
+      "src": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/65bd67c4-1127-4b32-96b3-78d69a110bed.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "alt": "Womens Dress details image 4"
+    },
+    {
+      "type": "p",
+      "text": "Color notes Available colors may include: Red - Alpaca With Scarf and Glasses, Red - Cat in Santa Hat, Red-alpaca, Light Grey-chipmunk, Red - Clown Reindeer With Bell, Gray-snowmen, Red-reindeer, Ruby-snowmen, Red - Snowman With Hat & Scarf. If a shade is sold out, check back as availability can change."
+    },
+    {
+      "type": "img",
+      "src": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e5670d09-9cd6-4370-bb3a-5853291ca846.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+      "alt": "Womens Dress details image 5"
+    },
+    {
+      "type": "p",
+      "text": "Care Care guidance matters if you want it to keep its shape and finish. Follow the label first."
+    }
+  ],
+  "videos": [
+    {
+      "id": "351203b4-7c29-4388-b9b7-f4ae2fa8d822",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/351203b4-7c29-4388-b9b7-f4ae2fa8d822/default.jobtemplate.hls.m3u8",
+      "sources": [
+        {
+          "type": "application/x-mpegURL",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/351203b4-7c29-4388-b9b7-f4ae2fa8d822/default.jobtemplate.hls.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "5de58402-e90c-47fa-bc2a-a578fc4cdf04",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5de58402-e90c-47fa-bc2a-a578fc4cdf04/default.jobtemplate.hls.m3u8",
+      "sources": [
+        {
+          "type": "application/x-mpegURL",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5de58402-e90c-47fa-bc2a-a578fc4cdf04/default.jobtemplate.hls.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "d4643447-cd78-4ba2-8608-08be01ff363f",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d4643447-cd78-4ba2-8608-08be01ff363f/default.vertical.jobtemplate.hls.m3u8",
+      "sources": [
+        {
+          "type": "application/x-mpegURL",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d4643447-cd78-4ba2-8608-08be01ff363f/default.vertical.jobtemplate.hls.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "56eab21f-9ef6-4d25-87ba-688eeb28a88e",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/56eab21f-9ef6-4d25-87ba-688eeb28a88e/videopreview.jobtemplate.mp4.342X192P_20HZ_350KBPS_VER_1_0.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/56eab21f-9ef6-4d25-87ba-688eeb28a88e/videopreview.jobtemplate.mp4.342X192P_20HZ_350KBPS_VER_1_0.mp4"
+        }
+      ]
+    },
+    {
+      "id": "c353e6bc-fcba-48c5-bba0-fbcd90db9a58",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c353e6bc-fcba-48c5-bba0-fbcd90db9a58/videopreview.jobtemplate.mp4.342X192P_20HZ_350KBPS_VER_1_0.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c353e6bc-fcba-48c5-bba0-fbcd90db9a58/videopreview.jobtemplate.mp4.342X192P_20HZ_350KBPS_VER_1_0.mp4"
+        }
+      ]
+    },
+    {
+      "id": "ab3362cf-f221-4b6a-83e0-be6f805f9860",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ab3362cf-f221-4b6a-83e0-be6f805f9860/videopreview.jobtemplate.mp4.default.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ab3362cf-f221-4b6a-83e0-be6f805f9860/videopreview.jobtemplate.mp4.default.mp4"
+        }
+      ]
+    }
+  ],
+  "color_swatches": {
+    "Red - Alpaca With Scarf and Glasses": "https://m.media-amazon.com/images/I/51BzoKrANHL._AC_SR38,50_.jpg",
+    "Red - Cat in Santa Hat": "https://m.media-amazon.com/images/I/41iJWKSqT7L._AC_SR38,50_.jpg",
+    "Red-alpaca": "https://m.media-amazon.com/images/I/5113fKZT4TL._AC_SR38,50_.jpg",
+    "Light Grey-chipmunk": "https://m.media-amazon.com/images/I/51aHCnIacbL._AC_SR38,50_.jpg",
+    "Red - Clown Reindeer With Bell": "https://m.media-amazon.com/images/I/4185E4DCSXL._AC_SR38,50_.jpg",
+    "Gray-snowmen": "https://m.media-amazon.com/images/I/41FI2IQOViL._AC_SR38,50_.jpg",
+    "Red-reindeer": "https://m.media-amazon.com/images/I/51yXLD+SjIL._AC_SR38,50_.jpg",
+    "Ruby-snowmen": "https://m.media-amazon.com/images/I/41+3g15XyAL._AC_SR38,50_.jpg",
+    "Red - Snowman With Hat & Scarf": "https://m.media-amazon.com/images/I/412IhpaM4UL._AC_SR38,50_.jpg"
+  },
+  "color_image_key": {
+    "Red - Alpaca With Scarf and Glasses": "71I16AAJbjL",
+    "Red - Cat in Santa Hat": "613oRMPDl6L",
+    "Red-alpaca": "71FJNOg3RcL",
+    "Light Grey-chipmunk": "71lW1SOuGaL",
+    "Red - Clown Reindeer With Bell": "617HPSHEsaL",
+    "Gray-snowmen": "71CBBCRMSiL",
+    "Red-reindeer": "71FuO8ODLaL",
+    "Ruby-snowmen": "71wjqWGdpTL",
+    "Red - Snowman With Hat & Scarf": "61DLYCPjESL"
+  },
+  "color_images": {
+    "Red - Alpaca With Scarf and Glasses": [
+      "https://m.media-amazon.com/images/I/71I16AAJbjL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71AnugN12JL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61H19vHSVyL._SL1500_.jpg"
+    ],
+    "Red - Cat in Santa Hat": [
+      "https://m.media-amazon.com/images/I/613oRMPDl6L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71vJjTtW1PL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61H19vHSVyL._SL1500_.jpg"
+    ],
+    "Red-alpaca": [
+      "https://m.media-amazon.com/images/I/71FJNOg3RcL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71iO1h5ZDYL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61HklRwYGLL._SL1500_.jpg"
+    ],
+    "Light Grey-chipmunk": [
+      "https://m.media-amazon.com/images/I/71lW1SOuGaL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71d5W5xz1hL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71igiQKSS0L._SL1500_.jpg"
+    ],
+    "Red - Clown Reindeer With Bell": [
+      "https://m.media-amazon.com/images/I/617HPSHEsaL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/719ULZWyRRL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61H19vHSVyL._SL1500_.jpg"
+    ],
+    "Gray-snowmen": [
+      "https://m.media-amazon.com/images/I/71CBBCRMSiL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/716tskI8V7L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71IvUI8vtWL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81NITEfU34L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/715B2yOpT2L._SL1500_.jpg"
+    ],
+    "Red-reindeer": [
+      "https://m.media-amazon.com/images/I/71FuO8ODLaL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71gT1Mz1XML._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61HklRwYGLL._SL1500_.jpg"
+    ],
+    "Ruby-snowmen": [
+      "https://m.media-amazon.com/images/I/71wjqWGdpTL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71YjYlkFrML._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61xsQ4SaBrL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71wgXatwKOL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61zR5TrnwDL._SL1500_.jpg"
+    ],
+    "Red - Snowman With Hat & Scarf": [
+      "https://m.media-amazon.com/images/I/61DLYCPjESL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71vSyLJlChL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61H19vHSVyL._SL1500_.jpg"
+    ]
+  },
+  "related": [
+    {
+      "id": "womens-dress-sleeveless",
+      "title": "Womens Dress Sleeveless",
+      "price": 18.98,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Vests",
+      "images": [
+        "https://m.media-amazon.com/images/I/71BkUTFkFKL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress",
+      "title": "Womens Maxi Dress",
+      "price": 32.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Pullovers",
+      "images": [
+        "https://m.media-amazon.com/images/I/71j0MUq2kiL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress",
+      "title": "Womens Maxi Dress",
+      "price": 41.98,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Cardigans",
+      "images": [
+        "https://m.media-amazon.com/images/I/718X3ZUPjQL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-long-sleeve",
+      "title": "Womens Maxi Dress Long Sleeve",
+      "price": 48.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Cardigans",
+      "images": [
+        "https://m.media-amazon.com/images/I/81kR2xkyQZL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-dress-sleeveless",
+      "title": "Womens Dress Sleeveless",
+      "price": 26.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Vests",
+      "images": [
+        "https://m.media-amazon.com/images/I/719szhYXwML._SL1500_.jpg"
+      ]
+    }
+  ],
+  "customer_also_viewed": [
+    {
+      "id": "womens-maxi-dress-long-sleeve",
+      "title": "Womens Maxi Dress Long Sleeve",
+      "price": 38.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Pullovers",
+      "images": [
+        "https://m.media-amazon.com/images/I/81-lffiXZ4L._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-long-sleeve",
+      "title": "Womens Maxi Dress Long Sleeve",
+      "price": 48.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Cardigans",
+      "images": [
+        "https://m.media-amazon.com/images/I/81kR2xkyQZL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-v-neck-long-sleeve",
+      "title": "Womens Maxi Dress V Neck Long Sleeve",
+      "price": 39.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Pullovers",
+      "images": [
+        "https://m.media-amazon.com/images/I/71C9Gy4YcTL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-v-neck-long-sleeve",
+      "title": "Womens Maxi Dress V Neck Long Sleeve",
+      "price": 35.13,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Pullovers",
+      "images": [
+        "https://m.media-amazon.com/images/I/71gyoJHpYeL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-long-sleeve",
+      "title": "Womens Maxi Dress Long Sleeve",
+      "price": 45.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Pullovers",
+      "images": [
+        "https://m.media-amazon.com/images/I/71KhMZ6LfdL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-long-sleeve",
+      "title": "Womens Maxi Dress Long Sleeve",
+      "price": 39.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Pullovers",
+      "images": [
+        "https://m.media-amazon.com/images/I/71sfuh0wtbL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-long-sleeve-v-neck",
+      "title": "Womens Maxi Dress Long Sleeve V Neck",
+      "price": 32.98,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Pullovers",
+      "images": [
+        "https://m.media-amazon.com/images/I/71bYBCv-IdL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-long-sleeve",
+      "title": "Womens Maxi Dress Long Sleeve",
+      "price": 128.25,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Cardigans",
+      "images": [
+        "https://m.media-amazon.com/images/I/818eAcTf7vL._SL1500_.jpg"
+      ]
+    }
+  ],
+  "slug": "womens-dress-b09f5pf3kk"
+}

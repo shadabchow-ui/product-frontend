@@ -1,0 +1,188 @@
+{
+  "nodes": [
+    {
+      "id": "src/screens/Checkout/Checkout.tsx",
+      "label": "Checkout",
+      "routes": [
+        "/checkout"
+      ],
+      "dataModelId": "117:1143"
+    },
+    {
+      "id": "src/screens/Cart/Cart.tsx",
+      "label": "Cart",
+      "routes": [
+        "/cart"
+      ]
+    },
+    {
+      "id": "src/screens/CartSidebar/CartSidebar.tsx",
+      "label": "CartSidebar",
+      "routes": [
+        "/cart-sidebar"
+      ]
+    },
+    {
+      "id": "src/screens/ProductComparison/ProductComparison.tsx",
+      "label": "ProductComparison",
+      "routes": [
+        "/product-comparison"
+      ],
+      "dataModelId": "117:641"
+    },
+    {
+      "id": "src/screens/Shop/Shop.tsx",
+      "label": "Shop",
+      "routes": [
+        "*"
+      ],
+      "dataModelId": "117:538"
+    }
+  ],
+  "edges": [
+    {
+      "id": "src/screens/Checkout/sections/HeaderSection/HeaderSection.tsx:84:10-to-src/screens/CartSidebar/CartSidebar.tsx",
+      "source": "src/screens/Checkout/Checkout.tsx",
+      "target": "src/screens/CartSidebar/CartSidebar.tsx",
+      "data": {
+        "viaRoute": "/cart-sidebar",
+        "trigger": {
+          "element": "<Link to=\"/cart-sidebar\">\n            <ShoppingCartIcon className=\"w-[23px] h-[23px]\" />\n          </Link>",
+          "line": 84,
+          "endLine": 86,
+          "column": 10,
+          "endColumn": 17,
+          "sourceFile": "src/screens/Checkout/sections/HeaderSection/HeaderSection.tsx"
+        }
+      }
+    },
+    {
+      "id": "src/screens/Cart/Cart.tsx:210:12-to-src/screens/Checkout/Checkout.tsx",
+      "source": "src/screens/Cart/Cart.tsx",
+      "target": "src/screens/Checkout/Checkout.tsx",
+      "data": {
+        "viaRoute": "/checkout",
+        "trigger": {
+          "element": "<Link\n              to=\"/checkout\"\n              className=\"w-full inline-flex items-center justify-center bg-[#ffd814] hover:bg-[#f7ca00] text-black text-[13px] font-semibold px-4 py-2 rounded\"\n            >\n              Proceed to checkout\n            </Link>",
+          "line": 210,
+          "endLine": 215,
+          "column": 12,
+          "endColumn": 19,
+          "sourceFile": "src/screens/Cart/Cart.tsx"
+        }
+      }
+    },
+    {
+      "id": "src/screens/CartSidebar/CartSidebar.tsx:208:10-to-src/screens/Checkout/Checkout.tsx",
+      "source": "src/screens/CartSidebar/CartSidebar.tsx",
+      "target": "src/screens/Checkout/Checkout.tsx",
+      "data": {
+        "viaRoute": "/checkout",
+        "trigger": {
+          "element": "<Link\n            to=\"/checkout\"\n            className=\"w-full inline-flex items-center justify-center bg-[#ffd814] hover:bg-[#f7ca00] text-black text-[13px] font-semibold px-4 py-2 rounded\"\n          >\n            Proceed to checkout\n          </Link>",
+          "line": 208,
+          "endLine": 213,
+          "column": 10,
+          "endColumn": 17,
+          "sourceFile": "src/screens/CartSidebar/CartSidebar.tsx"
+        }
+      }
+    },
+    {
+      "id": "src/screens/CartSidebar/CartSidebar.tsx:216:12-to-src/screens/Cart/Cart.tsx",
+      "source": "src/screens/CartSidebar/CartSidebar.tsx",
+      "target": "src/screens/Cart/Cart.tsx",
+      "data": {
+        "viaRoute": "/cart",
+        "trigger": {
+          "element": "<Link to=\"/cart\" className=\"text-[#007185] hover:underline\">\n              View cart\n            </Link>",
+          "line": 216,
+          "endLine": 218,
+          "column": 12,
+          "endColumn": 19,
+          "sourceFile": "src/screens/CartSidebar/CartSidebar.tsx"
+        }
+      }
+    },
+    {
+      "id": "src/screens/ProductComparison/sections/HeaderSection/HeaderSection.tsx:84:10-to-src/screens/CartSidebar/CartSidebar.tsx",
+      "source": "src/screens/ProductComparison/ProductComparison.tsx",
+      "target": "src/screens/CartSidebar/CartSidebar.tsx",
+      "data": {
+        "viaRoute": "/cart-sidebar",
+        "trigger": {
+          "element": "<Link to=\"/cart-sidebar\">\n            <ShoppingCartIcon className=\"w-[24px] h-[22px]\" />\n          </Link>",
+          "line": 84,
+          "endLine": 86,
+          "column": 10,
+          "endColumn": 17,
+          "sourceFile": "src/screens/ProductComparison/sections/HeaderSection/HeaderSection.tsx"
+        }
+      }
+    },
+    {
+      "id": "src/screens/ProductComparison/sections/WarrantyInformationSection/WarrantyInformationSection.tsx:331:12-to-src/screens/Cart/Cart.tsx",
+      "source": "src/screens/ProductComparison/ProductComparison.tsx",
+      "target": "src/screens/Cart/Cart.tsx",
+      "data": {
+        "viaRoute": "/cart",
+        "trigger": {
+          "element": "<Link key={product.id} to=\"/cart\">\n              <Button className=\"w-full h-16 bg-app-primary border border-app-primary hover:bg-app-primary/90\">\n                <span className=\"[font-family:'Poppins',Helvetica] font-normal text-white text-xl\">\n                  Add To Cart\n                </span>\n              </Button>\n            </Link>",
+          "line": 331,
+          "endLine": 337,
+          "column": 12,
+          "endColumn": 19,
+          "sourceFile": "src/screens/ProductComparison/sections/WarrantyInformationSection/WarrantyInformationSection.tsx"
+        }
+      }
+    },
+    {
+      "id": "src/screens/Shop/sections/NavigationSection/NavigationSection.tsx:567:12-to-src/screens/CartSidebar/CartSidebar.tsx",
+      "source": "src/screens/Shop/Shop.tsx",
+      "target": "src/screens/CartSidebar/CartSidebar.tsx",
+      "data": {
+        "viaRoute": "/cart-sidebar",
+        "trigger": {
+          "element": "<Link\n              to=\"/cart-sidebar\"\n              className=\"relative flex items-end gap-2 rounded px-2 py-1 hover:bg-white/10 transition\"\n              aria-label=\"Cart\"\n            >\n              {/* badge */}\n              <div\n                className=\"absolute left-[18px] top-[2px] min-w-[18px] h-[18px] px-1 rounded-full flex items-center justify-center text-[12px] font-bold\"\n                style={{ background: \"#0571e3\", color: \"#111\" }}\n              >\n                {cartCount}\n              </div>\n\n              <ShoppingCartIcon className=\"h-[26px] w-[26px]\" color=\"#fff\" />\n              <div className=\"text-[13px] font-bold leading-none pb-[2px]\">\n                Cart\n              </div>\n            </Link>",
+          "line": 567,
+          "endLine": 584,
+          "column": 12,
+          "endColumn": 19,
+          "sourceFile": "src/screens/Shop/sections/NavigationSection/NavigationSection.tsx"
+        }
+      }
+    },
+    {
+      "id": "src/screens/Shop/sections/ProductGridSection/ProductGridSection.tsx:102:26-to-src/screens/Cart/Cart.tsx",
+      "source": "src/screens/Shop/Shop.tsx",
+      "target": "src/screens/Cart/Cart.tsx",
+      "data": {
+        "viaRoute": "/cart",
+        "trigger": {
+          "element": "<Link to=\"/cart\">\n                            <Button className=\"bg-color-white hover:bg-color-white text-app-primary h-12 px-14 [font-family:'Poppins',Helvetica] font-semibold text-base\">\n                              Add to cart\n                            </Button>\n                          </Link>",
+          "line": 102,
+          "endLine": 106,
+          "column": 26,
+          "endColumn": 33,
+          "sourceFile": "src/screens/Shop/sections/ProductGridSection/ProductGridSection.tsx"
+        }
+      }
+    },
+    {
+      "id": "src/screens/Shop/sections/ProductGridSection/ProductGridSection.tsx:114:28-to-src/screens/ProductComparison/ProductComparison.tsx",
+      "source": "src/screens/Shop/Shop.tsx",
+      "target": "src/screens/ProductComparison/ProductComparison.tsx",
+      "data": {
+        "viaRoute": "/product-comparison",
+        "trigger": {
+          "element": "<Link\n                              to=\"/product-comparison\"\n                              className=\"flex items-center gap-0.5 text-color-white [font-family:'Poppins',Helvetica] font-semibold text-base\"\n                            >\n                              <ArrowLeftRightIcon className=\"w-4 h-4\" />\n                              <span>Compare</span>\n                            </Link>",
+          "line": 114,
+          "endLine": 120,
+          "column": 28,
+          "endColumn": 35,
+          "sourceFile": "src/screens/Shop/sections/ProductGridSection/ProductGridSection.tsx"
+        }
+      }
+    }
+  ]
+}

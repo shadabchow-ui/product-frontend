@@ -1,0 +1,383 @@
+{
+  "id": "womens-dress",
+  "handle": "womens-dress-b0fk4b9yxk",
+  "sku": "JC1704",
+  "asin": "B0FK4B9YXK",
+  "title": "Womens Dress",
+  "title_original": "Kate Spade New York Womens Gathered Flounce Shirtdress",
+  "brand": "kate spade new york",
+  "price": 298.0,
+  "social_proof": {
+    "bought_past_month": 100,
+    "text": "100+ bought in the past month"
+  },
+  "images": [
+    "https://m.media-amazon.com/images/I/71Jq8YdpWeL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81MDXN52XCL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81Oqh5iFOHL._SL1500_.jpg"
+  ],
+  "gallery_images": [
+    "https://m.media-amazon.com/images/I/71Jq8YdpWeL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81MDXN52XCL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81Oqh5iFOHL._SL1500_.jpg"
+  ],
+  "aplus_images": [
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7bb4a9a1-a484-44f0-8807-3b2b3ceaec49.__CR0,0,2928,1250_PT0_SX1464_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b2db394c-bf1d-4d76-a460-b321fe736472.__CR1,0,171,187_PT0_SX166_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9d271e4f-078b-4c10-9a7a-86ce63064eb6.__CR0,0,171,187_PT0_SX166_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7085681a-d054-412a-a007-804dfa302e4d.__CR1,0,171,187_PT0_SX166_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/34465e62-96d1-418c-a263-dd017a316ff9.__CR0,0,171,187_PT0_SX166_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7c5fc13b-acb9-48cb-a5c4-cfae95a787d4.__CR1,0,171,187_PT0_SX166_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a672cc48-15b0-40ae-b206-c2f0dbd2d406.__CR1,0,169,185_PT0_SX166_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/faaf8e00-d8f7-44f3-bbef-dde9367dbbe1.__CR0,0,172,189_PT0_SX166_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/23d4e723-7f88-482f-8cbd-4cfe18fccbf8.__CR0,0,171,187_PT0_SX166_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f7df43ef-489d-4bb4-89ea-0b33f7000777.__CR0,0,171,188_PT0_SX166_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3d28b301-a3fe-41d3-bc24-d827b1ca4a07.__CR1,0,170,186_PT0_SX166_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2994d1af-74f9-4451-ab47-194c325feef6.__CR0,0,171,188_PT0_SX166_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1e0115cc-89f3-4332-9607-547495d4f599.__CR0,0,171,187_PT0_SX166_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/555228b0-0861-48f5-9d35-bc55517508af.__CR1,0,170,186_PT0_SX166_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/75d8e173-dd54-4664-8427-c34d3fc3ac05.__CR1,0,169,185_PT0_SX166_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/97a34fc9-16a1-441f-acd8-56f22474fad4.__CR1,0,171,187_PT0_SX166_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2f46e012-c71c-4a92-a958-0c05c9c03715.__CR0,0,171,187_PT0_SX166_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2ed76f5b-6144-48ec-984c-0621aaead711.__CR2,0,169,185_PT0_SX166_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/33ff198b-d9ab-4129-a4fc-d27ce7ea0fa0.__CR1,0,170,186_PT0_SX166_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3217e9f6-950c-4fe6-9a9a-41fade311a5b.__CR1,0,171,187_PT0_SX166_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/79ac543f-b095-454b-85ed-3e555f9915fc.__CR1,0,170,186_PT0_SX166_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9a46353e-53fa-4591-a287-0a8994cf9f5a.__CR0,0,724,906_PT0_SX362_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4e1d4844-9f7e-4513-98d7-a30dabe8bd8a.__CR0,0,724,906_PT0_SX362_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0a202162-2399-4c11-9232-6eb5926219dc.__CR0,0,724,906_PT0_SX362_V1___.png"
+  ],
+  "description_images": [
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7bb4a9a1-a484-44f0-8807-3b2b3ceaec49.__CR0,0,2928,1250_PT0_SX1464_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b2db394c-bf1d-4d76-a460-b321fe736472.__CR1,0,171,187_PT0_SX166_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9d271e4f-078b-4c10-9a7a-86ce63064eb6.__CR0,0,171,187_PT0_SX166_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7085681a-d054-412a-a007-804dfa302e4d.__CR1,0,171,187_PT0_SX166_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/34465e62-96d1-418c-a263-dd017a316ff9.__CR0,0,171,187_PT0_SX166_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7c5fc13b-acb9-48cb-a5c4-cfae95a787d4.__CR1,0,171,187_PT0_SX166_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a672cc48-15b0-40ae-b206-c2f0dbd2d406.__CR1,0,169,185_PT0_SX166_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/faaf8e00-d8f7-44f3-bbef-dde9367dbbe1.__CR0,0,172,189_PT0_SX166_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/23d4e723-7f88-482f-8cbd-4cfe18fccbf8.__CR0,0,171,187_PT0_SX166_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f7df43ef-489d-4bb4-89ea-0b33f7000777.__CR0,0,171,188_PT0_SX166_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3d28b301-a3fe-41d3-bc24-d827b1ca4a07.__CR1,0,170,186_PT0_SX166_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2994d1af-74f9-4451-ab47-194c325feef6.__CR0,0,171,188_PT0_SX166_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1e0115cc-89f3-4332-9607-547495d4f599.__CR0,0,171,187_PT0_SX166_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/555228b0-0861-48f5-9d35-bc55517508af.__CR1,0,170,186_PT0_SX166_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/75d8e173-dd54-4664-8427-c34d3fc3ac05.__CR1,0,169,185_PT0_SX166_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/97a34fc9-16a1-441f-acd8-56f22474fad4.__CR1,0,171,187_PT0_SX166_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2f46e012-c71c-4a92-a958-0c05c9c03715.__CR0,0,171,187_PT0_SX166_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2ed76f5b-6144-48ec-984c-0621aaead711.__CR2,0,169,185_PT0_SX166_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/33ff198b-d9ab-4129-a4fc-d27ce7ea0fa0.__CR1,0,170,186_PT0_SX166_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3217e9f6-950c-4fe6-9a9a-41fade311a5b.__CR1,0,171,187_PT0_SX166_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/79ac543f-b095-454b-85ed-3e555f9915fc.__CR1,0,170,186_PT0_SX166_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9a46353e-53fa-4591-a287-0a8994cf9f5a.__CR0,0,724,906_PT0_SX362_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4e1d4844-9f7e-4513-98d7-a30dabe8bd8a.__CR0,0,724,906_PT0_SX362_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0a202162-2399-4c11-9232-6eb5926219dc.__CR0,0,724,906_PT0_SX362_V1___.png"
+  ],
+  "bullets": [],
+  "specs": {
+    "Item model number ‏": "‎ KM742600",
+    "Department ‏": "‎ womens",
+    "Date First Available ‏": "‎ July 28, 2025",
+    "Manufacturer ‏": "‎ kate spade new york",
+    "ASIN ‏": "‎ B0FK4DPV9Z",
+    "Best Sellers Rank": "#844,256 in Clothing, Shoes & Jewelry ( See Top 100 in Clothing, Shoes & Jewelry ) #10,257 in Women's Casual Dresses"
+  },
+  "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Casual",
+  "category_path": [
+    "Clothing, Shoes & Jewelry",
+    "Women",
+    "Clothing",
+    "Dresses",
+    "Casual"
+  ],
+  "category_slug": "clothing-shoes-jewelry/women/clothing/dresses/casual",
+  "category_leaf": "Casual",
+  "variations": {
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Bitter Chocolate"
+    ],
+    "size_chart": {
+      "label": "Size chart",
+      "href": null,
+      "html": "\n        <table class=\"size-chart\">\n          <thead>\n            <tr>\n              <th>Size</th>\n              <th>Bust (in)</th>\n              <th>Waist (in)</th>\n              <th>Hips (in)</th>\n            </tr>\n          </thead>\n          <tbody>\n            <tr><td>XS</td><td>31-32</td><td>23-24</td><td>33-34</td></tr>\n            <tr><td>S</td><td>33-34</td><td>25-26</td><td>35-36</td></tr>\n            <tr><td>M</td><td>35-36</td><td>27-28</td><td>37-38</td></tr>\n            <tr><td>L</td><td>37-39</td><td>29-31</td><td>39-41</td></tr>\n            <tr><td>XL</td><td>40-42</td><td>32-34</td><td>42-44</td></tr>\n          </tbody>\n        </table>\n        "
+    }
+  },
+  "reviews": {
+    "average_rating": 5.0,
+    "count": 0,
+    "customers_say": null,
+    "items": []
+  },
+  "short_description": "Womens Dress is made for a polished look that still feels comfortable to wear. It is designed to sit cleanly on the body with a flattering shape that works for day plans and dressier moments without feeling overdone.\n\nThe fit focuses on balance rather than extremes, so you can move naturally while still getting a defined silhouette. Choose your usual size for a closer look, or size up if you prefer a little more ease through the waist and hips.\n\nStyling is simple: keep accessories minimal for a clean finish, or add a jacket and statement shoes when you want a sharper outfit. This piece photographs well thanks to smooth lines and a structured feel that stays put once you have it adjusted.\n\nWith the right fit and simple styling, this item becomes an easy go-to when you want something that looks intentional without requiring extra effort.\n\nComfort comes from both the cut and the fabric, so selecting your preferred fit makes a noticeable difference over a full day of wear.\n\nIf you are between sizes, choose based on how close you like the fit through the waist and hips, then adjust with your usual layering choices.",
+  "about_this_item": "Womens Dress is made for a polished look that still feels comfortable to wear. It is designed to sit cleanly on the body with a flattering shape that works for day plans and dressier moments without feeling overdone.\n\nThe fit focuses on balance rather than extremes, so you can move naturally while still getting a defined silhouette. Choose your usual size for a closer look, or size up if you prefer a little more ease through the waist and hips.\n\nStyling is simple: keep accessories minimal for a clean finish, or add a jacket and statement shoes when you want a sharper outfit. This piece photographs well thanks to smooth lines and a structured feel that stays put once you have it adjusted.\n\nWith the right fit and simple styling, this item becomes an easy go-to when you want something that looks intentional without requiring extra effort.\n\nComfort comes from both the cut and the fabric, so selecting your preferred fit makes a noticeable difference over a full day of wear.\n\nIf you are between sizes, choose based on how close you like the fit through the waist and hips, then adjust with your usual layering choices.",
+  "long_description": "Womens Dress is a versatile piece you can reach for when you want a put-together look that still feels comfortable. The goal is simple: a silhouette that reads polished, photographs well, and stays wearable for a full day or a long night.\n\nFit and sizing Fit is where most outfits win or lose. This design aims for a balanced shape with a defined line through the torso, a clean waist, and a smooth finish through the hips and legs. If you prefer a more relaxed feel, size up; if you like a closer fit, stay true to size. Sizes may include: XS, S, M, L, XL.\n\nFabric and comfort Comfort is not just about softness. It is also about movement and how the fabric behaves as you walk, sit, and stand. A fabric blend with a bit of give helps it keep its shape while still feeling wearable.\n\nHighlights A clean neckline and a refined silhouette for an elevated look. Designed to layer easily with jackets, wraps, or sweaters. Works well with both minimal accessories and statement pieces.\n\nHow to style Styling ideas: keep it minimal with neutral shoes and one standout accessory. For a relaxed daytime look, add a denim jacket or cardigan. For events, switch to a bolder shoe and a small clutch for a sharper finish.\n\nColor notes Available colors may include: Bitter Chocolate. If a shade is sold out, check back as availability can change.\n\nCare Care guidance matters if you want it to keep its shape and finish. Follow the label first.",
+  "long_description_blocks": [
+    {
+      "type": "p",
+      "text": "Womens Dress is a versatile piece you can reach for when you want a put-together look that still feels comfortable. The goal is simple: a silhouette that reads polished, photographs well, and stays wearable for a full day or a long night."
+    },
+    {
+      "type": "p",
+      "text": "Fit and sizing Fit is where most outfits win or lose. This design aims for a balanced shape with a defined line through the torso, a clean waist, and a smooth finish through the hips and legs. If you prefer a more relaxed feel, size up; if you like a closer fit, stay true to size. Sizes may include: XS, S, M, L, XL."
+    },
+    {
+      "type": "img",
+      "src": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7bb4a9a1-a484-44f0-8807-3b2b3ceaec49.__CR0,0,2928,1250_PT0_SX1464_V1___.png",
+      "alt": "Womens Dress details image 1"
+    },
+    {
+      "type": "p",
+      "text": "Fabric and comfort Comfort is not just about softness. It is also about movement and how the fabric behaves as you walk, sit, and stand. A fabric blend with a bit of give helps it keep its shape while still feeling wearable."
+    },
+    {
+      "type": "img",
+      "src": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b2db394c-bf1d-4d76-a460-b321fe736472.__CR1,0,171,187_PT0_SX166_V1___.png",
+      "alt": "Womens Dress details image 2"
+    },
+    {
+      "type": "p",
+      "text": "Highlights A clean neckline and a refined silhouette for an elevated look. Designed to layer easily with jackets, wraps, or sweaters. Works well with both minimal accessories and statement pieces."
+    },
+    {
+      "type": "img",
+      "src": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9d271e4f-078b-4c10-9a7a-86ce63064eb6.__CR0,0,171,187_PT0_SX166_V1___.png",
+      "alt": "Womens Dress details image 3"
+    },
+    {
+      "type": "p",
+      "text": "How to style Styling ideas: keep it minimal with neutral shoes and one standout accessory. For a relaxed daytime look, add a denim jacket or cardigan. For events, switch to a bolder shoe and a small clutch for a sharper finish."
+    },
+    {
+      "type": "img",
+      "src": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7085681a-d054-412a-a007-804dfa302e4d.__CR1,0,171,187_PT0_SX166_V1___.png",
+      "alt": "Womens Dress details image 4"
+    },
+    {
+      "type": "p",
+      "text": "Color notes Available colors may include: Bitter Chocolate. If a shade is sold out, check back as availability can change."
+    },
+    {
+      "type": "img",
+      "src": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/34465e62-96d1-418c-a263-dd017a316ff9.__CR0,0,171,187_PT0_SX166_V1___.png",
+      "alt": "Womens Dress details image 5"
+    },
+    {
+      "type": "p",
+      "text": "Care Care guidance matters if you want it to keep its shape and finish. Follow the label first."
+    }
+  ],
+  "videos": [
+    {
+      "src": "https://aax-events-cell01-cf.us-east.ono.axp.amazon-adsystem.com/x/c/RGfsx3HDIkuOeCNzsSWR5UcAAAGbXJaITwEAAAH0BABvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDIgICB6GFA0/clv1_CEuOPUxokZA2iHrVe7s00QL-SWFJVpMPlbYg5z2Eyu9o8X9S8UXUIP018nFItlO9gqEp25IbkHjNfU23A3tMQlpDPCq0F_GvTh0sPWZhaWmBGLxjxYgc6JJGP0DjLfm-W93Lfw_mssRRBkgpnVjud1wJLEAFANhwD1J9HaAhSknYl-KMmAZ8WFSzd4fzNqBvA34MN9WGmtZURXYtCfZnTvkPmLbQdRfrxMUOE966fpv6bHBE1Qgph_5DRS26vixFHTi0bbmU41w0iBRfYpwxYh_uOHi0jwDWPui_hf7mRJkyMlq6x7nB_hCUPwPMHI77mbYA5uZkCMzD0pbQFeXxUI86_MhGZTQosaMDnfJAL6Eb1VRVB1K4qT694ZoFeXaGczcrtFyEkbpi2v-absHucWh2SrnRu9piauoU-ykG32Xaps3-xypjW13UJlO5akzR/https://www.amazon.com/dp/B0FLG5MVY3\\&quot;,\\&quot;market\\&quot;:\\&quot;US\\&quot;,\\&quot;marketplaceId\\&quot;:\\&quot;ATVPDKIKX0DER\\&quot;,\\&quot;thirdPartyClickUrls\\&quot;:[\\&quot;\\&quot;],\\&quot;allow3pSellers\\&quot;:true,\\&quot;productInformation\\&quot;:{\\&quot;products\\&quot;:[{\\&quot;asin\\&quot;:\\&quot;B0FLG5MVY3\\&quot;}]},\\&quot;optimizationGoal\\&quot;:\\&quot;CLICKS\\&quot;,\\&quot;thirdPartyImpressionUrls\\&quot;:[\\&quot;\\&quot;],\\&quot;region\\&quot;:\\&quot;na\\&quot;,\\&quot;creativeId\\&quot;:\\&quot;0\\&quot;,\\&quot;creativeType\\&quot;:\\&quot;VIDEO\\&quot;,\\&quot;properties\\&quot;:{\\&quot;common\\&quot;:{\\&quot;landingPage\\&quot;:{\\&quot;type\\&quot;:\\&quot;DETAIL_PAGE\\&quot;,\\&quot;value\\&quot;:\\&quot;https://www.amazon.com/dp/B0FLG5MVY3\\&quot;}},\\&quot;TETRIS_VIDEO_SINGLE_MEDIA\\&quot;:{\\&quot;metadata\\&quot;:\\&quot;eyJwcmV2aWV3SW1hZ2VVcmwiOiJodHRwczovL20ubWVkaWEtYW1hem9uLmNvbS9pbWFnZXMvUy9hbC1uYS05ZDU3OTFjZi0zZmFmLzliMGVlMzg2LTlmMGUtNGY2Zi1iMDExLTQ1MGI0NmI0N2Y0MC5tcDQvci9USFVNQk5BSUxfMzYwUF9GUkFNRV8zX0NBUFRVUkVfMi5KUEciLCJhc3BlY3RSYXRpbyI6MS43Nzc3Nzc3Nzc3Nzc3Nzc3LCJkdXJhdGlvbiI6MTIwMDAsImhhc0F1ZGlvIjp0cnVlLCJsb2NhbGl6YXRpb25NZXRhZGF0YSI6bnVsbCwiY29udGVudEhhc2giOiI0ODA0MzU3N2NiNTVhNzdmYmExYTk1MzNiZmExYThiZCIsIm1lZGlhTGF5b3V0Ijp7Im9yaWVudGF0aW9uIjoiTEFORFNDQVBFIiwiZGlzcGxheUFzcGVjdFJhdGlvIjoiMTY6OSJ9LCJicmFuZEVsZW1lbnRzIjpbXSwiY2NVcmwiOm51bGwsImFsdFRleHQiOm51bGwsImlzTG9jYWxpemVkIjpmYWxzZX0=\\&quot;,\\&quot;corruptVideoError\\&quot;:null,\\&quot;altText\\&quot;:null,\\&quot;originalAssetId\\&quot;:\\&quot;amzn1.assetlibrary.asset1.be18e07d69c2fff06844bb7d64193f35:version_v1\\&quot;,\\&quot;aspectRatio\\&quot;:1.7777777777777777,\\&quot;variants\\&quot;:{\\&quot;moderation\\&quot;:{\\&quot;metadata\\&quot;:\\&quot;eyJ2aWRlb1VybCI6Imh0dHBzOi8vbS5tZWRpYS1hbWF6b24uY29tL2ltYWdlcy9TL2FsLW5hLTlkNTc5MWNmLTNmYWYvOWIwZWUzODYtOWYwZS00ZjZmLWIwMTEtNDUwYjQ2YjQ3ZjQwLm1wNC9tb2RlcmF0aW9uIiwiY29udGVudFR5cGUiOiJ2aWRlby9tcDQifQ==\\&quot;,\\&quot;videoUrl\\&quot;:\\&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9b0ee386-9f0e-4f6f-b011-450b46b47f40.mp4/moderation\\&quot;,\\&quot;contentType\\&quot;:\\&quot;video/mp4\\&quot;},\\&quot;iOS\\&quot;:{\\&quot;metadata\\&quot;:\\&quot;eyJ2aWRlb1VybCI6Imh0dHBzOi8vbS5tZWRpYS1hbWF6b24uY29tL2ltYWdlcy9TL2FsLW5hLTlkNTc5MWNmLTNmYWYvOWIwZWUzODYtOWYwZS00ZjZmLWIwMTEtNDUwYjQ2YjQ3ZjQwLm1wNC9wcm9kdWN0VmlkZW9PcHRpbWl6ZWQubXA0IiwiY29udGVudFR5cGUiOiJ2aWRlby9tcDQifQ==\\&quot;,\\&quot;videoUrl\\&quot;:\\&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9b0ee386-9f0e-4f6f-b011-450b46b47f40.mp4/productVideoOptimized.mp4\\&quot;,\\&quot;contentType\\&quot;:\\&quot;video/mp4\\&quot;}},\\&quot;duration\\&quot;:12000,\\&quot;sbCreativeTranslationMap\\&quot;:{\\&quot;es_US\\&quot;:{\\&quot;altText\\&quot;:null,\\&quot;closedCaption\\&quot;:null,\\&quot;id\\&quot;:\\&quot;amzn1.assetlibrary.asset1.2f9994d305f2806cc983d2b53ab10e93:version_v1\\&quot;,\\&quot;variants\\&quot;:{\\&quot;moderation\\&quot;:{\\&quot;metadata\\&quot;:\\&quot;eyJ2aWRlb1VybCI6Imh0dHBzOi8vbS5tZWRpYS1hbWF6b24uY29tL2ltYWdlcy9TL2FsLW5hLTlkNTc5MWNmLTNmYWYvMDZjY2NkZjUtNDQ4OC00NmVlLWE0MWQtNDhiNDIxYzIxNzRmLm1wNC9tb2RlcmF0aW9uIiwiY29udGVudFR5cGUiOiJ2aWRlby9tcDQifQ==\\&quot;,\\&quot;videoUrl\\&quot;:\\&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/06cccdf5-4488-46ee-a41d-48b421c2174f.mp4/moderation\\&quot;,\\&quot;contentType\\&quot;:\\&quot;video/mp4\\&quot;},\\&quot;iOS\\&quot;:{\\&quot;metadata\\&quot;:\\&quot;eyJ2aWRlb1VybCI6Imh0dHBzOi8vbS5tZWRpYS1hbWF6b24uY29tL2ltYWdlcy9TL2FsLW5hLTlkNTc5MWNmLTNmYWYvMDZjY2NkZjUtNDQ4OC00NmVlLWE0MWQtNDhiNDIxYzIxNzRmLm1wNC9wcm9kdWN0VmlkZW9PcHRpbWl6ZWQubXA0IiwiY29udGVudFR5cGUiOiJ2aWRlby9tcDQifQ==\\&quot;,\\&quot;videoUrl\\&quot;:\\&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/06cccdf5-4488-46ee-a41d-48b421c2174f.mp4/productVideoOptimized.mp4\\&quot;,\\&quot;contentType\\&quot;:\\&quot;video/mp4\\&quot;}}}},\\&quot;transcodedMediaMap\\&quot;:null,\\&quot;experiment\\&quot;:null,\\&quot;previewImageUrl\\&quot;:\\&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9b0ee386-9f0e-4f6f-b011-450b46b47f40.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://aax-events-cell01-cf.us-east.ono.axp.amazon-adsystem.com/x/c/RGfsx3HDIkuOeCNzsSWR5UcAAAGbXJaITwEAAAH0BABvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDIgICB6GFA0/clv1_CEuOPUxokZA2iHrVe7s00QL-SWFJVpMPlbYg5z2Eyu9o8X9S8UXUIP018nFItlO9gqEp25IbkHjNfU23A3tMQlpDPCq0F_GvTh0sPWZhaWmBGLxjxYgc6JJGP0DjLfm-W93Lfw_mssRRBkgpnVjud1wJLEAFANhwD1J9HaAhSknYl-KMmAZ8WFSzd4fzNqBvA34MN9WGmtZURXYtCfZnTvkPmLbQdRfrxMUOE966fpv6bHBE1Qgph_5DRS26vixFHTi0bbmU41w0iBRfYpwxYh_uOHi0jwDWPui_hf7mRJkyMlq6x7nB_hCUPwPMHI77mbYA5uZkCMzD0pbQFeXxUI86_MhGZTQosaMDnfJAL6Eb1VRVB1K4qT694ZoFeXaGczcrtFyEkbpi2v-absHucWh2SrnRu9piauoU-ykG32Xaps3-xypjW13UJlO5akzR/https://www.amazon.com/dp/B0FLG5MVY3\\&quot;,\\&quot;market\\&quot;:\\&quot;US\\&quot;,\\&quot;marketplaceId\\&quot;:\\&quot;ATVPDKIKX0DER\\&quot;,\\&quot;thirdPartyClickUrls\\&quot;:[\\&quot;\\&quot;],\\&quot;allow3pSellers\\&quot;:true,\\&quot;productInformation\\&quot;:{\\&quot;products\\&quot;:[{\\&quot;asin\\&quot;:\\&quot;B0FLG5MVY3\\&quot;}]},\\&quot;optimizationGoal\\&quot;:\\&quot;CLICKS\\&quot;,\\&quot;thirdPartyImpressionUrls\\&quot;:[\\&quot;\\&quot;],\\&quot;region\\&quot;:\\&quot;na\\&quot;,\\&quot;creativeId\\&quot;:\\&quot;0\\&quot;,\\&quot;creativeType\\&quot;:\\&quot;VIDEO\\&quot;,\\&quot;properties\\&quot;:{\\&quot;common\\&quot;:{\\&quot;landingPage\\&quot;:{\\&quot;type\\&quot;:\\&quot;DETAIL_PAGE\\&quot;,\\&quot;value\\&quot;:\\&quot;https://www.amazon.com/dp/B0FLG5MVY3\\&quot;}},\\&quot;TETRIS_VIDEO_SINGLE_MEDIA\\&quot;:{\\&quot;metadata\\&quot;:\\&quot;eyJwcmV2aWV3SW1hZ2VVcmwiOiJodHRwczovL20ubWVkaWEtYW1hem9uLmNvbS9pbWFnZXMvUy9hbC1uYS05ZDU3OTFjZi0zZmFmLzliMGVlMzg2LTlmMGUtNGY2Zi1iMDExLTQ1MGI0NmI0N2Y0MC5tcDQvci9USFVNQk5BSUxfMzYwUF9GUkFNRV8zX0NBUFRVUkVfMi5KUEciLCJhc3BlY3RSYXRpbyI6MS43Nzc3Nzc3Nzc3Nzc3Nzc3LCJkdXJhdGlvbiI6MTIwMDAsImhhc0F1ZGlvIjp0cnVlLCJsb2NhbGl6YXRpb25NZXRhZGF0YSI6bnVsbCwiY29udGVudEhhc2giOiI0ODA0MzU3N2NiNTVhNzdmYmExYTk1MzNiZmExYThiZCIsIm1lZGlhTGF5b3V0Ijp7Im9yaWVudGF0aW9uIjoiTEFORFNDQVBFIiwiZGlzcGxheUFzcGVjdFJhdGlvIjoiMTY6OSJ9LCJicmFuZEVsZW1lbnRzIjpbXSwiY2NVcmwiOm51bGwsImFsdFRleHQiOm51bGwsImlzTG9jYWxpemVkIjpmYWxzZX0=\\&quot;,\\&quot;corruptVideoError\\&quot;:null,\\&quot;altText\\&quot;:null,\\&quot;originalAssetId\\&quot;:\\&quot;amzn1.assetlibrary.asset1.be18e07d69c2fff06844bb7d64193f35:version_v1\\&quot;,\\&quot;aspectRatio\\&quot;:1.7777777777777777,\\&quot;variants\\&quot;:{\\&quot;moderation\\&quot;:{\\&quot;metadata\\&quot;:\\&quot;eyJ2aWRlb1VybCI6Imh0dHBzOi8vbS5tZWRpYS1hbWF6b24uY29tL2ltYWdlcy9TL2FsLW5hLTlkNTc5MWNmLTNmYWYvOWIwZWUzODYtOWYwZS00ZjZmLWIwMTEtNDUwYjQ2YjQ3ZjQwLm1wNC9tb2RlcmF0aW9uIiwiY29udGVudFR5cGUiOiJ2aWRlby9tcDQifQ==\\&quot;,\\&quot;videoUrl\\&quot;:\\&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9b0ee386-9f0e-4f6f-b011-450b46b47f40.mp4/moderation\\&quot;,\\&quot;contentType\\&quot;:\\&quot;video/mp4\\&quot;},\\&quot;iOS\\&quot;:{\\&quot;metadata\\&quot;:\\&quot;eyJ2aWRlb1VybCI6Imh0dHBzOi8vbS5tZWRpYS1hbWF6b24uY29tL2ltYWdlcy9TL2FsLW5hLTlkNTc5MWNmLTNmYWYvOWIwZWUzODYtOWYwZS00ZjZmLWIwMTEtNDUwYjQ2YjQ3ZjQwLm1wNC9wcm9kdWN0VmlkZW9PcHRpbWl6ZWQubXA0IiwiY29udGVudFR5cGUiOiJ2aWRlby9tcDQifQ==\\&quot;,\\&quot;videoUrl\\&quot;:\\&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9b0ee386-9f0e-4f6f-b011-450b46b47f40.mp4/productVideoOptimized.mp4\\&quot;,\\&quot;contentType\\&quot;:\\&quot;video/mp4\\&quot;}},\\&quot;duration\\&quot;:12000,\\&quot;sbCreativeTranslationMap\\&quot;:{\\&quot;es_US\\&quot;:{\\&quot;altText\\&quot;:null,\\&quot;closedCaption\\&quot;:null,\\&quot;id\\&quot;:\\&quot;amzn1.assetlibrary.asset1.2f9994d305f2806cc983d2b53ab10e93:version_v1\\&quot;,\\&quot;variants\\&quot;:{\\&quot;moderation\\&quot;:{\\&quot;metadata\\&quot;:\\&quot;eyJ2aWRlb1VybCI6Imh0dHBzOi8vbS5tZWRpYS1hbWF6b24uY29tL2ltYWdlcy9TL2FsLW5hLTlkNTc5MWNmLTNmYWYvMDZjY2NkZjUtNDQ4OC00NmVlLWE0MWQtNDhiNDIxYzIxNzRmLm1wNC9tb2RlcmF0aW9uIiwiY29udGVudFR5cGUiOiJ2aWRlby9tcDQifQ==\\&quot;,\\&quot;videoUrl\\&quot;:\\&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/06cccdf5-4488-46ee-a41d-48b421c2174f.mp4/moderation\\&quot;,\\&quot;contentType\\&quot;:\\&quot;video/mp4\\&quot;},\\&quot;iOS\\&quot;:{\\&quot;metadata\\&quot;:\\&quot;eyJ2aWRlb1VybCI6Imh0dHBzOi8vbS5tZWRpYS1hbWF6b24uY29tL2ltYWdlcy9TL2FsLW5hLTlkNTc5MWNmLTNmYWYvMDZjY2NkZjUtNDQ4OC00NmVlLWE0MWQtNDhiNDIxYzIxNzRmLm1wNC9wcm9kdWN0VmlkZW9PcHRpbWl6ZWQubXA0IiwiY29udGVudFR5cGUiOiJ2aWRlby9tcDQifQ==\\&quot;,\\&quot;videoUrl\\&quot;:\\&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/06cccdf5-4488-46ee-a41d-48b421c2174f.mp4/productVideoOptimized.mp4\\&quot;,\\&quot;contentType\\&quot;:\\&quot;video/mp4\\&quot;}}}},\\&quot;transcodedMediaMap\\&quot;:null,\\&quot;experiment\\&quot;:null,\\&quot;previewImageUrl\\&quot;:\\&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9b0ee386-9f0e-4f6f-b011-450b46b47f40.mp4"
+        }
+      ]
+    },
+    {
+      "src": "https://m.media-amazon.com/images/I/51na2G51WaL._SS60_SP100,100_.jpg\\&quot;}}],\\&quot;video\\&quot;:{\\&quot;duration\\&quot;:12,\\&quot;disabledAudio\\&quot;:true,\\&quot;asset\\&quot;:{\\&quot;id\\&quot;:\\&quot;amzn1.assetlibrary.asset1.be18e07d69c2fff06844bb7d64193f35\\&quot;,\\&quot;version\\&quot;:\\&quot;version_v1\\&quot;},\\&quot;transcodedMedias\\&quot;:[{\\&quot;transcodeType\\&quot;:\\&quot;MODERATION\\&quot;,\\&quot;url\\&quot;:\\&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9b0ee386-9f0e-4f6f-b011-450b46b47f40.mp4/moderation\\&quot;},{\\&quot;transcodeType\\&quot;:\\&quot;MEDIUM\\&quot;,\\&quot;url\\&quot;:\\&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9b0ee386-9f0e-4f6f-b011-450b46b47f40.mp4/productVideoOptimized.mp4\\&quot;},{\\&quot;transcodeType\\&quot;:\\&quot;HIGH\\&quot;,\\&quot;url\\&quot;:\\&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9b0ee386-9f0e-4f6f-b011-450b46b47f40.mp4/productVideoOptimized.mp4\\&quot;},{\\&quot;transcodeType\\&quot;:\\&quot;LOW\\&quot;,\\&quot;url\\&quot;:\\&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9b0ee386-9f0e-4f6f-b011-450b46b47f40.mp4/productVideoOptimized.mp4\\&quot;}]}},\\&quot;height\\&quot;:130,\\&quot;shazamId\\&quot;:\\&quot;S9_DA_creativeId\\&quot;},\\&quot;urls\\&quot;:{\\&quot;brandPageUrl\\&quot;:\\&quot;https://aax-events-cell01-cf.us-east.ono.axp.amazon-adsystem.com/x/c/RGfsx3HDIkuOeCNzsSWR5UcAAAGbXJaITwEAAAH0BABvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDIgICB6GFA0/clv1_CEuOPUxokZA2iHrVe7s00QL-SWFJVpMPlbYg5z2Eyu9o8X9S8UXUIP018nFItlO9gqEp25IbkHjNfU23A3tMQlpDPCq0F_GvTh0sPWZhaWmBGLxjxYgc6JJGP0DjLfm-W93Lfw_mssRRBkgpnVjud1wJLEAFANhwD1J9HaAhSknYl-KMmAZ8WFSzd4fzNqBvA34MN9WGmtZURXYtCfZnTvkPmLbQdRfrxMUOE966fpv6bHBE1Qgph_5DRS26vixFHTi0bbmU41w0iBRfYpwxYh_uOHi0jwDWPui_hf7mRJkyMlq6x7nB_hCUPwPMHI77mbYA5uZkCMzD0pbQFeXxUI86_MhGZTQosaMDnfJAL6Eb1VRVB1K4qT694ZoFeXaGczcrtFyEkbpi2v-absHucWh2SrnRu9piauoU-ykG32Xaps3-xypjW13UJlO5akzR/https://www.amazon.com/stores/Torrid/page/FDDF74F8-629E-4B26-9DB1-B2A9B94C9B82?lp_asin=B0FLG5MVY3&amp;ref_=ast_bln/ref=syn_sd_store&amp;store_ref=_sd__detail_multiCreativeAssets?ie=UTF8&amp;psc=1&amp;pd_rd_plhdr=t\\&quot;,\\&quot;privacyUrl\\&quot;:\\&quot;https://www.amazon.com/adprefs/\\&quot;,\\&quot;detailPageUrl\\&quot;:\\&quot;https://aax-events-cell01-cf.us-east.ono.axp.amazon-adsystem.com/x/c/RGfsx3HDIkuOeCNzsSWR5UcAAAGbXJaITwEAAAH0BABvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDIgICB6GFA0/clv1_CEuOPUxokZA2iHrVe7s00QL-SWFJVpMPlbYg5z2Eyu9o8X9S8UXUIP018nFItlO9gqEp25IbkHjNfU23A3tMQlpDPCq0F_GvTh0sPWZhaWmBGLxjxYgc6JJGP0DjLfm-W93Lfw_mssRRBkgpnVjud1wJLEAFANhwD1J9HaAhSknYl-KMmAZ8WFSzd4fzNqBvA34MN9WGmtZURXYtCfZnTvkPmLbQdRfrxMUOE966fpv6bHBE1Qgph_5DRS26vixFHTi0bbmU41w0iBRfYpwxYh_uOHi0jwDWPui_hf7mRJkyMlq6x7nB_hCUPwPMHI77mbYA5uZkCMzD0pbQFeXxUI86_MhGZTQosaMDnfJAL6Eb1VRVB1K4qT694ZoFeXaGczcrtFyEkbpi2v-absHucWh2SrnRu9piauoU-ykG32Xaps3-xypjW13UJlO5akzR/https://www.amazon.com/dp/B0FLG5MVY3\\&quot;,\\&quot;rawDetailPageUrl\\&quot;:\\&quot;https://www.amazon.com/dp/B0FLG5MVY3\\&quot;,\\&quot;checkoutPageUrl\\&quot;:\\&quot;https://aax-events-cell01-cf.us-east.ono.axp.amazon-adsystem.com/x/c/RGfsx3HDIkuOeCNzsSWR5UcAAAGbXJaITwEAAAH0BABvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDIgICB6GFA0/clv1_CEuOPUxokZA2iHrVe7s00QL-SWFJVpMPlbYg5z2Eyu9o8X9S8UXUIP018nFItlO9gqEp25IbkHjNfU23A3tMQlpDPCq0F_GvTh0sPWZhaWmBGLxjxYgc6JJGP0DjLfm-W93Lfw_mssRRBkgpnVjud1wJLEAFANhwD1J9HaAhSknYl-KMmAZ8WFSzd4fzNqBvA34MN9WGmtZURXYtCfZnTvkPmLbQdRfrxMUOE966fpv6bHBE1Qgph_5DRS26vixFHTi0bbmU41w0iBRfYpwxYh_uOHi0jwDWPui_hf7mRJkyMlq6x7nB_hCUPwPMHI77mbYA5uZkCMzD0pbQFeXxUI86_MhGZTQosaMDnfJAL6Eb1VRVB1K4qT694ZoFeXaGczcrtFyEkbpi2v-absHucWh2SrnRu9piauoU-ykG32Xaps3-xypjW13UJlO5akzR/https://www.amazon.com/gp/checkoutportal/enter-checkout.html/ref=dp_mw_buy_now?asin=B0FLG5MVY3&amp;buyNow=1&amp;quantity=1\\&quot;,\\&quot;addToCartPageUrl\\&quot;:\\&quot;https://aax-events-cell01-cf.us-east.ono.axp.amazon-adsystem.com/x/c/RGfsx3HDIkuOeCNzsSWR5UcAAAGbXJaITwEAAAH0BABvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDIgICB6GFA0/clv1_CEuOPUxokZA2iHrVe7s00QL-SWFJVpMPlbYg5z2Eyu9o8X9S8UXUIP018nFItlO9gqEp25IbkHjNfU23A3tMQlpDPCq0F_GvTh0sPWZhaWmBGLxjxYgc6JJGP0DjLfm-W93Lfw_mssRRBkgpnVjud1wJLEAFANhwD1J9HaAhSknYl-KMmAZ8WFSzd4fzNqBvA34MN9WGmtZURXYtCfZnTvkPmLbQdRfrxMUOE966fpv6bHBE1Qgph_5DRS26vixFHTi0bbmU41w0iBRfYpwxYh_uOHi0jwDWPui_hf7mRJkyMlq6x7nB_hCUPwPMHI77mbYA5uZkCMzD0pbQFeXxUI86_MhGZTQosaMDnfJAL6Eb1VRVB1K4qT694ZoFeXaGczcrtFyEkbpi2v-absHucWh2SrnRu9piauoU-ykG32Xaps3-xypjW13UJlO5akzR/https://www.amazon.com/advertising/atc?ie=UTF8&amp;token=E2590003F26514D64A50C277E052B392DBFFE93E&amp;time=1766782838445&amp;merchantId=A3RS64KF6KI2ZP&amp;asin=B0FLG5MVY3&amp;program=dads&amp;adPrice=69.90&amp;offerListingId=7vJp3VVYpi78jOt4tGc5cCpSUry%252F94osEz%252FrgiOjIJsKYL0cqqWLeJsle0GXpHtBm0n0aKy%252FTweL1iQ2Si46hrE7NQthMCtze4FtjMM0M6qDNKRqztFqETh5i3KPyRBStEYIPKZY3aMrbqDDpyt09Ou9hp5gkIslOrCbwEwXyCzI%252BVkfA8OW3g%253D%253D\\&quot;,\\&quot;clickUrlPrefix\\&quot;:\\&quot;https://aax-events-cell01-cf.us-east.ono.axp.amazon-adsystem.com/x/c/RGfsx3HDIkuOeCNzsSWR5UcAAAGbXJaITwEAAAH0BABvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDIgICB6GFA0/clv1_CEuOPUxokZA2iHrVe7s00QL-SWFJVpMPlbYg5z2Eyu9o8X9S8UXUIP018nFItlO9gqEp25IbkHjNfU23A3tMQlpDPCq0F_GvTh0sPWZhaWmBGLxjxYgc6JJGP0DjLfm-W93Lfw_mssRRBkgpnVjud1wJLEAFANhwD1J9HaAhSknYl-KMmAZ8WFSzd4fzNqBvA34MN9WGmtZURXYtCfZnTvkPmLbQdRfrxMUOE966fpv6bHBE1Qgph_5DRS26vixFHTi0bbmU41w0iBRfYpwxYh_uOHi0jwDWPui_hf7mRJkyMlq6x7nB_hCUPwPMHI77mbYA5uZkCMzD0pbQFeXxUI86_MhGZTQosaMDnfJAL6Eb1VRVB1K4qT694ZoFeXaGczcrtFyEkbpi2v-absHucWh2SrnRu9piauoU-ykG32Xaps3-xypjW13UJlO5akzR/\\&quot;},\\&quot;isPreview\\&quot;:false,\\&quot;manifest\\&quot;:{\\&quot;Integ334.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/91o7Xq2GYkL.js\\&quot;,\\&quot;Integ520.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/715B8fVkOgL.js\\&quot;,\\&quot;IntegLiteVideoPlayer.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/41OHY+GTUZL.js\\&quot;,\\&quot;IntegResponsive.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/A12DnSLPe+L.js\\&quot;,\\&quot;IntegSwiperReact.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/31HbCKSoOBL.js\\&quot;,\\&quot;IntegTwitchModalResponsiveGrid.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/41qcO+Xw6hL.js\\&quot;,\\&quot;IntegVideoPlayer.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/31k-xAeZyoL.js\\&quot;,\\&quot;Integintersection-observer.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/31pGSrlWESL.js\\&quot;,\\&quot;integ.html\\&quot;:\\&quot;https://m.media-amazon.com/images/I/21-C31lSBuL.html\\&quot;,\\&quot;334.bundle.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/9181TC14+GL.js\\&quot;,\\&quot;334.bundle.min.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/91-C+5CalnL.js\\&quot;,\\&quot;520.bundle.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/71EUmlB-95L.js\\&quot;,\\&quot;520.bundle.min.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/71c6tTp3hdL.js\\&quot;,\\&quot;LiteVideoPlayer.bundle.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/41uNYZmsXnL.js\\&quot;,\\&quot;LiteVideoPlayer.bundle.min.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/41ST1nDhq7L.js\\&quot;,\\&quot;Responsive.bundle.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/91sx0jZdu4L.js\\&quot;,\\&quot;Responsive.bundle.min.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/91JIq0Z66tL.js\\&quot;,\\&quot;SwiperReact.bundle.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/317aFrgUUOL.js\\&quot;,\\&quot;SwiperReact.bundle.min.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/31AyZj3jG9L.js\\&quot;,\\&quot;TwitchModalResponsiveGrid.bundle.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/41ae2yqOilL.js\\&quot;,\\&quot;TwitchModalResponsiveGrid.bundle.min.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/41Dht4HhLWL.js\\&quot;,\\&quot;VideoPlayer.bundle.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/31dzb7+rKKL.js\\&quot;,\\&quot;VideoPlayer.bundle.min.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/31dNvlmpVkL.js\\&quot;,\\&quot;base.css\\&quot;:\\&quot;https://m.media-amazon.com/images/I/51gn7A+BHkL.css\\&quot;,\\&quot;base.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/01hWehKuy6L.js\\&quot;,\\&quot;intersection-observer.bundle.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/31P4oOguSwL.js\\&quot;,\\&quot;intersection-observer.bundle.min.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/31M55qeQf4L.js\\&quot;,\\&quot;video.css\\&quot;:\\&quot;https://m.media-amazon.com/images/I/51ztA8bHvzL.css\\&quot;,\\&quot;video.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/01hWehKuy6L.js\\&quot;,\\&quot;zoetrope.css\\&quot;:\\&quot;https://m.media-amazon.com/images/I/315SQizVIML.css\\&quot;,\\&quot;zoetrope.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/01hWehKuy6L.js\\&quot;,\\&quot;LoggingClientManager.bundle.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/41+mb41ObWL.js\\&quot;,\\&quot;LoggingClientManager.bundle.min.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/41eJV5XFDQL.js\\&quot;,\\&quot;PerformanceEventManager.bundle.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/01Z11G9go6L.js\\&quot;,\\&quot;PerformanceEventManager.bundle.min.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/01Q80n1w2qL.js\\&quot;,\\&quot;SourceIdToNameMapping.bundle.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/01eqwfq5PgL.js\\&quot;,\\&quot;SourceIdToNameMapping.bundle.min.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/01P4Yag2e2L.js\\&quot;,\\&quot;react-dom.development.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/81Gtn5wwzPL.js\\&quot;,\\&quot;react-dom.production.min.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/61WyNYFCZVL.js\\&quot;,\\&quot;react-dom.profiling.min.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/71BOTdfYQeL.js\\&quot;,\\&quot;react.development.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/41Q9reLuO0L.js\\&quot;,\\&quot;react.production.min.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/316tcep-YKL.js\\&quot;},\\&quot;isBulkPreview\\&quot;:false,\\&quot;isIlmPlacement\\&quot;:false,\\&quot;TTIMeasurementMode\\&quot;:\\&quot;video\\&quot;,\\&quot;isHomePageSlot\\&quot;:false,\\&quot;isHomePageAdRefresh\\&quot;:false,\\&quot;allow3pSellers\\&quot;:true,\\&quot;asin\\&quot;:\\&quot;B0FLG5MVY3\\&quot;,\\&quot;callToActionsProperties\\&quot;:{},\\&quot;video\\&quot;:{\\&quot;isVideoAd\\&quot;:true,\\&quot;transcodedMedias\\&quot;:[{\\&quot;transcodeType\\&quot;:\\&quot;MODERATION\\&quot;,\\&quot;url\\&quot;:\\&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9b0ee386-9f0e-4f6f-b011-450b46b47f40.mp4/moderation\\&quot;},{\\&quot;transcodeType\\&quot;:\\&quot;MEDIUM\\&quot;,\\&quot;url\\&quot;:\\&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9b0ee386-9f0e-4f6f-b011-450b46b47f40.mp4/productVideoOptimized.mp4\\&quot;},{\\&quot;transcodeType\\&quot;:\\&quot;HIGH\\&quot;,\\&quot;url\\&quot;:\\&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9b0ee386-9f0e-4f6f-b011-450b46b47f40.mp4/productVideoOptimized.mp4\\&quot;},{\\&quot;transcodeType\\&quot;:\\&quot;LOW\\&quot;,\\&quot;url\\&quot;:\\&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9b0ee386-9f0e-4f6f-b011-450b46b47f40.mp4/productVideoOptimized.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/I/51na2G51WaL._SS60_SP100,100_.jpg\\&quot;}}],\\&quot;video\\&quot;:{\\&quot;duration\\&quot;:12,\\&quot;disabledAudio\\&quot;:true,\\&quot;asset\\&quot;:{\\&quot;id\\&quot;:\\&quot;amzn1.assetlibrary.asset1.be18e07d69c2fff06844bb7d64193f35\\&quot;,\\&quot;version\\&quot;:\\&quot;version_v1\\&quot;},\\&quot;transcodedMedias\\&quot;:[{\\&quot;transcodeType\\&quot;:\\&quot;MODERATION\\&quot;,\\&quot;url\\&quot;:\\&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9b0ee386-9f0e-4f6f-b011-450b46b47f40.mp4/moderation\\&quot;},{\\&quot;transcodeType\\&quot;:\\&quot;MEDIUM\\&quot;,\\&quot;url\\&quot;:\\&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9b0ee386-9f0e-4f6f-b011-450b46b47f40.mp4/productVideoOptimized.mp4\\&quot;},{\\&quot;transcodeType\\&quot;:\\&quot;HIGH\\&quot;,\\&quot;url\\&quot;:\\&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9b0ee386-9f0e-4f6f-b011-450b46b47f40.mp4/productVideoOptimized.mp4\\&quot;},{\\&quot;transcodeType\\&quot;:\\&quot;LOW\\&quot;,\\&quot;url\\&quot;:\\&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9b0ee386-9f0e-4f6f-b011-450b46b47f40.mp4/productVideoOptimized.mp4\\&quot;}]}},\\&quot;height\\&quot;:130,\\&quot;shazamId\\&quot;:\\&quot;S9_DA_creativeId\\&quot;},\\&quot;urls\\&quot;:{\\&quot;brandPageUrl\\&quot;:\\&quot;https://aax-events-cell01-cf.us-east.ono.axp.amazon-adsystem.com/x/c/RGfsx3HDIkuOeCNzsSWR5UcAAAGbXJaITwEAAAH0BABvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDIgICB6GFA0/clv1_CEuOPUxokZA2iHrVe7s00QL-SWFJVpMPlbYg5z2Eyu9o8X9S8UXUIP018nFItlO9gqEp25IbkHjNfU23A3tMQlpDPCq0F_GvTh0sPWZhaWmBGLxjxYgc6JJGP0DjLfm-W93Lfw_mssRRBkgpnVjud1wJLEAFANhwD1J9HaAhSknYl-KMmAZ8WFSzd4fzNqBvA34MN9WGmtZURXYtCfZnTvkPmLbQdRfrxMUOE966fpv6bHBE1Qgph_5DRS26vixFHTi0bbmU41w0iBRfYpwxYh_uOHi0jwDWPui_hf7mRJkyMlq6x7nB_hCUPwPMHI77mbYA5uZkCMzD0pbQFeXxUI86_MhGZTQosaMDnfJAL6Eb1VRVB1K4qT694ZoFeXaGczcrtFyEkbpi2v-absHucWh2SrnRu9piauoU-ykG32Xaps3-xypjW13UJlO5akzR/https://www.amazon.com/stores/Torrid/page/FDDF74F8-629E-4B26-9DB1-B2A9B94C9B82?lp_asin=B0FLG5MVY3&amp;ref_=ast_bln/ref=syn_sd_store&amp;store_ref=_sd__detail_multiCreativeAssets?ie=UTF8&amp;psc=1&amp;pd_rd_plhdr=t\\&quot;,\\&quot;privacyUrl\\&quot;:\\&quot;https://www.amazon.com/adprefs/\\&quot;,\\&quot;detailPageUrl\\&quot;:\\&quot;https://aax-events-cell01-cf.us-east.ono.axp.amazon-adsystem.com/x/c/RGfsx3HDIkuOeCNzsSWR5UcAAAGbXJaITwEAAAH0BABvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDIgICB6GFA0/clv1_CEuOPUxokZA2iHrVe7s00QL-SWFJVpMPlbYg5z2Eyu9o8X9S8UXUIP018nFItlO9gqEp25IbkHjNfU23A3tMQlpDPCq0F_GvTh0sPWZhaWmBGLxjxYgc6JJGP0DjLfm-W93Lfw_mssRRBkgpnVjud1wJLEAFANhwD1J9HaAhSknYl-KMmAZ8WFSzd4fzNqBvA34MN9WGmtZURXYtCfZnTvkPmLbQdRfrxMUOE966fpv6bHBE1Qgph_5DRS26vixFHTi0bbmU41w0iBRfYpwxYh_uOHi0jwDWPui_hf7mRJkyMlq6x7nB_hCUPwPMHI77mbYA5uZkCMzD0pbQFeXxUI86_MhGZTQosaMDnfJAL6Eb1VRVB1K4qT694ZoFeXaGczcrtFyEkbpi2v-absHucWh2SrnRu9piauoU-ykG32Xaps3-xypjW13UJlO5akzR/https://www.amazon.com/dp/B0FLG5MVY3\\&quot;,\\&quot;rawDetailPageUrl\\&quot;:\\&quot;https://www.amazon.com/dp/B0FLG5MVY3\\&quot;,\\&quot;checkoutPageUrl\\&quot;:\\&quot;https://aax-events-cell01-cf.us-east.ono.axp.amazon-adsystem.com/x/c/RGfsx3HDIkuOeCNzsSWR5UcAAAGbXJaITwEAAAH0BABvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDIgICB6GFA0/clv1_CEuOPUxokZA2iHrVe7s00QL-SWFJVpMPlbYg5z2Eyu9o8X9S8UXUIP018nFItlO9gqEp25IbkHjNfU23A3tMQlpDPCq0F_GvTh0sPWZhaWmBGLxjxYgc6JJGP0DjLfm-W93Lfw_mssRRBkgpnVjud1wJLEAFANhwD1J9HaAhSknYl-KMmAZ8WFSzd4fzNqBvA34MN9WGmtZURXYtCfZnTvkPmLbQdRfrxMUOE966fpv6bHBE1Qgph_5DRS26vixFHTi0bbmU41w0iBRfYpwxYh_uOHi0jwDWPui_hf7mRJkyMlq6x7nB_hCUPwPMHI77mbYA5uZkCMzD0pbQFeXxUI86_MhGZTQosaMDnfJAL6Eb1VRVB1K4qT694ZoFeXaGczcrtFyEkbpi2v-absHucWh2SrnRu9piauoU-ykG32Xaps3-xypjW13UJlO5akzR/https://www.amazon.com/gp/checkoutportal/enter-checkout.html/ref=dp_mw_buy_now?asin=B0FLG5MVY3&amp;buyNow=1&amp;quantity=1\\&quot;,\\&quot;addToCartPageUrl\\&quot;:\\&quot;https://aax-events-cell01-cf.us-east.ono.axp.amazon-adsystem.com/x/c/RGfsx3HDIkuOeCNzsSWR5UcAAAGbXJaITwEAAAH0BABvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDIgICB6GFA0/clv1_CEuOPUxokZA2iHrVe7s00QL-SWFJVpMPlbYg5z2Eyu9o8X9S8UXUIP018nFItlO9gqEp25IbkHjNfU23A3tMQlpDPCq0F_GvTh0sPWZhaWmBGLxjxYgc6JJGP0DjLfm-W93Lfw_mssRRBkgpnVjud1wJLEAFANhwD1J9HaAhSknYl-KMmAZ8WFSzd4fzNqBvA34MN9WGmtZURXYtCfZnTvkPmLbQdRfrxMUOE966fpv6bHBE1Qgph_5DRS26vixFHTi0bbmU41w0iBRfYpwxYh_uOHi0jwDWPui_hf7mRJkyMlq6x7nB_hCUPwPMHI77mbYA5uZkCMzD0pbQFeXxUI86_MhGZTQosaMDnfJAL6Eb1VRVB1K4qT694ZoFeXaGczcrtFyEkbpi2v-absHucWh2SrnRu9piauoU-ykG32Xaps3-xypjW13UJlO5akzR/https://www.amazon.com/advertising/atc?ie=UTF8&amp;token=E2590003F26514D64A50C277E052B392DBFFE93E&amp;time=1766782838445&amp;merchantId=A3RS64KF6KI2ZP&amp;asin=B0FLG5MVY3&amp;program=dads&amp;adPrice=69.90&amp;offerListingId=7vJp3VVYpi78jOt4tGc5cCpSUry%252F94osEz%252FrgiOjIJsKYL0cqqWLeJsle0GXpHtBm0n0aKy%252FTweL1iQ2Si46hrE7NQthMCtze4FtjMM0M6qDNKRqztFqETh5i3KPyRBStEYIPKZY3aMrbqDDpyt09Ou9hp5gkIslOrCbwEwXyCzI%252BVkfA8OW3g%253D%253D\\&quot;,\\&quot;clickUrlPrefix\\&quot;:\\&quot;https://aax-events-cell01-cf.us-east.ono.axp.amazon-adsystem.com/x/c/RGfsx3HDIkuOeCNzsSWR5UcAAAGbXJaITwEAAAH0BABvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDIgICB6GFA0/clv1_CEuOPUxokZA2iHrVe7s00QL-SWFJVpMPlbYg5z2Eyu9o8X9S8UXUIP018nFItlO9gqEp25IbkHjNfU23A3tMQlpDPCq0F_GvTh0sPWZhaWmBGLxjxYgc6JJGP0DjLfm-W93Lfw_mssRRBkgpnVjud1wJLEAFANhwD1J9HaAhSknYl-KMmAZ8WFSzd4fzNqBvA34MN9WGmtZURXYtCfZnTvkPmLbQdRfrxMUOE966fpv6bHBE1Qgph_5DRS26vixFHTi0bbmU41w0iBRfYpwxYh_uOHi0jwDWPui_hf7mRJkyMlq6x7nB_hCUPwPMHI77mbYA5uZkCMzD0pbQFeXxUI86_MhGZTQosaMDnfJAL6Eb1VRVB1K4qT694ZoFeXaGczcrtFyEkbpi2v-absHucWh2SrnRu9piauoU-ykG32Xaps3-xypjW13UJlO5akzR/\\&quot;},\\&quot;isPreview\\&quot;:false,\\&quot;manifest\\&quot;:{\\&quot;Integ334.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/91o7Xq2GYkL.js\\&quot;,\\&quot;Integ520.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/715B8fVkOgL.js\\&quot;,\\&quot;IntegLiteVideoPlayer.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/41OHY+GTUZL.js\\&quot;,\\&quot;IntegResponsive.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/A12DnSLPe+L.js\\&quot;,\\&quot;IntegSwiperReact.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/31HbCKSoOBL.js\\&quot;,\\&quot;IntegTwitchModalResponsiveGrid.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/41qcO+Xw6hL.js\\&quot;,\\&quot;IntegVideoPlayer.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/31k-xAeZyoL.js\\&quot;,\\&quot;Integintersection-observer.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/31pGSrlWESL.js\\&quot;,\\&quot;integ.html\\&quot;:\\&quot;https://m.media-amazon.com/images/I/21-C31lSBuL.html\\&quot;,\\&quot;334.bundle.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/9181TC14+GL.js\\&quot;,\\&quot;334.bundle.min.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/91-C+5CalnL.js\\&quot;,\\&quot;520.bundle.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/71EUmlB-95L.js\\&quot;,\\&quot;520.bundle.min.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/71c6tTp3hdL.js\\&quot;,\\&quot;LiteVideoPlayer.bundle.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/41uNYZmsXnL.js\\&quot;,\\&quot;LiteVideoPlayer.bundle.min.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/41ST1nDhq7L.js\\&quot;,\\&quot;Responsive.bundle.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/91sx0jZdu4L.js\\&quot;,\\&quot;Responsive.bundle.min.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/91JIq0Z66tL.js\\&quot;,\\&quot;SwiperReact.bundle.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/317aFrgUUOL.js\\&quot;,\\&quot;SwiperReact.bundle.min.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/31AyZj3jG9L.js\\&quot;,\\&quot;TwitchModalResponsiveGrid.bundle.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/41ae2yqOilL.js\\&quot;,\\&quot;TwitchModalResponsiveGrid.bundle.min.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/41Dht4HhLWL.js\\&quot;,\\&quot;VideoPlayer.bundle.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/31dzb7+rKKL.js\\&quot;,\\&quot;VideoPlayer.bundle.min.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/31dNvlmpVkL.js\\&quot;,\\&quot;base.css\\&quot;:\\&quot;https://m.media-amazon.com/images/I/51gn7A+BHkL.css\\&quot;,\\&quot;base.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/01hWehKuy6L.js\\&quot;,\\&quot;intersection-observer.bundle.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/31P4oOguSwL.js\\&quot;,\\&quot;intersection-observer.bundle.min.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/31M55qeQf4L.js\\&quot;,\\&quot;video.css\\&quot;:\\&quot;https://m.media-amazon.com/images/I/51ztA8bHvzL.css\\&quot;,\\&quot;video.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/01hWehKuy6L.js\\&quot;,\\&quot;zoetrope.css\\&quot;:\\&quot;https://m.media-amazon.com/images/I/315SQizVIML.css\\&quot;,\\&quot;zoetrope.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/01hWehKuy6L.js\\&quot;,\\&quot;LoggingClientManager.bundle.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/41+mb41ObWL.js\\&quot;,\\&quot;LoggingClientManager.bundle.min.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/41eJV5XFDQL.js\\&quot;,\\&quot;PerformanceEventManager.bundle.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/01Z11G9go6L.js\\&quot;,\\&quot;PerformanceEventManager.bundle.min.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/01Q80n1w2qL.js\\&quot;,\\&quot;SourceIdToNameMapping.bundle.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/01eqwfq5PgL.js\\&quot;,\\&quot;SourceIdToNameMapping.bundle.min.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/01P4Yag2e2L.js\\&quot;,\\&quot;react-dom.development.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/81Gtn5wwzPL.js\\&quot;,\\&quot;react-dom.production.min.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/61WyNYFCZVL.js\\&quot;,\\&quot;react-dom.profiling.min.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/71BOTdfYQeL.js\\&quot;,\\&quot;react.development.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/41Q9reLuO0L.js\\&quot;,\\&quot;react.production.min.js\\&quot;:\\&quot;https://m.media-amazon.com/images/I/316tcep-YKL.js\\&quot;},\\&quot;isBulkPreview\\&quot;:false,\\&quot;isIlmPlacement\\&quot;:false,\\&quot;TTIMeasurementMode\\&quot;:\\&quot;video\\&quot;,\\&quot;isHomePageSlot\\&quot;:false,\\&quot;isHomePageAdRefresh\\&quot;:false,\\&quot;allow3pSellers\\&quot;:true,\\&quot;asin\\&quot;:\\&quot;B0FLG5MVY3\\&quot;,\\&quot;callToActionsProperties\\&quot;:{},\\&quot;video\\&quot;:{\\&quot;isVideoAd\\&quot;:true,\\&quot;transcodedMedias\\&quot;:[{\\&quot;transcodeType\\&quot;:\\&quot;MODERATION\\&quot;,\\&quot;url\\&quot;:\\&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9b0ee386-9f0e-4f6f-b011-450b46b47f40.mp4/moderation\\&quot;},{\\&quot;transcodeType\\&quot;:\\&quot;MEDIUM\\&quot;,\\&quot;url\\&quot;:\\&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9b0ee386-9f0e-4f6f-b011-450b46b47f40.mp4/productVideoOptimized.mp4\\&quot;},{\\&quot;transcodeType\\&quot;:\\&quot;HIGH\\&quot;,\\&quot;url\\&quot;:\\&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9b0ee386-9f0e-4f6f-b011-450b46b47f40.mp4/productVideoOptimized.mp4\\&quot;},{\\&quot;transcodeType\\&quot;:\\&quot;LOW\\&quot;,\\&quot;url\\&quot;:\\&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9b0ee386-9f0e-4f6f-b011-450b46b47f40.mp4/productVideoOptimized.mp4"
+        }
+      ]
+    },
+    {
+      "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/72b8e4ad-94df-45cc-b521-8de132376614.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG&quot;,&quot;videoSrc&quot;:&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/72b8e4ad-94df-45cc-b521-8de132376614.mp4/productVideoOptimized.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/72b8e4ad-94df-45cc-b521-8de132376614.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG&quot;,&quot;videoSrc&quot;:&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/72b8e4ad-94df-45cc-b521-8de132376614.mp4/productVideoOptimized.mp4"
+        }
+      ]
+    },
+    {
+      "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/72b8e4ad-94df-45cc-b521-8de132376614.mp4/productVideoOptimized.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/72b8e4ad-94df-45cc-b521-8de132376614.mp4/productVideoOptimized.mp4"
+        }
+      ]
+    },
+    {
+      "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/72b8e4ad-94df-45cc-b521-8de132376614.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/72b8e4ad-94df-45cc-b521-8de132376614.mp4"
+        }
+      ]
+    },
+    {
+      "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9b0ee386-9f0e-4f6f-b011-450b46b47f40.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG&quot;,&quot;videoSrc&quot;:&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9b0ee386-9f0e-4f6f-b011-450b46b47f40.mp4/productVideoOptimized.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9b0ee386-9f0e-4f6f-b011-450b46b47f40.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG&quot;,&quot;videoSrc&quot;:&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9b0ee386-9f0e-4f6f-b011-450b46b47f40.mp4/productVideoOptimized.mp4"
+        }
+      ]
+    },
+    {
+      "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9b0ee386-9f0e-4f6f-b011-450b46b47f40.mp4/productVideoOptimized.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9b0ee386-9f0e-4f6f-b011-450b46b47f40.mp4/productVideoOptimized.mp4"
+        }
+      ]
+    },
+    {
+      "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9b0ee386-9f0e-4f6f-b011-450b46b47f40.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9b0ee386-9f0e-4f6f-b011-450b46b47f40.mp4"
+        }
+      ]
+    }
+  ],
+  "color_swatches": {
+    "Bitter Chocolate": "https://m.media-amazon.com/images/I/41-51n-613L._AC_SR38,50_.jpg"
+  },
+  "color_image_key": {
+    "Bitter Chocolate": "71Jq8YdpWeL"
+  },
+  "color_images": {
+    "Bitter Chocolate": [
+      "https://m.media-amazon.com/images/I/71Jq8YdpWeL._SL1500_.jpg"
+    ]
+  },
+  "related": [
+    {
+      "id": "womens-maxi-dress-bodycon",
+      "title": "Womens Maxi Dress Bodycon",
+      "price": 19.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Casual",
+      "images": [
+        "https://m.media-amazon.com/images/I/61VuYs+zQLL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-formal-evening",
+      "title": "Womens Maxi Dress Formal Evening",
+      "price": 73.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Formal",
+      "images": [
+        "https://m.media-amazon.com/images/I/51ps6BmOjoL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-dress-split",
+      "title": "Womens Dress Split",
+      "price": 42.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Casual",
+      "images": [
+        "https://m.media-amazon.com/images/I/61DSxHAcRiL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-long-sleeve",
+      "title": "Womens Maxi Dress Long Sleeve",
+      "price": 39.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Casual",
+      "images": [
+        "https://m.media-amazon.com/images/I/71lg4uNJNjL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-evening-maxi-sleeveless-formal-bodycon",
+      "title": "Womens Maxi Dress Evening Maxi Sleeveless Formal Bodycon",
+      "price": 61.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Formal",
+      "images": [
+        "https://m.media-amazon.com/images/I/61s8qg6u1VL._SL1500_.jpg"
+      ]
+    }
+  ],
+  "customer_also_viewed": [
+    {
+      "id": "womens-dress-sleeveless",
+      "title": "Womens Dress Sleeveless",
+      "price": 38.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Club & Night Out",
+      "images": [
+        "https://m.media-amazon.com/images/I/71h38kyippL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-formal-maxi",
+      "title": "Womens Maxi Dress Formal Maxi",
+      "price": 64.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses",
+      "images": [
+        "https://m.media-amazon.com/images/I/61RWPo72AmL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-dress-bodycon",
+      "title": "Womens Dress Bodycon",
+      "price": 26.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Club & Night Out",
+      "images": [
+        "https://m.media-amazon.com/images/I/61KxW5N9HFL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-cocktail-long-sleeve-maxi",
+      "title": "Womens Maxi Dress Cocktail Long Sleeve Maxi",
+      "price": 49.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Casual",
+      "images": [
+        "https://m.media-amazon.com/images/I/61blndjnsnL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-dress-cocktail-bodycon-ruched",
+      "title": "Womens Dress Cocktail Bodycon Ruched",
+      "price": 43.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Club & Night Out",
+      "images": [
+        "https://m.media-amazon.com/images/I/51Fi7gsARJL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-dress-formal",
+      "title": "Womens Dress Formal",
+      "price": 78.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Formal",
+      "images": [
+        "https://m.media-amazon.com/images/I/61qIJxJ99HL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-formal",
+      "title": "Womens Maxi Dress Formal",
+      "price": 69.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Formal",
+      "images": [
+        "https://m.media-amazon.com/images/I/510lzudFSbL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-cocktail-boat-neck",
+      "title": "Womens Maxi Dress Cocktail Boat Neck",
+      "price": 33.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Club & Night Out",
+      "images": [
+        "https://m.media-amazon.com/images/I/61ejOZxh-hL._SL1500_.jpg"
+      ]
+    }
+  ],
+  "slug": "womens-dress-b0fk4b9yxk"
+}

@@ -1,0 +1,500 @@
+{
+  "id": "womens-dress",
+  "handle": "womens-dress",
+  "sku": "JC2206",
+  "asin": "B0FMXN9F5G",
+  "title": "Womens Dress",
+  "title_original": "Patchwork Turtleneck PVC Hip Wrap Dress Women Sexy Faux Latex Hobble Dress Clubwear",
+  "brand": "ERFSQIYALHJ",
+  "price": 79.99,
+  "social_proof": {
+    "bought_past_month": 75,
+    "text": "75+ bought in the past month"
+  },
+  "images": [
+    "https://m.media-amazon.com/images/I/41oiRr+C7hL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41F-ghwz6nL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71MXBoPKdPL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41NHUeJZ-8L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/412YJ+d1skL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41IH4VuGjhL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/412hO8GJ0vL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41kAeOWwlRL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41vnwCBJ4BL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41f9Ou+FrBL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41sG42zDqJL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41gi6LsopLL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41HbY6sLWFL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41xRjhMFX4L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41xIi1PwXqL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41EiejkoKML._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41rWTXmxhUL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41M6fs3dFJL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/413-UQ14kCL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41qXBcbz7mL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41iY+f9oo3L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41sURdsyxzL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41LwnHIazIL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41FBTUSIuYL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41SFuwhMaoL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41TQ+urOngL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41bMVQC9bxL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41VrppoJC4L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41U3Wzuod8L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41AxbuYBtFL._SL1500_.jpg"
+  ],
+  "gallery_images": [
+    "https://m.media-amazon.com/images/I/41oiRr+C7hL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41F-ghwz6nL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71MXBoPKdPL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41NHUeJZ-8L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/412YJ+d1skL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41IH4VuGjhL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/412hO8GJ0vL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41kAeOWwlRL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41vnwCBJ4BL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41f9Ou+FrBL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41sG42zDqJL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41gi6LsopLL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41HbY6sLWFL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41xRjhMFX4L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41xIi1PwXqL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41EiejkoKML._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41rWTXmxhUL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41M6fs3dFJL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/413-UQ14kCL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41qXBcbz7mL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41iY+f9oo3L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41sURdsyxzL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41LwnHIazIL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41FBTUSIuYL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41SFuwhMaoL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41TQ+urOngL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41bMVQC9bxL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41VrppoJC4L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41U3Wzuod8L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41AxbuYBtFL._SL1500_.jpg"
+  ],
+  "aplus_images": [],
+  "description_images": [],
+  "bullets": [],
+  "specs": {
+    "Package Dimensions ‏": "‎ 11.81 x 7.87 x 3.94 inches; 10.58 ounces",
+    "Department ‏": "‎ womens",
+    "Date First Available ‏": "‎ August 19, 2025",
+    "ASIN ‏": "‎ B0FMXQXXR2",
+    "Product Warranty": "For warranty information about this product, please click here",
+    "Best Sellers Rank": "#1,099,187 in Clothing, Shoes & Jewelry ( See Top 100 in Clothing, Shoes & Jewelry ) #6,479 in Women's Club & Night Out Dresses"
+  },
+  "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Club & Night Out",
+  "variations": {
+    "sizes": [
+      "5",
+      "5.5",
+      "6",
+      "6.5",
+      "7",
+      "7.5",
+      "8",
+      "8.5",
+      "9",
+      "9.5",
+      "10",
+      "11"
+    ],
+    "colors": [
+      "Fluorescence Green",
+      "Grass Green",
+      "Fuchsia",
+      "Lotus Root Color",
+      "Black",
+      "Orange",
+      "Bright Green",
+      "Lake Blue",
+      "Beige",
+      "Light Pink",
+      "Blue Mist",
+      "Light Brown",
+      "Gold",
+      "Fluorescent Pink",
+      "Blue",
+      "Light Green",
+      "Navy Blue",
+      "Dark Brown",
+      "Dark Red",
+      "Dark Green",
+      "Red",
+      "Silver",
+      "Pink",
+      "White",
+      "Purple",
+      "Yellow",
+      "Dark Purple",
+      "Green"
+    ],
+    "size_chart": null
+  },
+  "reviews": {
+    "average_rating": 5.0,
+    "count": 0,
+    "customers_say": null,
+    "items": []
+  },
+  "short_description": "Womens Dress is made for a polished look that still feels comfortable to wear. It is designed to sit cleanly on the body with a flattering shape that works for day plans and dressier moments without feeling overdone.\n\nThe fit focuses on balance rather than extremes, so you can move naturally while still getting a defined silhouette. Choose your usual size for a closer look, or size up if you prefer a little more ease through the waist and hips.\n\nStyling is simple: keep accessories minimal for a clean finish, or add a jacket and statement shoes when you want a sharper outfit. This piece photographs well thanks to smooth lines and a structured feel that stays put once you have it adjusted.\n\nWith the right fit and simple styling, this item becomes an easy go-to when you want something that looks intentional without requiring extra effort.\n\nThis piece transitions well from daytime plans to evening events with a quick change of shoes and a small bag or clutch.\n\nIf you are between sizes, choose based on how close you like the fit through the waist and hips, then adjust with your usual layering choices.",
+  "about_this_item": "Womens Dress is made for a polished look that still feels comfortable to wear. It is designed to sit cleanly on the body with a flattering shape that works for day plans and dressier moments without feeling overdone.\n\nThe fit focuses on balance rather than extremes, so you can move naturally while still getting a defined silhouette. Choose your usual size for a closer look, or size up if you prefer a little more ease through the waist and hips.\n\nStyling is simple: keep accessories minimal for a clean finish, or add a jacket and statement shoes when you want a sharper outfit. This piece photographs well thanks to smooth lines and a structured feel that stays put once you have it adjusted.\n\nWith the right fit and simple styling, this item becomes an easy go-to when you want something that looks intentional without requiring extra effort.\n\nThis piece transitions well from daytime plans to evening events with a quick change of shoes and a small bag or clutch.\n\nIf you are between sizes, choose based on how close you like the fit through the waist and hips, then adjust with your usual layering choices.",
+  "long_description": "Womens Dress is a versatile piece you can reach for when you want a put-together look that still feels comfortable. The goal is simple: a silhouette that reads polished, photographs well, and stays wearable for a full day or a long night.\n\nFit and sizing Fit is where most outfits win or lose. This design aims for a balanced shape with a defined line through the torso, a clean waist, and a smooth finish through the hips and legs. If you prefer a more relaxed feel, size up; if you like a closer fit, stay true to size. Sizes may include: 5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 11.\n\nFabric and comfort Comfort is not just about softness. It is also about movement and how the fabric behaves as you walk, sit, and stand. A fabric blend with a bit of give helps it keep its shape while still feeling wearable.\n\nHighlights A clean neckline and a refined silhouette for an elevated look. Designed to layer easily with jackets, wraps, or sweaters. Works well with both minimal accessories and statement pieces.\n\nHow to style Styling ideas: keep it minimal with neutral shoes and one standout accessory. For a relaxed daytime look, add a denim jacket or cardigan. For events, switch to a bolder shoe and a small clutch for a sharper finish.\n\nColor notes Available colors may include: Fluorescence Green, Grass Green, Fuchsia, Lotus Root Color, Black, Orange, Bright Green, Lake Blue, Beige, Light Pink, Blue Mist, Light Brown, Gold, Fluorescent Pink. If a shade is sold out, check back as availability can change.\n\nCare Care guidance matters if you want it to keep its shape and finish. Follow the label first.",
+  "long_description_blocks": [
+    {
+      "type": "p",
+      "text": "Womens Dress is a versatile piece you can reach for when you want a put-together look that still feels comfortable. The goal is simple: a silhouette that reads polished, photographs well, and stays wearable for a full day or a long night."
+    },
+    {
+      "type": "p",
+      "text": "Fit and sizing Fit is where most outfits win or lose. This design aims for a balanced shape with a defined line through the torso, a clean waist, and a smooth finish through the hips and legs. If you prefer a more relaxed feel, size up; if you like a closer fit, stay true to size. Sizes may include: 5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 11."
+    },
+    {
+      "type": "p",
+      "text": "Fabric and comfort Comfort is not just about softness. It is also about movement and how the fabric behaves as you walk, sit, and stand. A fabric blend with a bit of give helps it keep its shape while still feeling wearable."
+    },
+    {
+      "type": "p",
+      "text": "Highlights A clean neckline and a refined silhouette for an elevated look. Designed to layer easily with jackets, wraps, or sweaters. Works well with both minimal accessories and statement pieces."
+    },
+    {
+      "type": "p",
+      "text": "How to style Styling ideas: keep it minimal with neutral shoes and one standout accessory. For a relaxed daytime look, add a denim jacket or cardigan. For events, switch to a bolder shoe and a small clutch for a sharper finish."
+    },
+    {
+      "type": "p",
+      "text": "Color notes Available colors may include: Fluorescence Green, Grass Green, Fuchsia, Lotus Root Color, Black, Orange, Bright Green, Lake Blue, Beige, Light Pink, Blue Mist, Light Brown, Gold, Fluorescent Pink. If a shade is sold out, check back as availability can change."
+    },
+    {
+      "type": "p",
+      "text": "Care Care guidance matters if you want it to keep its shape and finish. Follow the label first."
+    }
+  ],
+  "videos": [],
+  "color_swatches": {
+    "Fluorescence Green": "https://m.media-amazon.com/images/I/31qNim9fVZL._AC_SR38,50_.jpg",
+    "Grass Green": "https://m.media-amazon.com/images/I/31kXAze48pL._AC_SR38,50_.jpg",
+    "Fuchsia": "https://m.media-amazon.com/images/I/31BUz0Zlx0L._AC_SR38,50_.jpg",
+    "Lotus Root Color": "https://m.media-amazon.com/images/I/31DAUBf5WNL._AC_SR38,50_.jpg",
+    "Black": "https://m.media-amazon.com/images/I/31O29X+0U9L._AC_SR38,50_.jpg",
+    "Orange": "https://m.media-amazon.com/images/I/31uIWCKfZdL._AC_SR38,50_.jpg",
+    "Bright Green": "https://m.media-amazon.com/images/I/31uHJrp62KL._AC_SR38,50_.jpg",
+    "Lake Blue": "https://m.media-amazon.com/images/I/31JbQ2tDf+L._AC_SR38,50_.jpg",
+    "Beige": "https://m.media-amazon.com/images/I/31tkWZBu+zL._AC_SR38,50_.jpg",
+    "Light Pink": "https://m.media-amazon.com/images/I/31fXnTBURxL._AC_SR38,50_.jpg",
+    "Blue Mist": "https://m.media-amazon.com/images/I/31fW1NtWyYL._AC_SR38,50_.jpg",
+    "Light Brown": "https://m.media-amazon.com/images/I/31veHNqpqYL._AC_SR38,50_.jpg",
+    "Gold": "https://m.media-amazon.com/images/I/31PS6NoTa6L._AC_SR38,50_.jpg",
+    "Fluorescent Pink": "https://m.media-amazon.com/images/I/313EHqWfjwL._AC_SR38,50_.jpg",
+    "Blue": "https://m.media-amazon.com/images/I/314VQMo7YBL._AC_SR38,50_.jpg",
+    "Light Green": "https://m.media-amazon.com/images/I/31eMFK2anAL._AC_SR38,50_.jpg",
+    "Navy Blue": "https://m.media-amazon.com/images/I/31JGSFA3Q+L._AC_SR38,50_.jpg",
+    "Dark Brown": "https://m.media-amazon.com/images/I/31KRAwGHhvL._AC_SR38,50_.jpg",
+    "Dark Red": "https://m.media-amazon.com/images/I/31K25LHV7pL._AC_SR38,50_.jpg",
+    "Dark Green": "https://m.media-amazon.com/images/I/31QSqfCh2RL._AC_SR38,50_.jpg",
+    "Red": "https://m.media-amazon.com/images/I/31xAILfASvL._AC_SR38,50_.jpg",
+    "Silver": "https://m.media-amazon.com/images/I/31bUJJ3ubZL._AC_SR38,50_.jpg",
+    "Pink": "https://m.media-amazon.com/images/I/31u4G5YchlL._AC_SR38,50_.jpg",
+    "White": "https://m.media-amazon.com/images/I/31beY4b+dhL._AC_SR38,50_.jpg",
+    "Purple": "https://m.media-amazon.com/images/I/31r5cYfajTL._AC_SR38,50_.jpg",
+    "Yellow": "https://m.media-amazon.com/images/I/31jXDsEW6pL._AC_SR38,50_.jpg",
+    "Dark Purple": "https://m.media-amazon.com/images/I/31MLrWTOGHL._AC_SR38,50_.jpg",
+    "Green": "https://m.media-amazon.com/images/I/31t42Skt5YL._AC_SR38,50_.jpg"
+  },
+  "color_image_key": {
+    "Fluorescence Green": "41NHUeJZ-8L",
+    "Grass Green": "412YJ+d1skL",
+    "Fuchsia": "41IH4VuGjhL",
+    "Lotus Root Color": "412hO8GJ0vL",
+    "Black": "41kAeOWwlRL",
+    "Orange": "41vnwCBJ4BL",
+    "Bright Green": "41f9Ou+FrBL",
+    "Lake Blue": "41sG42zDqJL",
+    "Beige": "41gi6LsopLL",
+    "Light Pink": "41HbY6sLWFL",
+    "Blue Mist": "41xRjhMFX4L",
+    "Light Brown": "41xIi1PwXqL",
+    "Gold": "41EiejkoKML",
+    "Fluorescent Pink": "41rWTXmxhUL",
+    "Blue": "41M6fs3dFJL",
+    "Light Green": "413-UQ14kCL",
+    "Navy Blue": "41qXBcbz7mL",
+    "Dark Brown": "41iY+f9oo3L",
+    "Dark Red": "41sURdsyxzL",
+    "Dark Green": "41LwnHIazIL",
+    "Red": "41FBTUSIuYL",
+    "Silver": "41SFuwhMaoL",
+    "Pink": "41oiRr+C7hL",
+    "White": "41TQ+urOngL",
+    "Purple": "41bMVQC9bxL",
+    "Yellow": "41VrppoJC4L",
+    "Dark Purple": "41U3Wzuod8L",
+    "Green": "41AxbuYBtFL"
+  },
+  "color_images": {
+    "Fluorescence Green": [
+      "https://m.media-amazon.com/images/I/41NHUeJZ-8L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/41F-ghwz6nL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71MXBoPKdPL._SL1500_.jpg"
+    ],
+    "Grass Green": [
+      "https://m.media-amazon.com/images/I/412YJ+d1skL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/41F-ghwz6nL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71MXBoPKdPL._SL1500_.jpg"
+    ],
+    "Fuchsia": [
+      "https://m.media-amazon.com/images/I/41IH4VuGjhL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/41F-ghwz6nL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71MXBoPKdPL._SL1500_.jpg"
+    ],
+    "Lotus Root Color": [
+      "https://m.media-amazon.com/images/I/412hO8GJ0vL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/41F-ghwz6nL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71MXBoPKdPL._SL1500_.jpg"
+    ],
+    "Black": [
+      "https://m.media-amazon.com/images/I/41kAeOWwlRL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/41F-ghwz6nL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71MXBoPKdPL._SL1500_.jpg"
+    ],
+    "Orange": [
+      "https://m.media-amazon.com/images/I/41vnwCBJ4BL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/41F-ghwz6nL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71MXBoPKdPL._SL1500_.jpg"
+    ],
+    "Bright Green": [
+      "https://m.media-amazon.com/images/I/41f9Ou+FrBL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/41F-ghwz6nL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71MXBoPKdPL._SL1500_.jpg"
+    ],
+    "Lake Blue": [
+      "https://m.media-amazon.com/images/I/41sG42zDqJL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/41F-ghwz6nL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71MXBoPKdPL._SL1500_.jpg"
+    ],
+    "Beige": [
+      "https://m.media-amazon.com/images/I/41gi6LsopLL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/41F-ghwz6nL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71MXBoPKdPL._SL1500_.jpg"
+    ],
+    "Light Pink": [
+      "https://m.media-amazon.com/images/I/41HbY6sLWFL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/41F-ghwz6nL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71MXBoPKdPL._SL1500_.jpg"
+    ],
+    "Blue Mist": [
+      "https://m.media-amazon.com/images/I/41xRjhMFX4L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/41F-ghwz6nL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71MXBoPKdPL._SL1500_.jpg"
+    ],
+    "Light Brown": [
+      "https://m.media-amazon.com/images/I/41xIi1PwXqL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/41F-ghwz6nL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71MXBoPKdPL._SL1500_.jpg"
+    ],
+    "Gold": [
+      "https://m.media-amazon.com/images/I/41EiejkoKML._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/41F-ghwz6nL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71MXBoPKdPL._SL1500_.jpg"
+    ],
+    "Fluorescent Pink": [
+      "https://m.media-amazon.com/images/I/41rWTXmxhUL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/41F-ghwz6nL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71MXBoPKdPL._SL1500_.jpg"
+    ],
+    "Blue": [
+      "https://m.media-amazon.com/images/I/41M6fs3dFJL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/41F-ghwz6nL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71MXBoPKdPL._SL1500_.jpg"
+    ],
+    "Light Green": [
+      "https://m.media-amazon.com/images/I/413-UQ14kCL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/41F-ghwz6nL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71MXBoPKdPL._SL1500_.jpg"
+    ],
+    "Navy Blue": [
+      "https://m.media-amazon.com/images/I/41qXBcbz7mL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/41F-ghwz6nL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71MXBoPKdPL._SL1500_.jpg"
+    ],
+    "Dark Brown": [
+      "https://m.media-amazon.com/images/I/41iY+f9oo3L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/41F-ghwz6nL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71MXBoPKdPL._SL1500_.jpg"
+    ],
+    "Dark Red": [
+      "https://m.media-amazon.com/images/I/41sURdsyxzL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/41F-ghwz6nL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71MXBoPKdPL._SL1500_.jpg"
+    ],
+    "Dark Green": [
+      "https://m.media-amazon.com/images/I/41LwnHIazIL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/41F-ghwz6nL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71MXBoPKdPL._SL1500_.jpg"
+    ],
+    "Red": [
+      "https://m.media-amazon.com/images/I/41FBTUSIuYL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/41F-ghwz6nL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71MXBoPKdPL._SL1500_.jpg"
+    ],
+    "Silver": [
+      "https://m.media-amazon.com/images/I/41SFuwhMaoL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/41F-ghwz6nL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71MXBoPKdPL._SL1500_.jpg"
+    ],
+    "Pink": [
+      "https://m.media-amazon.com/images/I/41oiRr+C7hL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/41F-ghwz6nL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71MXBoPKdPL._SL1500_.jpg"
+    ],
+    "White": [
+      "https://m.media-amazon.com/images/I/41TQ+urOngL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/41F-ghwz6nL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71MXBoPKdPL._SL1500_.jpg"
+    ],
+    "Purple": [
+      "https://m.media-amazon.com/images/I/41bMVQC9bxL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/41F-ghwz6nL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71MXBoPKdPL._SL1500_.jpg"
+    ],
+    "Yellow": [
+      "https://m.media-amazon.com/images/I/41VrppoJC4L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/41F-ghwz6nL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71MXBoPKdPL._SL1500_.jpg"
+    ],
+    "Dark Purple": [
+      "https://m.media-amazon.com/images/I/41U3Wzuod8L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/41F-ghwz6nL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71MXBoPKdPL._SL1500_.jpg"
+    ],
+    "Green": [
+      "https://m.media-amazon.com/images/I/41AxbuYBtFL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/41F-ghwz6nL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71MXBoPKdPL._SL1500_.jpg"
+    ]
+  },
+  "related": [
+    {
+      "id": "womens-maxi-dress-sleeveless-maxi",
+      "title": "Womens Maxi Dress Sleeveless Maxi",
+      "price": 48.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Casual",
+      "images": [
+        "https://m.media-amazon.com/images/I/71qwUjryGiL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress",
+      "title": "Womens Maxi Dress",
+      "price": 43.69,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Casual",
+      "images": [
+        "https://m.media-amazon.com/images/I/61-pFN+nfgL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-maxi-bodycon",
+      "title": "Womens Maxi Dress Maxi Bodycon",
+      "price": 36.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Club & Night Out",
+      "images": [
+        "https://m.media-amazon.com/images/I/61o6MKJoZLL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-one-shoulder-formal-mermaid-bodycon-evening-maxi",
+      "title": "Womens Maxi Dress One Shoulder Formal Mermaid Bodycon Evening Maxi",
+      "price": 59.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Club & Night Out",
+      "images": [
+        "https://m.media-amazon.com/images/I/71mgUBuGwhL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-dress-v-neck-short-sleeve",
+      "title": "Womens Dress V Neck Short Sleeve",
+      "price": 34.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Casual",
+      "images": [
+        "https://m.media-amazon.com/images/I/71T+iJeFITL._SL1500_.jpg"
+      ]
+    }
+  ],
+  "customer_also_viewed": [
+    {
+      "id": "womens-dress-cocktail-ruched-evening-split",
+      "title": "Womens Dress Cocktail Ruched Evening Split",
+      "price": 29.69,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses",
+      "images": [
+        "https://m.media-amazon.com/images/I/61003bnFhAS._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-formal-maxi",
+      "title": "Womens Maxi Dress Formal Maxi",
+      "price": 64.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses",
+      "images": [
+        "https://m.media-amazon.com/images/I/61RWPo72AmL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-mermaid-one-shoulder",
+      "title": "Womens Maxi Dress Mermaid One Shoulder",
+      "price": 238.74,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Formal",
+      "images": [
+        "https://m.media-amazon.com/images/I/51lR3NNtXCL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-cocktail-maxi-formal-long-sleeve-v-neck",
+      "title": "Womens Maxi Dress Cocktail Maxi Formal Long Sleeve V Neck",
+      "price": 49.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Casual",
+      "images": [
+        "https://m.media-amazon.com/images/I/61cfJoIR5bL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-cocktail-bodycon-ruched",
+      "title": "Womens Maxi Dress Cocktail Bodycon Ruched",
+      "price": 49.98,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Club & Night Out",
+      "images": [
+        "https://m.media-amazon.com/images/I/51+rVhgLHSL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-dress-formal",
+      "title": "Womens Dress Formal",
+      "price": 75.98,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Formal",
+      "images": [
+        "https://m.media-amazon.com/images/I/51TVxkZ3J2L._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-formal-evening",
+      "title": "Womens Maxi Dress Formal Evening",
+      "price": 64.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Formal",
+      "images": [
+        "https://m.media-amazon.com/images/I/516ScMrYzlL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-long-sleeve-ruched-bodycon-v-neck",
+      "title": "Womens Maxi Dress Long Sleeve Ruched Bodycon V Neck",
+      "price": 33.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Club & Night Out",
+      "images": [
+        "https://m.media-amazon.com/images/I/51AvldIvTmL._SL1500_.jpg"
+      ]
+    }
+  ]
+}

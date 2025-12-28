@@ -1,0 +1,502 @@
+{
+  "id": "womens-dress-short-sleeve",
+  "handle": "womens-dress-short-sleeve",
+  "sku": "JC2889",
+  "asin": "B0CGWYCH4W",
+  "title": "Womens Dress Short Sleeve",
+  "title_original": "Women's Crewneck Sequin Shift Dress Short Sleeve Casual Holiday Sparkly Party Dress",
+  "brand": "FEMI SEMI",
+  "price": 59.99,
+  "social_proof": {
+    "bought_past_month": 690,
+    "text": "690+ bought in the past month"
+  },
+  "images": [
+    "https://m.media-amazon.com/images/I/81Kei2pEPGL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81lyHRC-X4L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81BLN5YG6UL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81+oWRoBB0L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81eqwVXBL+L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81hUgItavwL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61c0qHTQ7QL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81Pq332OZoL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71IrPfEHI1L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81VoH5ieHvL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/717864ZseoL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81uNT+zHxbL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81Z6lLfq7YL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81x-zMHXNmL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71K0xFBLm-L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71BxI-8r0zL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71m03b5e7WL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81QOqMs1OBL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81jnZN+rSSL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71X0tiQZqjL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71HngvMQ0EL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71ZV7v+Uf1L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81B0FX-yWsL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71NejdrGdtL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81nJEfujuVL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71f-TqwkrzL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81ZybARQf0L._SL1500_.jpg"
+  ],
+  "gallery_images": [
+    "https://m.media-amazon.com/images/I/81Kei2pEPGL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81lyHRC-X4L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81BLN5YG6UL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81+oWRoBB0L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81eqwVXBL+L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81hUgItavwL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61c0qHTQ7QL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81Pq332OZoL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71IrPfEHI1L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81VoH5ieHvL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/717864ZseoL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81uNT+zHxbL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81Z6lLfq7YL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81x-zMHXNmL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71K0xFBLm-L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71BxI-8r0zL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71m03b5e7WL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81QOqMs1OBL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81jnZN+rSSL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71X0tiQZqjL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71HngvMQ0EL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71ZV7v+Uf1L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81B0FX-yWsL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71NejdrGdtL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81nJEfujuVL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71f-TqwkrzL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81ZybARQf0L._SL1500_.jpg"
+  ],
+  "aplus_images": [],
+  "description_images": [],
+  "bullets": [],
+  "specs": {
+    "Department ‏": "‎ womens",
+    "Date First Available ‏": "‎ August 30, 2023",
+    "ASIN ‏": "‎ B0CGWXJFCK",
+    "Product Warranty": "For warranty information about this product, please click here",
+    "Best Sellers Rank": "#47,007 in Clothing, Shoes & Jewelry ( See Top 100 in Clothing, Shoes & Jewelry ) #463 in Women's Club & Night Out Dresses",
+    "Customer Reviews": "4.0 4.0 out of 5 stars (157)"
+  },
+  "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Club & Night Out",
+  "variations": {
+    "sizes": [
+      "5",
+      "5.5",
+      "6",
+      "6.5",
+      "7",
+      "7.5",
+      "8",
+      "8.5",
+      "9",
+      "9.5",
+      "10",
+      "11"
+    ],
+    "colors": [
+      "Gold",
+      "Gold 2",
+      "Blue",
+      "Velvet 4",
+      "Glitter Mesh-purple",
+      "Velvet 5",
+      "Hot Pink",
+      "Velvet 6",
+      "Black",
+      "Velvet 7",
+      "V Red",
+      "New Red",
+      "Velvet 1",
+      "Velvet 2",
+      "Navy",
+      "Glitter Mesh-blue",
+      "Pink",
+      "Velvet 8",
+      "Purple",
+      "Hot Pink 2",
+      "Glitter Mesh-navy",
+      "Glitter Yellow"
+    ],
+    "size_chart": {
+      "label": "Size chart",
+      "href": "javascript:void(0)",
+      "html": null
+    }
+  },
+  "reviews": {
+    "average_rating": 4.0,
+    "count": 157,
+    "customers_say": "Customers find the dress sparkles beautifully in the light and is comfortable without being itchy, making it suitable for various occasions including school galas and fun nights out dancing. Moreover, the dress receives positive feedback for its fit, with one customer noting it's great for shorter or younger wearers, and another mentioning it's perfect for Mardi Gras. Additionally, the sequins are well-attached, and customers appreciate its quality. However, several customers report sizing issues, finding it too small. Generated from the text of customer reviews Select to learn more Fit (30) Style (30) Comfort (20) Party time (13) Fun to wear (11) Sequin quality (8) Quality (6) Size (9) 30 customers mention fit, 21 positive, 9 negative 30 customers mention \"Fit\" 21 positive 9 negative Customers like how the dress fits, with one mentioning it's great for shorter or younger customers. \" Dress was perfect for the cocktail party. Fit great , and was so comfy. \" Read more \" ...✔ Comfortable Fit – The loose , flowy silhouette is flattering without being too tight.... \" Read more \" This was super small and the sleeves were tight , not at all draped like the photo, and I ordered a size up. Had to return. \" Read more \" Great fitting dress . Comfortable and fun to wear! Love everything about this dress! \" Read more 30 customers mention style, 28 positive, 2 negative 30 customers mention \"Style\" 28 positive 2 negative Customers love the dress's style, noting that it sparkles beautifully in the light, and one customer mentions it works well for a school disco themed gala. \" ...This dress was so cute and comfortable and the sparkle hid all of the bits I didn't want focus on.... \" Read more \" Beautiful dress but I ordered an XL, but I received a 2XL. \" Read more \" ...It’s glamorous , comfortable, and sparkles beautifully in the light. ✅ Pros:... \" Read more \" This dress is super cute , and fits perfectly true to size! The lining keeps sequins from scratching or rubbing.... \" Read more 20 customers mention comfort, 17 positive, 3 negative 20 customers mention \"Comfort\" 17 positive 3 negative Customers find the dress comfortable and not itchy. \" ...It was comfortable and I did have several people stop me to compliment it, so I’ll take that as a win, especially at this price point! \" Read more \" Dress was perfect for the cocktail party. Fit great, and was so comfy . \" Read more \" Cute, not itchy ... \" Read more \" ...I found this dress flattering and comfortable . I picked it to match my daughter and it was perfect. \" Read more 13 customers mention party time, 13 positive, 0 negative 13 customers mention \"Party time\" 13 positive 0 negative Customers find the dress perfect for parties and various occasions, with one mentioning it's great for dancing and another noting it's ideal for Mardi Gras. \" ...The sequins stayed put. Perfect for the event and will hang out in my closet awaiting the next time I need to bring sparkle to an event.... \" Read more \" Dress was perfect for the cocktail party . Fit great, and was so comfy. \" Read more \" This dress is perfect for pretty much any occasion . It has a cute comfortable fit.... \" Read more \" ...are well-attached and reflect light beautifully, making it perfect for evening events .... \" Read more 11 customers mention fun to wear, 11 positive, 0 negative 11 customers mention \"Fun to wear\" 11 positive 0 negative Customers find the dress fun to wear, with one mentioning it's enjoyable to dance in. \" ...Got so many compliments. It’s comfortable and not clingy. Such a fun dress ! \" Read more \" Glamorous & Fun – Perfect for Any Special Occasion!... \" Read more \" Great fitting dress. Comfortable and fun to wear ! Love everything about this dress! \" Read more \" ...on the dress, the fit was flattering and it was so fun to dance in this dress ! Highly recommend. \" Read more 8 customers mention sequin quality, 6 positive, 2 negative 8 customers mention \"Sequin quality\" 6 positive 2 negative Customers are satisfied with the sequins on the dress, noting that they are well-attached and stay in place during wear. \" ...Got so many compliments. It’s comfortable and not clingy . Such a fun dress! \" Read more \" ...Washed on delicate and hung to dry, did not lose any sequins . \" Read more \" The dress ran small, and was missing sequins in a patch at the top. Not as cute as the photo. \" Read more \" ...The sequins stayed put . Perfect for the event and will hang out in my closet awaiting the next time I need to bring sparkle to an event.... \" Read more 6 customers mention quality, 5 positive, 1 negative 6 customers mention \"Quality\" 5 positive 1 negative Customers like the dress's quality. \" ...It is well made with a nice liner, and the sequence are secured perfectly. Enjoy the compliments on this stunner! \" Read more \" Love this dress . Comfy and got so many compliments on it. \" Read more \" ...The quality was nice and I received a ton of compliments. \" Read more \" Great dress ... \" Read more 9 customers mention size, 3 positive, 6 negative 9 customers mention \"Size\" 3 positive 6 negative Customers have mixed opinions about the dress's size, with some finding it perfect for pretty much any occasion and great for parties, while others report it runs too small. \" The dress ran small , and was missing sequins in a patch at the top. Not as cute as the photo. \" Read more \" This dress is so cute, true to size . I received so many compliments last Saturday at a dance event. \" Read more \" Didn’t fit my size. Too small \" Read more \" ...size large fit about the same as the medium in the hips, but was bigger in the top .... \" Read more",
+    "items": [
+      {
+        "title": "5.0 out of 5 stars Glamorous & Fun – Perfect for Any Special Occasion!",
+        "body": "I was looking for a stylish, eye-catching dress for a party, and this sequin dress did not disappoint! It’s glamorous, comfortable, and sparkles beautifully in the light. ✅ Pros: ✔ Stunning Sequin Detail – The sequins are well-attached and reflect light beautifully, making it perfect for evening events. ✔ Comfortable Fit – The loose, flowy silhouette is flattering without being too tight. ✔ Lightweight Lining – The inside is soft and not itchy, which is a big plus for a sequin dress! ✔ Versatile Style – Can be dressed up with heels and a clutch or worn with flats for a chic, effortless look. ✔ Great for Any Occasion – Perfect for weddings, cocktail parties, New Year’s Eve, and more! ⚠️ Cons: 🔹 Slight Shedding – A few sequins may fall off over time, but it’s not excessive. 🔹 Hand Wash Only – Be careful when washing to maintain the sequin quality. 📌 Final Thoughts: This dress is a show-stopper! If you want to stand out at an event while staying comfortable, this is the perfect choice. Highly recommend! Read more",
+        "author": "Regina Newson",
+        "rating": 5.0,
+        "date": "March 11, 2025",
+        "verified": false,
+        "images": [
+          "https://m.media-amazon.com/images/I/81gTMZLinOL._SY88._SL1500_.jpg"
+        ]
+      },
+      {
+        "title": "5.0 out of 5 stars Stunning party dress!",
+        "body": "Party time perfect. This dress is true to size and is ready to go for any dressy occasion. It is well made with a nice liner, and the sequence are secured perfectly. Enjoy the compliments on this stunner! Read more",
+        "author": "Pat Wyman, Author",
+        "rating": 5.0,
+        "date": "December 20, 2025",
+        "verified": false,
+        "images": []
+      },
+      {
+        "title": "3.0 out of 5 stars Ok but not great",
+        "body": "This dress was pretty and sequins seemed to be secured well. It just didn't fit the way I had hoped so ultimately returned it. Read more",
+        "author": "Marsam",
+        "rating": 3.0,
+        "date": "April 27, 2024",
+        "verified": false,
+        "images": []
+      },
+      {
+        "title": "5.0 out of 5 stars Fun for my costume.",
+        "body": "Fit was perfect for me. I used it for a Halloween costume....Devil with the blue dress on. Folks loved it. Easy costume. It would be great for a night out dancing as well. I'm 5' 11\" so it was appropriately short for me. I washed by hand and it came through perfectly. Read more",
+        "author": "S. Lyons",
+        "rating": 5.0,
+        "date": "November 4, 2025",
+        "verified": false,
+        "images": []
+      },
+      {
+        "title": "1.0 out of 5 stars Upper body cut boxy",
+        "body": "I am a size medium. From the waist down this dress was perfect, everything I wanted. However the bodice cut is odd, sleeves droop at the shoulders, neckline is high and not flattering. I liked the skirt so much I considered altering it but with the sequins it would be difficult and the arm hole was just wrong. I am returning it. Read more",
+        "author": "Customer",
+        "rating": 1.0,
+        "date": "November 30, 2024",
+        "verified": false,
+        "images": []
+      },
+      {
+        "title": "4.0 out of 5 stars Comfortable and stretchy",
+        "body": "Great for the Eras Tour. A little itchy under the arms, but otherwise it was super comfortable and cute! Read more",
+        "author": "Marcy Stoehr",
+        "rating": 4.0,
+        "date": "August 29, 2025",
+        "verified": false,
+        "images": []
+      },
+      {
+        "title": "5.0 out of 5 stars Cute, fun dress!",
+        "body": "Ordered this last minute for a silent disco. The shape is very basic and was loose, but I belted it and that helped. It was comfortable and I did have several people stop me to compliment it, so I’ll take that as a win, especially at this price point! Read more",
+        "author": "Southernsignal",
+        "rating": 5.0,
+        "date": "October 15, 2024",
+        "verified": false,
+        "images": []
+      },
+      {
+        "title": "2.0 out of 5 stars Small",
+        "body": "This was super small and the sleeves were tight, not at all draped like the photo, and I ordered a size up. Had to return. Read more",
+        "author": "Daisy Kay",
+        "rating": 2.0,
+        "date": "November 18, 2024",
+        "verified": false,
+        "images": []
+      }
+    ]
+  },
+  "short_description": "Womens Dress Short Sleeve is made for a polished look that still feels comfortable to wear. It is designed to sit cleanly on the body with a flattering shape that works for day plans and dressier moments without feeling overdone.\n\nThe fit focuses on balance rather than extremes, so you can move naturally while still getting a defined silhouette. Choose your usual size for a closer look, or size up if you prefer a little more ease through the waist and hips.\n\nStyling is simple: keep accessories minimal for a clean finish, or add a jacket and statement shoes when you want a sharper outfit. This piece photographs well thanks to smooth lines and a structured feel that stays put once you have it adjusted.\n\nWith the right fit and simple styling, this item becomes an easy go-to when you want something that looks intentional without requiring extra effort.\n\nFor the best look, smooth the fabric, check the neckline placement, and pair it with shoes that match the occasion and the hem length.\n\nIf you are between sizes, choose based on how close you like the fit through the waist and hips, then adjust with your usual layering choices.",
+  "about_this_item": "Womens Dress Short Sleeve is made for a polished look that still feels comfortable to wear. It is designed to sit cleanly on the body with a flattering shape that works for day plans and dressier moments without feeling overdone.\n\nThe fit focuses on balance rather than extremes, so you can move naturally while still getting a defined silhouette. Choose your usual size for a closer look, or size up if you prefer a little more ease through the waist and hips.\n\nStyling is simple: keep accessories minimal for a clean finish, or add a jacket and statement shoes when you want a sharper outfit. This piece photographs well thanks to smooth lines and a structured feel that stays put once you have it adjusted.\n\nWith the right fit and simple styling, this item becomes an easy go-to when you want something that looks intentional without requiring extra effort.\n\nFor the best look, smooth the fabric, check the neckline placement, and pair it with shoes that match the occasion and the hem length.\n\nIf you are between sizes, choose based on how close you like the fit through the waist and hips, then adjust with your usual layering choices.",
+  "long_description": "Womens Dress Short Sleeve is a versatile piece you can reach for when you want a put-together look that still feels comfortable. The goal is simple: a silhouette that reads polished, photographs well, and stays wearable for a full day or a long night.\n\nFit and sizing Fit is where most outfits win or lose. This design aims for a balanced shape with a defined line through the torso, a clean waist, and a smooth finish through the hips and legs. If you prefer a more relaxed feel, size up; if you like a closer fit, stay true to size. Sizes may include: 5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 11.\n\nFabric and comfort Comfort is not just about softness. It is also about movement and how the fabric behaves as you walk, sit, and stand. A fabric blend with a bit of give helps it keep its shape while still feeling wearable.\n\nHighlights A clean neckline and a refined silhouette for an elevated look. Designed to layer easily with jackets, wraps, or sweaters. Works well with both minimal accessories and statement pieces.\n\nHow to style Styling ideas: keep it minimal with neutral shoes and one standout accessory. For a relaxed daytime look, add a denim jacket or cardigan. For events, switch to a bolder shoe and a small clutch for a sharper finish.\n\nColor notes Available colors may include: Gold, Gold 2, Blue, Velvet 4, Glitter Mesh-purple, Velvet 5, Hot Pink, Velvet 6, Black, Velvet 7, V Red, New Red, Velvet 1, Velvet 2. If a shade is sold out, check back as availability can change.\n\nCare Care guidance matters if you want it to keep its shape and finish. Follow the label first.",
+  "long_description_blocks": [
+    {
+      "type": "p",
+      "text": "Womens Dress Short Sleeve is a versatile piece you can reach for when you want a put-together look that still feels comfortable. The goal is simple: a silhouette that reads polished, photographs well, and stays wearable for a full day or a long night."
+    },
+    {
+      "type": "p",
+      "text": "Fit and sizing Fit is where most outfits win or lose. This design aims for a balanced shape with a defined line through the torso, a clean waist, and a smooth finish through the hips and legs. If you prefer a more relaxed feel, size up; if you like a closer fit, stay true to size. Sizes may include: 5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 11."
+    },
+    {
+      "type": "p",
+      "text": "Fabric and comfort Comfort is not just about softness. It is also about movement and how the fabric behaves as you walk, sit, and stand. A fabric blend with a bit of give helps it keep its shape while still feeling wearable."
+    },
+    {
+      "type": "p",
+      "text": "Highlights A clean neckline and a refined silhouette for an elevated look. Designed to layer easily with jackets, wraps, or sweaters. Works well with both minimal accessories and statement pieces."
+    },
+    {
+      "type": "p",
+      "text": "How to style Styling ideas: keep it minimal with neutral shoes and one standout accessory. For a relaxed daytime look, add a denim jacket or cardigan. For events, switch to a bolder shoe and a small clutch for a sharper finish."
+    },
+    {
+      "type": "p",
+      "text": "Color notes Available colors may include: Gold, Gold 2, Blue, Velvet 4, Glitter Mesh-purple, Velvet 5, Hot Pink, Velvet 6, Black, Velvet 7, V Red, New Red, Velvet 1, Velvet 2. If a shade is sold out, check back as availability can change."
+    },
+    {
+      "type": "p",
+      "text": "Care Care guidance matters if you want it to keep its shape and finish. Follow the label first."
+    }
+  ],
+  "videos": [
+    {
+      "id": "1fe5e8ff-341c-4bf8-aa1d-b1ba40aec7c9",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1fe5e8ff-341c-4bf8-aa1d-b1ba40aec7c9/default.vertical.jobtemplate.hls.m3u8",
+      "sources": [
+        {
+          "type": "application/x-mpegURL",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1fe5e8ff-341c-4bf8-aa1d-b1ba40aec7c9/default.vertical.jobtemplate.hls.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "77e50f59-2afb-4ee8-b206-4b3da937551a",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/77e50f59-2afb-4ee8-b206-4b3da937551a/videopreview.jobtemplate.mp4.default.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/77e50f59-2afb-4ee8-b206-4b3da937551a/videopreview.jobtemplate.mp4.default.mp4"
+        }
+      ]
+    }
+  ],
+  "color_swatches": {
+    "Gold": "https://m.media-amazon.com/images/I/41m39VbQYYL._AC_SR38,50_.jpg",
+    "Gold 2": "https://m.media-amazon.com/images/I/41di2Jv1wtL._AC_SR38,50_.jpg",
+    "Blue": "https://m.media-amazon.com/images/I/41QE0mM64rL._AC_SR38,50_.jpg",
+    "Velvet 4": "https://m.media-amazon.com/images/I/41Hc85liTkL._AC_SR38,50_.jpg",
+    "Glitter Mesh-purple": "https://m.media-amazon.com/images/I/41phX6m70yL._AC_SR38,50_.jpg",
+    "Velvet 5": "https://m.media-amazon.com/images/I/41Y8MaPAGhL._AC_SR38,50_.jpg",
+    "Hot Pink": "https://m.media-amazon.com/images/I/41WBNICTRzL._AC_SR38,50_.jpg",
+    "Velvet 6": "https://m.media-amazon.com/images/I/315VPT7CYtL._AC_SR38,50_.jpg",
+    "Black": "https://m.media-amazon.com/images/I/51HbXGn1HjL._AC_SR38,50_.jpg",
+    "Velvet 7": "https://m.media-amazon.com/images/I/31+UvO+JuLL._AC_SR38,50_.jpg",
+    "V Red": "https://m.media-amazon.com/images/I/41laqBW8yPL._AC_SR38,50_.jpg",
+    "New Red": "https://m.media-amazon.com/images/I/415DgL57TsL._AC_SR38,50_.jpg",
+    "Velvet 1": "https://m.media-amazon.com/images/I/41TXGHqA4xL._AC_SR38,50_.jpg",
+    "Velvet 2": "https://m.media-amazon.com/images/I/41UMnDpe0HL._AC_SR38,50_.jpg",
+    "Navy": "https://m.media-amazon.com/images/I/41xNRZi6s-L._AC_SR38,50_.jpg",
+    "Glitter Mesh-blue": "https://m.media-amazon.com/images/I/4135z533E0L._AC_SR38,50_.jpg",
+    "Pink": "https://m.media-amazon.com/images/I/41yXSs2eEpL._AC_SR38,50_.jpg",
+    "Velvet 8": "https://m.media-amazon.com/images/I/31nJWoBZ+UL._AC_SR38,50_.jpg",
+    "Purple": "https://m.media-amazon.com/images/I/41T9clgUShL._AC_SR38,50_.jpg",
+    "Hot Pink 2": "https://m.media-amazon.com/images/I/41QnVqxbTcL._AC_SR38,50_.jpg",
+    "Glitter Mesh-navy": "https://m.media-amazon.com/images/I/41huppa7YkL._AC_SR38,50_.jpg",
+    "Glitter Yellow": "https://m.media-amazon.com/images/I/41vQwl-JMtL._AC_SR38,50_.jpg"
+  },
+  "color_image_key": {
+    "Gold": "61c0qHTQ7QL",
+    "Gold 2": "81Pq332OZoL",
+    "Blue": "71IrPfEHI1L",
+    "Velvet 4": "81VoH5ieHvL",
+    "Glitter Mesh-purple": "717864ZseoL",
+    "Velvet 5": "81uNT+zHxbL",
+    "Hot Pink": "81Z6lLfq7YL",
+    "Velvet 6": "81x-zMHXNmL",
+    "Black": "81Kei2pEPGL",
+    "Velvet 7": "71K0xFBLm-L",
+    "V Red": "71BxI-8r0zL",
+    "New Red": "71m03b5e7WL",
+    "Velvet 1": "81QOqMs1OBL",
+    "Velvet 2": "81jnZN+rSSL",
+    "Navy": "71X0tiQZqjL",
+    "Glitter Mesh-blue": "71HngvMQ0EL",
+    "Pink": "71ZV7v+Uf1L",
+    "Velvet 8": "81B0FX-yWsL",
+    "Purple": "71NejdrGdtL",
+    "Hot Pink 2": "81nJEfujuVL",
+    "Glitter Mesh-navy": "71f-TqwkrzL",
+    "Glitter Yellow": "81ZybARQf0L"
+  },
+  "color_images": {
+    "Gold": [
+      "https://m.media-amazon.com/images/I/61c0qHTQ7QL._SL1500_.jpg"
+    ],
+    "Gold 2": [
+      "https://m.media-amazon.com/images/I/81Pq332OZoL._SL1500_.jpg"
+    ],
+    "Blue": [
+      "https://m.media-amazon.com/images/I/71IrPfEHI1L._SL1500_.jpg"
+    ],
+    "Velvet 4": [
+      "https://m.media-amazon.com/images/I/81VoH5ieHvL._SL1500_.jpg"
+    ],
+    "Glitter Mesh-purple": [
+      "https://m.media-amazon.com/images/I/717864ZseoL._SL1500_.jpg"
+    ],
+    "Velvet 5": [
+      "https://m.media-amazon.com/images/I/81uNT+zHxbL._SL1500_.jpg"
+    ],
+    "Hot Pink": [
+      "https://m.media-amazon.com/images/I/81Z6lLfq7YL._SL1500_.jpg"
+    ],
+    "Velvet 6": [
+      "https://m.media-amazon.com/images/I/81x-zMHXNmL._SL1500_.jpg"
+    ],
+    "Black": [
+      "https://m.media-amazon.com/images/I/81Kei2pEPGL._SL1500_.jpg"
+    ],
+    "Velvet 7": [
+      "https://m.media-amazon.com/images/I/71K0xFBLm-L._SL1500_.jpg"
+    ],
+    "V Red": [
+      "https://m.media-amazon.com/images/I/71BxI-8r0zL._SL1500_.jpg"
+    ],
+    "New Red": [
+      "https://m.media-amazon.com/images/I/71m03b5e7WL._SL1500_.jpg"
+    ],
+    "Velvet 1": [
+      "https://m.media-amazon.com/images/I/81QOqMs1OBL._SL1500_.jpg"
+    ],
+    "Velvet 2": [
+      "https://m.media-amazon.com/images/I/81jnZN+rSSL._SL1500_.jpg"
+    ],
+    "Navy": [
+      "https://m.media-amazon.com/images/I/71X0tiQZqjL._SL1500_.jpg"
+    ],
+    "Glitter Mesh-blue": [
+      "https://m.media-amazon.com/images/I/71HngvMQ0EL._SL1500_.jpg"
+    ],
+    "Pink": [
+      "https://m.media-amazon.com/images/I/71ZV7v+Uf1L._SL1500_.jpg"
+    ],
+    "Velvet 8": [
+      "https://m.media-amazon.com/images/I/81B0FX-yWsL._SL1500_.jpg"
+    ],
+    "Purple": [
+      "https://m.media-amazon.com/images/I/71NejdrGdtL._SL1500_.jpg"
+    ],
+    "Hot Pink 2": [
+      "https://m.media-amazon.com/images/I/81nJEfujuVL._SL1500_.jpg"
+    ],
+    "Glitter Mesh-navy": [
+      "https://m.media-amazon.com/images/I/71f-TqwkrzL._SL1500_.jpg"
+    ],
+    "Glitter Yellow": [
+      "https://m.media-amazon.com/images/I/81ZybARQf0L._SL1500_.jpg"
+    ]
+  },
+  "related": [
+    {
+      "id": "womens-maxi-dress",
+      "title": "Womens Maxi Dress",
+      "price": 44.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Casual",
+      "images": [
+        "https://m.media-amazon.com/images/I/813GmOhQ3+L._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-v-neck-long-sleeve",
+      "title": "Womens Maxi Dress V Neck Long Sleeve",
+      "price": 28.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Casual",
+      "images": [
+        "https://m.media-amazon.com/images/I/71K7SViYxIL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-maxi",
+      "title": "Womens Maxi Dress Maxi",
+      "price": 39.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Casual",
+      "images": [
+        "https://m.media-amazon.com/images/I/51wgEJMRyXL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-formal-short-sleeve",
+      "title": "Womens Maxi Dress Formal Short Sleeve",
+      "price": 74.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Formal",
+      "images": [
+        "https://m.media-amazon.com/images/I/61323sb10xL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-dress-v-neck-bodycon",
+      "title": "Womens Dress V Neck Bodycon",
+      "price": 71.36,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Club & Night Out",
+      "images": [
+        "https://m.media-amazon.com/images/I/71Y6PrsU2WL._SL1500_.jpg"
+      ]
+    }
+  ],
+  "customer_also_viewed": [
+    {
+      "id": "womens-maxi-dress-sleeveless-maxi-evening-formal",
+      "title": "Womens Maxi Dress Sleeveless Maxi Evening Formal",
+      "price": 69.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Formal",
+      "images": [
+        "https://m.media-amazon.com/images/I/61oUnVj-05L._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-dress-sleeveless-v-neck",
+      "title": "Womens Dress Sleeveless V Neck",
+      "price": 35.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Club & Night Out",
+      "images": [
+        "https://m.media-amazon.com/images/I/51DAlqSWLsL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-dress",
+      "title": "Womens Dress",
+      "price": 46.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Casual",
+      "images": [
+        "https://m.media-amazon.com/images/I/615rmgyupRL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-short-sleeve-off-shoulder-formal-high-split-v-neck-evening",
+      "title": "Womens Maxi Dress Short Sleeve Off Shoulder Formal High Split V Neck Evening",
+      "price": 44.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Formal",
+      "images": [
+        "https://m.media-amazon.com/images/I/61gNNmMSaoL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-bodycon-cocktail-maxi-long-sleeve-formal-ruched",
+      "title": "Womens Maxi Dress Bodycon Cocktail Maxi Long Sleeve Formal Ruched",
+      "price": 49.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Formal",
+      "images": [
+        "https://m.media-amazon.com/images/I/51Q-kYjWqFL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-bodycon-long-sleeve-maxi",
+      "title": "Womens Maxi Dress Bodycon Long Sleeve Maxi",
+      "price": 14.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Club & Night Out",
+      "images": [
+        "https://m.media-amazon.com/images/I/5122JE3lxEL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-dress-off-shoulder",
+      "title": "Womens Dress Off Shoulder",
+      "price": 123.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses",
+      "images": [
+        "https://m.media-amazon.com/images/I/81UP9NAqKaL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-dress-cocktail-bodycon",
+      "title": "Womens Dress Cocktail Bodycon",
+      "price": 42.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Cocktail",
+      "images": [
+        "https://m.media-amazon.com/images/I/61pBXGPf12L._SL1500_.jpg"
+      ]
+    }
+  ]
+}

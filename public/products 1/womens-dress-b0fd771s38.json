@@ -1,0 +1,483 @@
+{
+  "id": "womens-dress",
+  "handle": "womens-dress-b0fd771s38",
+  "sku": "JC1004",
+  "asin": "B0FD771S38",
+  "title": "Womens Dress",
+  "title_original": "Cotton Underwear for Women High Waisted Full Coverage Briefs Soft Ladies Panties 5 Pack",
+  "brand": "Vevmon",
+  "price": 14.99,
+  "social_proof": {
+    "bought_past_month": 489,
+    "text": "489+ bought in the past month"
+  },
+  "images": [
+    "https://m.media-amazon.com/images/I/61Ho4A8OIDL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61fpMUYVyEL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61u4R4RYooL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/614d0Bg-0FL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/615iqgv-7lL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61zTa0BwdEL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71GAO8YItzL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61M5CmAiLGL._SL1500_.jpg"
+  ],
+  "gallery_images": [
+    "https://m.media-amazon.com/images/I/61Ho4A8OIDL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61fpMUYVyEL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61u4R4RYooL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/614d0Bg-0FL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/615iqgv-7lL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61zTa0BwdEL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71GAO8YItzL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61M5CmAiLGL._SL1500_.jpg"
+  ],
+  "aplus_images": [
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f47a611e-4600-476f-9366-f3cde3c2665a.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/59e78c61-585e-42fc-9472-595decb496fe.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/557d656b-da3c-49e3-b3fa-da2bf5d9eaec.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/aa343ce8-1425-4f32-9c5f-893b31b2ec75.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/558bf669-5b94-418f-a5bc-53e62055fa86.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/03239b02-c1ce-4cfe-9271-c48b32e48eda.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0eb7bf4f-3d54-40b3-a057-745870e55f7a.__CR0,3,1464,625_PT0_SX1464_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4d617c47-38b5-4cde-82f1-c2a3dbed4989.__CR0,0,315,145_PT0_SX315_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/57f10380-5d7a-4508-94f7-24c9a9fc2184.__CR0,0,400,501_PT0_SX362_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bd2a6923-b4db-417f-8e2f-cf4b4acca2ba.__CR0,0,400,501_PT0_SX362_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/794a3f54-a71d-435a-a6da-d515de2461b0.__CR0,98,1200,1502_PT0_SX362_V1___.jpg"
+  ],
+  "description_images": [
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f47a611e-4600-476f-9366-f3cde3c2665a.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/59e78c61-585e-42fc-9472-595decb496fe.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/557d656b-da3c-49e3-b3fa-da2bf5d9eaec.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/aa343ce8-1425-4f32-9c5f-893b31b2ec75.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/558bf669-5b94-418f-a5bc-53e62055fa86.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/03239b02-c1ce-4cfe-9271-c48b32e48eda.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0eb7bf4f-3d54-40b3-a057-745870e55f7a.__CR0,3,1464,625_PT0_SX1464_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4d617c47-38b5-4cde-82f1-c2a3dbed4989.__CR0,0,315,145_PT0_SX315_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/57f10380-5d7a-4508-94f7-24c9a9fc2184.__CR0,0,400,501_PT0_SX362_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bd2a6923-b4db-417f-8e2f-cf4b4acca2ba.__CR0,0,400,501_PT0_SX362_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/794a3f54-a71d-435a-a6da-d515de2461b0.__CR0,98,1200,1502_PT0_SX362_V1___.jpg"
+  ],
+  "bullets": [],
+  "specs": {
+    "Package Dimensions ‏": "‎ 13.8 x 5.3 x 0.7 inches; 3.9 ounces",
+    "Item model number ‏": "‎ 9527-A-1",
+    "Department ‏": "‎ womens",
+    "Date First Available ‏": "‎ June 14, 2025",
+    "ASIN ‏": "‎ B0FD77SBKN",
+    "Product Warranty": "For warranty information about this product, please click here",
+    "Best Sellers Rank": "#736 in Clothing, Shoes & Jewelry ( See Top 100 in Clothing, Shoes & Jewelry ) #8 in Women's Briefs",
+    "Customer Reviews": "4.4 4.4 out of 5 stars (768)"
+  },
+  "category": "Clothing, Shoes & Jewelry > Women > Clothing > Lingerie, Sleep & Lounge > Lingerie > Panties > Briefs",
+  "category_path": [
+    "Clothing, Shoes & Jewelry",
+    "Women",
+    "Clothing",
+    "Lingerie, Sleep & Lounge",
+    "Lingerie",
+    "Panties",
+    "Briefs"
+  ],
+  "category_slug": "clothing-shoes-jewelry/women/clothing/lingerie-sleep-lounge/lingerie/panties/briefs",
+  "category_leaf": "Briefs",
+  "variations": {
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Black*5",
+      "Black*2+grey*2+red*1",
+      "A-5 Pack 5 Colors"
+    ],
+    "size_chart": {
+      "label": "Size chart",
+      "href": "javascript:void(0)",
+      "html": "<table class=\"a-bordered a-size-base\" id=\"fit-sizechartv2-0-table-0\"><tr><th>Brand Size</th><th>Waist (in)</th><th>Hip (in)</th></tr><tr><th>S</th><td class=\"a-nowrap\">26<span> - </span>27.5</td><td class=\"a-nowrap\">36<span> - </span>37.5</td></tr><tr><th>M</th><td class=\"a-nowrap\">28<span> - </span>29.5</td><td class=\"a-nowrap\">38<span> - </span>39.5</td></tr><tr><th>L</th><td class=\"a-nowrap\">30<span> - </span>31.5</td><td class=\"a-nowrap\">40<span> - </span>41.5</td></tr><tr><th>XL</th><td class=\"a-nowrap\">32<span> - </span>33.5</td><td class=\"a-nowrap\">42<span> - </span>43.5</td></tr><tr><th>2XL</th><td class=\"a-nowrap\">34<span> - </span>37.5</td><td class=\"a-nowrap\">44<span> - </span>45.5</td></tr><tr><th>3XL</th><td class=\"a-nowrap\">38<span> - </span>41.5</td><td class=\"a-nowrap\">46<span> - </span>47.5</td></tr></table>"
+    }
+  },
+  "reviews": {
+    "average_rating": 4.4,
+    "count": 768,
+    "customers_say": "Customers find these cotton underwear comfortable, with one noting they don't cause chafing, and appreciate their good fit and excellent quality. The fabric is thick and made of cotton, with one customer mentioning its natural fibers allow air to circulate. Customers like the colors and consider them good value for money. Regarding size, while some find them appropriate, others mention they run smaller than expected.",
+    "items": [
+      {
+        "title": "5.0 out of 5 stars Soft, Supportive High-Waisted Cotton Underwear for Everyday Comfort",
+        "body": "I’ve been wearing the Vevmon Cotton High-Waisted Underwear for a few weeks, and they have quickly become a favorite in my wardrobe. The soft cotton material feels comfortable and breathable throughout the day, while the high-waisted design provides excellent coverage and support. It sits snugly without digging in or rolling down, which makes it perfect for both everyday wear and under fitted clothing. The underwear also holds its shape after washing and maintains its softness. One thing to note is that the sizing may run slightly small, so it’s a good idea to check the size chart before ordering. Pros: Soft and breathable cotton, high-waisted for full coverage, comfortable fit, holds shape after washing Cons: Sizing can run small for some, limited color options Overall, these are comfortable, supportive, and practical high-waisted underwear that I would recommend for everyday use. Read more",
+        "author": "Nv",
+        "rating": 5.0,
+        "date": "December 16, 2025",
+        "verified": false,
+        "images": []
+      },
+      {
+        "title": "5.0 out of 5 stars Very comfy and worth it",
+        "body": "I seriously love these comfy undies. I’m a size 12 and ordered a large. After washing and drying these fit nice. There’s no real tummy control or support. These do not roll and I have a floppy mom belly after 4 babies. Definitely thick material and durable enough to last a while. These look fine. More of a granny panty and oh so comfy. Read more",
+        "author": "Drae0879",
+        "rating": 5.0,
+        "date": "November 27, 2025",
+        "verified": false,
+        "images": []
+      },
+      {
+        "title": "4.0 out of 5 stars As good as promised.",
+        "body": "These arrived quickly and I washed them by hand before wearing. The packaging was weird and hard to open — basic packing — but the panties themselves seem fine just as depicted in the description. And the the colors really didn’t run. I don’t know how these will hold up thus only four stars at the moment but they’re very comfortable and fit perfectly. So far I’m happy with this purchase. And the colors I ordered were discounted but I really like them. Read more",
+        "author": "Kindle Customer",
+        "rating": 4.0,
+        "date": "November 17, 2025",
+        "verified": false,
+        "images": []
+      },
+      {
+        "title": "5.0 out of 5 stars Comfy and soft",
+        "body": "Comfy. Material is thick and soft. They don’t roll down and they wash/dry really well. Good overall value. I sized up because I wanted a loose fit but they ended up fitting better than expected. Read more",
+        "author": "StarrL",
+        "rating": 5.0,
+        "date": "December 17, 2025",
+        "verified": false,
+        "images": []
+      },
+      {
+        "title": "5.0 out of 5 stars Comfortable, cotton, high waisted",
+        "body": "I really appreciate cotton underwear and these one are great. They fit well. They don’t make me chafe. They’re a great deal for the quantity. Read more",
+        "author": "Rocks!",
+        "rating": 5.0,
+        "date": "December 8, 2025",
+        "verified": false,
+        "images": []
+      },
+      {
+        "title": "3.0 out of 5 stars Not for incontinance. Size off, buy down",
+        "body": "Well made... not for incontinance. Size is larger than chart says, Says cotton 95% to me looks like 5% cotton... they are comfortable and well made but i was looking for a specific type and these arent it. Read more",
+        "author": "SHERYLE D.",
+        "rating": 3.0,
+        "date": "November 8, 2025",
+        "verified": false,
+        "images": []
+      },
+      {
+        "title": "5.0 out of 5 stars Finally, a comfortable brief that stays where it should!",
+        "body": "These cotton briefs are the best I have worn in years! They have an extra band of fabric across the front and cover fully to my waist, helping to stay up even when having a bit of belly. They wash up well. Finally, undies designed like they should be. Read more",
+        "author": "Deborah de Raadt",
+        "rating": 5.0,
+        "date": "December 17, 2025",
+        "verified": false,
+        "images": []
+      },
+      {
+        "title": "5.0 out of 5 stars Great Product!",
+        "body": "Oh, love these undies! They are tru to fit, so comfy. I bought 10 pairs! Read more",
+        "author": "KayCee",
+        "rating": 5.0,
+        "date": "December 15, 2025",
+        "verified": false,
+        "images": []
+      }
+    ]
+  },
+  "short_description": "Womens Dress is made for a polished look that still feels comfortable to wear. It is designed to sit cleanly on the body with a flattering shape that works for day plans and dressier moments without feeling overdone.\n\nThe fit focuses on balance rather than extremes, so you can move naturally while still getting a defined silhouette. Choose your usual size for a closer look, or size up if you prefer a little more ease through the waist and hips.\n\nStyling is simple: keep accessories minimal for a clean finish, or add a jacket and statement shoes when you want a sharper outfit. This piece photographs well thanks to smooth lines and a structured feel that stays put once you have it adjusted.\n\nWith the right fit and simple styling, this item becomes an easy go-to when you want something that looks intentional without requiring extra effort.\n\nThis piece transitions well from daytime plans to evening events with a quick change of shoes and a small bag or clutch.\n\nTo keep it looking sharp, follow the care label first and avoid high heat when drying or steaming if the material is sensitive.",
+  "about_this_item": "Womens Dress is made for a polished look that still feels comfortable to wear. It is designed to sit cleanly on the body with a flattering shape that works for day plans and dressier moments without feeling overdone.\n\nThe fit focuses on balance rather than extremes, so you can move naturally while still getting a defined silhouette. Choose your usual size for a closer look, or size up if you prefer a little more ease through the waist and hips.\n\nStyling is simple: keep accessories minimal for a clean finish, or add a jacket and statement shoes when you want a sharper outfit. This piece photographs well thanks to smooth lines and a structured feel that stays put once you have it adjusted.\n\nWith the right fit and simple styling, this item becomes an easy go-to when you want something that looks intentional without requiring extra effort.\n\nThis piece transitions well from daytime plans to evening events with a quick change of shoes and a small bag or clutch.\n\nTo keep it looking sharp, follow the care label first and avoid high heat when drying or steaming if the material is sensitive.",
+  "long_description": "Womens Dress is a versatile piece you can reach for when you want a put-together look that still feels comfortable. The goal is simple: a silhouette that reads polished, photographs well, and stays wearable for a full day or a long night.\n\nFit and sizing Fit is where most outfits win or lose. This design aims for a balanced shape with a defined line through the torso, a clean waist, and a smooth finish through the hips and legs. If you prefer a more relaxed feel, size up; if you like a closer fit, stay true to size. Sizes may include: One Size.\n\nFabric and comfort Comfort is not just about softness. It is also about movement and how the fabric behaves as you walk, sit, and stand. A fabric blend with a bit of give helps it keep its shape while still feeling wearable.\n\nHighlights A clean neckline and a refined silhouette for an elevated look. Designed to layer easily with jackets, wraps, or sweaters. Works well with both minimal accessories and statement pieces.\n\nHow to style Styling ideas: keep it minimal with neutral shoes and one standout accessory. For a relaxed daytime look, add a denim jacket or cardigan. For events, switch to a bolder shoe and a small clutch for a sharper finish.\n\nColor notes Available colors may include: Black*5, Black*2+grey*2+red*1, A-5 Pack 5 Colors. If a shade is sold out, check back as availability can change.\n\nCare Care guidance matters if you want it to keep its shape and finish. Follow the label first.",
+  "long_description_blocks": [
+    {
+      "type": "p",
+      "text": "Womens Dress is a versatile piece you can reach for when you want a put-together look that still feels comfortable. The goal is simple: a silhouette that reads polished, photographs well, and stays wearable for a full day or a long night."
+    },
+    {
+      "type": "p",
+      "text": "Fit and sizing Fit is where most outfits win or lose. This design aims for a balanced shape with a defined line through the torso, a clean waist, and a smooth finish through the hips and legs. If you prefer a more relaxed feel, size up; if you like a closer fit, stay true to size. Sizes may include: One Size."
+    },
+    {
+      "type": "img",
+      "src": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f47a611e-4600-476f-9366-f3cde3c2665a.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "alt": "Womens Dress details image 1"
+    },
+    {
+      "type": "p",
+      "text": "Fabric and comfort Comfort is not just about softness. It is also about movement and how the fabric behaves as you walk, sit, and stand. A fabric blend with a bit of give helps it keep its shape while still feeling wearable."
+    },
+    {
+      "type": "img",
+      "src": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/59e78c61-585e-42fc-9472-595decb496fe.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "alt": "Womens Dress details image 2"
+    },
+    {
+      "type": "p",
+      "text": "Highlights A clean neckline and a refined silhouette for an elevated look. Designed to layer easily with jackets, wraps, or sweaters. Works well with both minimal accessories and statement pieces."
+    },
+    {
+      "type": "img",
+      "src": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/557d656b-da3c-49e3-b3fa-da2bf5d9eaec.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "alt": "Womens Dress details image 3"
+    },
+    {
+      "type": "p",
+      "text": "How to style Styling ideas: keep it minimal with neutral shoes and one standout accessory. For a relaxed daytime look, add a denim jacket or cardigan. For events, switch to a bolder shoe and a small clutch for a sharper finish."
+    },
+    {
+      "type": "img",
+      "src": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/aa343ce8-1425-4f32-9c5f-893b31b2ec75.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "alt": "Womens Dress details image 4"
+    },
+    {
+      "type": "p",
+      "text": "Color notes Available colors may include: Black*5, Black*2+grey*2+red*1, A-5 Pack 5 Colors. If a shade is sold out, check back as availability can change."
+    },
+    {
+      "type": "img",
+      "src": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/558bf669-5b94-418f-a5bc-53e62055fa86.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "alt": "Womens Dress details image 5"
+    },
+    {
+      "type": "p",
+      "text": "Care Care guidance matters if you want it to keep its shape and finish. Follow the label first."
+    }
+  ],
+  "videos": [
+    {
+      "id": "ca08e531-a2c5-41cc-8383-f73d8d91ae19",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ca08e531-a2c5-41cc-8383-f73d8d91ae19/default.jobtemplate.hls.m3u8",
+      "sources": [
+        {
+          "type": "application/x-mpegURL",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ca08e531-a2c5-41cc-8383-f73d8d91ae19/default.jobtemplate.hls.m3u8"
+        }
+      ],
+      "poster": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b4d8beb7-1608-4aec-8f98-523d997d28b0.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+    },
+    {
+      "id": "77b92aab-9261-4533-88ff-84cdb7a9546c",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/77b92aab-9261-4533-88ff-84cdb7a9546c/default.jobtemplate.hls.m3u8",
+      "sources": [
+        {
+          "type": "application/x-mpegURL",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/77b92aab-9261-4533-88ff-84cdb7a9546c/default.jobtemplate.hls.m3u8"
+        }
+      ],
+      "poster": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b4d8beb7-1608-4aec-8f98-523d997d28b0.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+    },
+    {
+      "id": "e0523bf8-482e-419c-8fe2-3405f7142986",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e0523bf8-482e-419c-8fe2-3405f7142986/default.jobtemplate.hls.m3u8",
+      "sources": [
+        {
+          "type": "application/x-mpegURL",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e0523bf8-482e-419c-8fe2-3405f7142986/default.jobtemplate.hls.m3u8"
+        }
+      ],
+      "poster": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b4d8beb7-1608-4aec-8f98-523d997d28b0.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+    },
+    {
+      "id": "d037ad69-7e5d-4e26-9511-ff30e8c3ba5b",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d037ad69-7e5d-4e26-9511-ff30e8c3ba5b/default.vertical.jobtemplate.hls.m3u8",
+      "sources": [
+        {
+          "type": "application/x-mpegURL",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d037ad69-7e5d-4e26-9511-ff30e8c3ba5b/default.vertical.jobtemplate.hls.m3u8"
+        }
+      ],
+      "poster": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b4d8beb7-1608-4aec-8f98-523d997d28b0.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+    },
+    {
+      "id": "5805850f-3a36-40d8-9892-50d3b9fd9589",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5805850f-3a36-40d8-9892-50d3b9fd9589/videopreview.jobtemplate.mp4.default.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5805850f-3a36-40d8-9892-50d3b9fd9589/videopreview.jobtemplate.mp4.default.mp4"
+        }
+      ],
+      "poster": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b4d8beb7-1608-4aec-8f98-523d997d28b0.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+    },
+    {
+      "id": "2d53a467-0d25-43fb-8ccb-22809246ae4b",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2d53a467-0d25-43fb-8ccb-22809246ae4b/videopreview.jobtemplate.mp4.default.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2d53a467-0d25-43fb-8ccb-22809246ae4b/videopreview.jobtemplate.mp4.default.mp4"
+        }
+      ],
+      "poster": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b4d8beb7-1608-4aec-8f98-523d997d28b0.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+    },
+    {
+      "id": "03762ac1-8e23-4f7e-8410-29057fa8c06e",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/03762ac1-8e23-4f7e-8410-29057fa8c06e/videopreview.jobtemplate.mp4.default.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/03762ac1-8e23-4f7e-8410-29057fa8c06e/videopreview.jobtemplate.mp4.default.mp4"
+        }
+      ],
+      "poster": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b4d8beb7-1608-4aec-8f98-523d997d28b0.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+    },
+    {
+      "id": "c4ab9c7e-7592-4df1-95f3-ec5684bd56d6",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c4ab9c7e-7592-4df1-95f3-ec5684bd56d6/videopreview.jobtemplate.mp4.default.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c4ab9c7e-7592-4df1-95f3-ec5684bd56d6/videopreview.jobtemplate.mp4.default.mp4"
+        }
+      ],
+      "poster": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b4d8beb7-1608-4aec-8f98-523d997d28b0.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+    }
+  ],
+  "color_swatches": {
+    "Black*5": "https://m.media-amazon.com/images/I/41zDAoS1-0L._AC_SR38,50_.jpg",
+    "Black*2+grey*2+red*1": "https://m.media-amazon.com/images/I/41t+5auFZfL._AC_SR38,50_.jpg",
+    "A-5 Pack 5 Colors": "https://m.media-amazon.com/images/I/415+QmmOFvL._AC_SR38,50_.jpg"
+  },
+  "color_image_key": {
+    "Black*5": "61fpMUYVyEL",
+    "Black*2+grey*2+red*1": "61u4R4RYooL",
+    "A-5 Pack 5 Colors": "61Ho4A8OIDL"
+  },
+  "color_images": {
+    "Black*5": [
+      "https://m.media-amazon.com/images/I/61fpMUYVyEL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/614d0Bg-0FL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/615iqgv-7lL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61zTa0BwdEL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71GAO8YItzL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61M5CmAiLGL._SL1500_.jpg"
+    ],
+    "Black*2+grey*2+red*1": [
+      "https://m.media-amazon.com/images/I/61u4R4RYooL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/614d0Bg-0FL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/615iqgv-7lL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61zTa0BwdEL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71GAO8YItzL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61M5CmAiLGL._SL1500_.jpg"
+    ],
+    "A-5 Pack 5 Colors": [
+      "https://m.media-amazon.com/images/I/61Ho4A8OIDL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/614d0Bg-0FL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/615iqgv-7lL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61zTa0BwdEL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71GAO8YItzL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61M5CmAiLGL._SL1500_.jpg"
+    ]
+  },
+  "related": [
+    {
+      "id": "womens-maxi-dress-long-sleeve",
+      "title": "Womens Maxi Dress Long Sleeve",
+      "price": 31.34,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Lingerie, Sleep & Lounge > Sleep & Lounge > Sets",
+      "images": [
+        "https://m.media-amazon.com/images/I/71Y1gj7C52L._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-v-neck",
+      "title": "Womens Maxi Dress V Neck",
+      "price": 19.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Lingerie, Sleep & Lounge > Sleep & Lounge > Nightgowns & Sleepshirts",
+      "images": [
+        "https://m.media-amazon.com/images/I/71qIgZ2z6AL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress",
+      "title": "Womens Maxi Dress",
+      "price": 14.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Lingerie, Sleep & Lounge > Lingerie > Baby Dolls & Chemises",
+      "images": [
+        "https://m.media-amazon.com/images/I/71a5b82uDdL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-short-sleeve",
+      "title": "Womens Maxi Dress Short Sleeve",
+      "price": 14.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Lingerie, Sleep & Lounge > Sleep & Lounge > Nightgowns & Sleepshirts",
+      "images": [
+        "https://m.media-amazon.com/images/I/813+drXVPkL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-sleeveless",
+      "title": "Womens Maxi Dress Sleeveless",
+      "price": 19.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Lingerie, Sleep & Lounge > Sleep & Lounge > Nightgowns & Sleepshirts",
+      "images": [
+        "https://m.media-amazon.com/images/I/71Uqb+qqrUL._SL1500_.jpg"
+      ]
+    }
+  ],
+  "customer_also_viewed": [
+    {
+      "id": "womens-maxi-dress-long-sleeve",
+      "title": "Womens Maxi Dress Long Sleeve",
+      "price": 29.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Lingerie, Sleep & Lounge > Sleep & Lounge > Nightgowns & Sleepshirts",
+      "images": [
+        "https://m.media-amazon.com/images/I/61NND9uic4L._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-v-neck-long-sleeve-bodycon",
+      "title": "Womens Maxi Dress V Neck Long Sleeve Bodycon",
+      "price": 26.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Lingerie, Sleep & Lounge > Sleep & Lounge > Onesies",
+      "images": [
+        "https://m.media-amazon.com/images/I/61Uabc1DVKL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-sleeveless",
+      "title": "Womens Maxi Dress Sleeveless",
+      "price": 14.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Lingerie, Sleep & Lounge > Sleep & Lounge > Nightgowns & Sleepshirts",
+      "images": [
+        "https://m.media-amazon.com/images/I/719MEuad3qL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-long-sleeve",
+      "title": "Womens Maxi Dress Long Sleeve",
+      "price": 40.49,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Lingerie, Sleep & Lounge > Sleep & Lounge > Sets",
+      "images": [
+        "https://m.media-amazon.com/images/I/61pbLR5YlaL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress",
+      "title": "Womens Maxi Dress",
+      "price": 14.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Lingerie, Sleep & Lounge > Lingerie > Baby Dolls & Chemises",
+      "images": [
+        "https://m.media-amazon.com/images/I/71a5b82uDdL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-short-sleeve",
+      "title": "Womens Maxi Dress Short Sleeve",
+      "price": 33.29,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Lingerie, Sleep & Lounge > Sleep & Lounge > Nightgowns & Sleepshirts",
+      "images": [
+        "https://m.media-amazon.com/images/I/A1eIf+Hj4YL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-long-sleeve",
+      "title": "Womens Maxi Dress Long Sleeve",
+      "price": 31.34,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Lingerie, Sleep & Lounge > Sleep & Lounge > Sets",
+      "images": [
+        "https://m.media-amazon.com/images/I/71Y1gj7C52L._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-sleeveless",
+      "title": "Womens Maxi Dress Sleeveless",
+      "price": 19.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Lingerie, Sleep & Lounge > Sleep & Lounge > Nightgowns & Sleepshirts",
+      "images": [
+        "https://m.media-amazon.com/images/I/71Uqb+qqrUL._SL1500_.jpg"
+      ]
+    }
+  ],
+  "slug": "womens-dress-b0fd771s38"
+}

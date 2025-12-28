@@ -1,0 +1,962 @@
+{
+  "id": "womens-dress",
+  "handle": "womens-dress-b0c7bw86v8",
+  "sku": "JC1007",
+  "asin": "B0C7BW86V8",
+  "title": "Womens Dress",
+  "title_original": "LILLUSORY Women's Oversized Sweaters Fuzzy Chunky Warm Pullover Sweater",
+  "brand": "LILLUSORY",
+  "price": 27.99,
+  "social_proof": {
+    "bought_past_month": 1837,
+    "text": "1837+ bought in the past month"
+  },
+  "images": [
+    "https://m.media-amazon.com/images/I/81cN56lM1mL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81egfAXtb8L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71PliMD4yaL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81xWaW3wbuL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81ZN-e6E8bL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81I4TJ1YgAL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81no8xzmHeL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81KQGJv6RPL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71xSOwJPQ1L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81UnEbSDKwL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81L+pSH4HxL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81+gNwGy-wL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81-CkwYmD6L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81zOt0Pj4RL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81cfCPvZIgL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81hLDaMBeBL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81oncwOKf3L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81OsPb+0eVL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81YC0VIerQL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71ocO1r9RKL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/815er0a4lhL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71mfs7dX2dL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/819MrgPcIjL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/813Q9+ZFPPL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71qIYmpnKVL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81oa19Tj90L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81-1iZ5H+8L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/8123QdAuwAL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81dhu2JsAlL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81fStQDR64L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81OQL5qzWiL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81C5MFFefKL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81LjeWL9dPL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81Yn6VHBJUL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81PrKK7JgsL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81PugIJdXCL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81EmnwXPGjL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81cfaTKM2hL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/8147fe-NQqL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81AGcFVL5xL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81aXJ4+axbL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81ojc11iE4L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/814jeC7h+yL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81eZxwkW9lL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81fezS0zmNL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81lhgtNnXLL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/813c44Ti63L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81PF5GmYPWL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81LSBXXSD4L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81Vmczc9xzL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81JnqHEaNPL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81HPzZcGQoL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81pPS0YM2lL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81l8ALOu4hL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81-ClQ2moAL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81nDwHNIZ3L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81O2t2OOkrL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/819IwLoCKeL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/819D2X0BanL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81w-fmQtDML._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81+A7-xRETL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81LwOTPhhHL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81MKPNMfZHL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81-aaPZd5JL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81mvUpabefL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81CyZN-kJ1L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/813NCgSKJWL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81xXoY1+HxL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81w+ASdUXsL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81cAhcthjTL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71UGJJILqjL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71F9MJ7uEYL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/719pBcrADXL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71XjwBAFotL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81f-6N+p8+L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81mKBdcy-3L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81Xy9Li4bkL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81TF6QHzP8L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81BlREr0IOL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81hqZCsdpxL._SL1500_.jpg"
+  ],
+  "gallery_images": [
+    "https://m.media-amazon.com/images/I/81cN56lM1mL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81egfAXtb8L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71PliMD4yaL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81xWaW3wbuL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81ZN-e6E8bL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81I4TJ1YgAL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81no8xzmHeL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81KQGJv6RPL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71xSOwJPQ1L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81UnEbSDKwL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81L+pSH4HxL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81+gNwGy-wL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81-CkwYmD6L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81zOt0Pj4RL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81cfCPvZIgL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81hLDaMBeBL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81oncwOKf3L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81OsPb+0eVL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81YC0VIerQL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71ocO1r9RKL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/815er0a4lhL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71mfs7dX2dL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/819MrgPcIjL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/813Q9+ZFPPL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71qIYmpnKVL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81oa19Tj90L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81-1iZ5H+8L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/8123QdAuwAL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81dhu2JsAlL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81fStQDR64L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81OQL5qzWiL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81C5MFFefKL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81LjeWL9dPL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81Yn6VHBJUL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81PrKK7JgsL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81PugIJdXCL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81EmnwXPGjL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81cfaTKM2hL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/8147fe-NQqL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81AGcFVL5xL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81aXJ4+axbL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81ojc11iE4L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/814jeC7h+yL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81eZxwkW9lL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81fezS0zmNL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81lhgtNnXLL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/813c44Ti63L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81PF5GmYPWL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81LSBXXSD4L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81Vmczc9xzL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81JnqHEaNPL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81HPzZcGQoL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81pPS0YM2lL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81l8ALOu4hL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81-ClQ2moAL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81nDwHNIZ3L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81O2t2OOkrL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/819IwLoCKeL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/819D2X0BanL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81w-fmQtDML._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81+A7-xRETL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81LwOTPhhHL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81MKPNMfZHL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81-aaPZd5JL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81mvUpabefL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81CyZN-kJ1L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/813NCgSKJWL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81xXoY1+HxL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81w+ASdUXsL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81cAhcthjTL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71UGJJILqjL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71F9MJ7uEYL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/719pBcrADXL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71XjwBAFotL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81f-6N+p8+L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81mKBdcy-3L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81Xy9Li4bkL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81TF6QHzP8L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81BlREr0IOL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81hqZCsdpxL._SL1500_.jpg"
+  ],
+  "aplus_images": [
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/46f78589-2cb2-4743-9313-b7812d37ef38.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fabe6f24-46e9-4a03-b0fa-7bbcc97aa05d.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0faa19a6-51b0-4297-a55e-33305034539f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/07cf07ee-0c37-4e37-8fe6-2be16aec4d04.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8e823b5e-c915-4218-af23-91f1a4815797.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8f588ef2-8653-4998-9fad-8fb703a840d0.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/85d342d2-3c1c-4824-a684-6d908030d393.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+    "https://m.media-amazon.com/images/I/41zHz9dfpRL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41x0NjwoamL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41-HH4WhahL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41gpRx5na%2BL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41dlbisYS3L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41MJM074-uL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41SxuWVwVFL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41GrulzqraL._SL1500_.jpg"
+  ],
+  "description_images": [
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/46f78589-2cb2-4743-9313-b7812d37ef38.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fabe6f24-46e9-4a03-b0fa-7bbcc97aa05d.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0faa19a6-51b0-4297-a55e-33305034539f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/07cf07ee-0c37-4e37-8fe6-2be16aec4d04.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8e823b5e-c915-4218-af23-91f1a4815797.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8f588ef2-8653-4998-9fad-8fb703a840d0.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/85d342d2-3c1c-4824-a684-6d908030d393.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+    "https://m.media-amazon.com/images/I/41zHz9dfpRL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41x0NjwoamL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41-HH4WhahL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41gpRx5na%2BL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41dlbisYS3L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41MJM074-uL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41SxuWVwVFL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41GrulzqraL._SL1500_.jpg"
+  ],
+  "bullets": [],
+  "specs": {
+    "Item model number ‏": "‎ LSZSO1128",
+    "Department ‏": "‎ womens",
+    "Date First Available ‏": "‎ December 9, 2023",
+    "ASIN ‏": "‎ B0CPVDTCS5",
+    "Best Sellers Rank": "#794 in Clothing, Shoes & Jewelry ( See Top 100 in Clothing, Shoes & Jewelry ) #6 in Women's Pullover Sweaters",
+    "Customer Reviews": "4.3 4.3 out of 5 stars (1,895)"
+  },
+  "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Pullovers",
+  "category_path": [
+    "Clothing, Shoes & Jewelry",
+    "Women",
+    "Clothing",
+    "Sweaters",
+    "Pullovers"
+  ],
+  "category_slug": "clothing-shoes-jewelry/women/clothing/sweaters/pullovers",
+  "category_leaf": "Pullovers",
+  "variations": {
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Nutmeg",
+      "Stripes Grey",
+      "Ruby Red",
+      "Stripes Apricot",
+      "Fuchsia",
+      "Apricot",
+      "Dusty Pink",
+      "Army Green",
+      "Black",
+      "Dusty Blue",
+      "Orange",
+      "Beige",
+      "Mauve",
+      "Butter Yellow",
+      "Light Pink",
+      "Rust",
+      "Sagegreen",
+      "Hot Pink",
+      "Teal Blue",
+      "Navy Blue",
+      "Dark Apricot",
+      "Red",
+      "Pink",
+      "White",
+      "Chocobrown",
+      "Purple",
+      "Stripes White",
+      "Yellow",
+      "Caramel",
+      "Light Grey"
+    ],
+    "size_chart": {
+      "label": "Size chart",
+      "href": "javascript:void(0)",
+      "html": "<table class=\"a-bordered a-size-base\" id=\"fit-sizechartv2-0-table-0\"><tr><th>Brand Size</th><th>US Size</th><th>Bust (in)</th><th>Sleeve Length (in)</th><th>Bicep Circumference (in)</th><th>Shoulder (in)</th><th>Hem (in)</th><th>Length (in)</th></tr><tr><th>S</th><td class=\"a-nowrap\">(4-6)</td><td class=\"a-nowrap\">41.7</td><td class=\"a-nowrap\">19.6</td><td class=\"a-nowrap\">16.6</td><td class=\"a-nowrap\">20.5</td><td class=\"a-nowrap\">39.4</td><td class=\"a-nowrap\">25</td></tr><tr><th>M</th><td class=\"a-nowrap\">(8-10)</td><td class=\"a-nowrap\">44.1</td><td class=\"a-nowrap\">19.9</td><td class=\"a-nowrap\">17.2</td><td class=\"a-nowrap\">21.6</td><td class=\"a-nowrap\">41.7</td><td class=\"a-nowrap\">25.6</td></tr><tr><th>L</th><td class=\"a-nowrap\">(12-14)</td><td class=\"a-nowrap\">45.7</td><td class=\"a-nowrap\">20.1</td><td class=\"a-nowrap\">17.9</td><td class=\"a-nowrap\">22.4</td><td class=\"a-nowrap\">43.3</td><td class=\"a-nowrap\">26</td></tr><tr><th>XL</th><td class=\"a-nowrap\">(16-18)</td><td class=\"a-nowrap\">47.2</td><td class=\"a-nowrap\">20.3</td><td class=\"a-nowrap\">18.7</td><td class=\"a-nowrap\">23.2</td><td class=\"a-nowrap\">44.9</td><td class=\"a-nowrap\">26.4</td></tr><tr><th>2XL</th><td class=\"a-nowrap\">(20-22)</td><td class=\"a-nowrap\">48.8</td><td class=\"a-nowrap\">20.5</td><td class=\"a-nowrap\">19.5</td><td class=\"a-nowrap\">24</td><td class=\"a-nowrap\">46.5</td><td class=\"a-nowrap\">26.8</td></tr></table>"
+    }
+  },
+  "reviews": {
+    "average_rating": 4.3,
+    "count": 1895,
+    "customers_say": "Customers find the sweater comfortable, not itchy or scratchy, and appreciate its smooth texture and high-quality construction.",
+    "items": [
+      {
+        "title": "5.0 out of 5 stars Cozy, Cute, and So Versatile!",
+        "body": "This sweater is everything I was hoping for and more! The caramel color is gorgeous — warm and rich — and the popcorn texture gives it such a fun, stylish look. It’s super soft and comfortable (no scratchiness at all!), and the slightly oversized fit makes it feel cozy without looking sloppy. The cuffed sleeves are such a nice touch and give it a more finished look. I’ve already worn it both dressed up with jeans and boots and dressed down with leggings, and it works perfectly either way. It’s one of those sweaters you put on and instantly feel cute and comfortable. I can already tell this will be a go-to piece in my closet all season long. Highly recommend! ✨🧡 Read more",
+        "author": "Rachael Moore",
+        "rating": 5.0,
+        "date": "November 6, 2025",
+        "verified": false,
+        "images": [
+          "https://m.media-amazon.com/images/I/71du-QlTc4L._SY88._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/61paD1c9XuL._SY88._SL1500_.jpg"
+        ]
+      },
+      {
+        "title": "5.0 out of 5 stars Everything about this sweater is great",
+        "body": "I’ve worn this warm, sweater several times now, and I’m honestly obsessed with it. The material is incredibly soft and cozy — it feels like wearing a blanket but looks stylish enough for everyday outfits. The fit is spot-on, not too tight and not too loose. It layers well without feeling bulky, and it keeps me warm without overheating. The quality is great, and it still looks brand new after multiple wears. I genuinely love everything about this sweater. If you want something soft, warm, and comfortable that you’ll reach for all the time, this one is perfect. Highly recommend! Read more",
+        "author": "Nope",
+        "rating": 5.0,
+        "date": "October 10, 2025",
+        "verified": false,
+        "images": []
+      },
+      {
+        "title": "4.0 out of 5 stars Warm, cute, and soft!!!",
+        "body": "I love this sweater so much! I will say it does fit and look different than the photo but I wear around the house a lot. Not as polished looking as the photos but the quality is really good. I would air dry. I put in dryer in low and it made a few pills. But when I air dryed no problem. Shape stays really well. I find myself grabbing when I want to look cute but be comfy. Read more",
+        "author": "Chelsea",
+        "rating": 4.0,
+        "date": "November 5, 2025",
+        "verified": false,
+        "images": []
+      },
+      {
+        "title": "5.0 out of 5 stars Pretty and Warm",
+        "body": "A really lovely, well-made sweater for winter. It has a nice weight, is oversized, but not sloppy. And, a great price. I’m probably going to buy a second one. Read more",
+        "author": "MO",
+        "rating": 5.0,
+        "date": "December 17, 2025",
+        "verified": false,
+        "images": []
+      },
+      {
+        "title": "3.0 out of 5 stars Thick, Oversized & Cozy—but Runs Hot",
+        "body": "Really thick and oversized sweater. It was pretty hot when I wore it, and the material isn’t my favorite, but I still like it overall. Read more",
+        "author": "Customer",
+        "rating": 3.0,
+        "date": "November 27, 2025",
+        "verified": false,
+        "images": []
+      },
+      {
+        "title": "5.0 out of 5 stars 10/10 on this sweater",
+        "body": "LOVE this sweater. I got the color nutmeg which is a gorgeous color. So soft, so thick, good quality. Definitely keeps me warm. I’m going to order a few more other colors which isn’t something I do often. I’m 5’7, 135 lbs and I love how the medium fits. Definitely buy this. I scoured Amazon and tik tok looking for the best sweaters, & I’m so so glad I bought this. Read more",
+        "author": "Faith",
+        "rating": 5.0,
+        "date": "December 3, 2025",
+        "verified": false,
+        "images": [
+          "https://m.media-amazon.com/images/I/716iQ86lzAL._SY88._SL1500_.jpg"
+        ]
+      },
+      {
+        "title": "5.0 out of 5 stars Cozy!",
+        "body": "Nice and warm! The size is a tad big. Normally I wear an XL so I think a large would have been fine. I am going to order a few more, especially with the winter months approaching Read more",
+        "author": "Sam McGrath",
+        "rating": 5.0,
+        "date": "November 26, 2025",
+        "verified": false,
+        "images": []
+      },
+      {
+        "title": "5.0 out of 5 stars Cute and Comfy",
+        "body": "Loving this sweater! It fits perfectly, so comfortable. Beautiful color. This has become my go-to winter sweater. Read more",
+        "author": "Customer",
+        "rating": 5.0,
+        "date": "December 21, 2025",
+        "verified": false,
+        "images": []
+      }
+    ]
+  },
+  "short_description": "Womens Dress is made for a polished look that still feels comfortable to wear. It is designed to sit cleanly on the body with a flattering shape that works for day plans and dressier moments without feeling overdone.\n\nThe fit focuses on balance rather than extremes, so you can move naturally while still getting a defined silhouette. Choose your usual size for a closer look, or size up if you prefer a little more ease through the waist and hips.\n\nStyling is simple: keep accessories minimal for a clean finish, or add a jacket and statement shoes when you want a sharper outfit. This piece photographs well thanks to smooth lines and a structured feel that stays put once you have it adjusted.\n\nWith the right fit and simple styling, this item becomes an easy go-to when you want something that looks intentional without requiring extra effort.\n\nIf you are between sizes, choose based on how close you like the fit through the waist and hips, then adjust with your usual layering choices.\n\nTo keep it looking sharp, follow the care label first and avoid high heat when drying or steaming if the material is sensitive.",
+  "about_this_item": "Womens Dress is made for a polished look that still feels comfortable to wear. It is designed to sit cleanly on the body with a flattering shape that works for day plans and dressier moments without feeling overdone.\n\nThe fit focuses on balance rather than extremes, so you can move naturally while still getting a defined silhouette. Choose your usual size for a closer look, or size up if you prefer a little more ease through the waist and hips.\n\nStyling is simple: keep accessories minimal for a clean finish, or add a jacket and statement shoes when you want a sharper outfit. This piece photographs well thanks to smooth lines and a structured feel that stays put once you have it adjusted.\n\nWith the right fit and simple styling, this item becomes an easy go-to when you want something that looks intentional without requiring extra effort.\n\nIf you are between sizes, choose based on how close you like the fit through the waist and hips, then adjust with your usual layering choices.\n\nTo keep it looking sharp, follow the care label first and avoid high heat when drying or steaming if the material is sensitive.",
+  "long_description": "Womens Dress is a versatile piece you can reach for when you want a put-together look that still feels comfortable. The goal is simple: a silhouette that reads polished, photographs well, and stays wearable for a full day or a long night.\n\nFit and sizing Fit is where most outfits win or lose. This design aims for a balanced shape with a defined line through the torso, a clean waist, and a smooth finish through the hips and legs. If you prefer a more relaxed feel, size up; if you like a closer fit, stay true to size. Sizes may include: One Size.\n\nFabric and comfort Comfort is not just about softness. It is also about movement and how the fabric behaves as you walk, sit, and stand. A fabric blend with a bit of give helps it keep its shape while still feeling wearable.\n\nHighlights A clean neckline and a refined silhouette for an elevated look. Designed to layer easily with jackets, wraps, or sweaters. Works well with both minimal accessories and statement pieces.\n\nHow to style Styling ideas: keep it minimal with neutral shoes and one standout accessory. For a relaxed daytime look, add a denim jacket or cardigan. For events, switch to a bolder shoe and a small clutch for a sharper finish.\n\nColor notes Available colors may include: Nutmeg, Stripes Grey, Ruby Red, Stripes Apricot, Fuchsia, Apricot, Dusty Pink, Army Green, Black, Dusty Blue, Orange, Beige, Mauve, Butter Yellow. If a shade is sold out, check back as availability can change.\n\nCare Care guidance matters if you want it to keep its shape and finish. Follow the label first.",
+  "long_description_blocks": [
+    {
+      "type": "p",
+      "text": "Womens Dress is a versatile piece you can reach for when you want a put-together look that still feels comfortable. The goal is simple: a silhouette that reads polished, photographs well, and stays wearable for a full day or a long night."
+    },
+    {
+      "type": "p",
+      "text": "Fit and sizing Fit is where most outfits win or lose. This design aims for a balanced shape with a defined line through the torso, a clean waist, and a smooth finish through the hips and legs. If you prefer a more relaxed feel, size up; if you like a closer fit, stay true to size. Sizes may include: One Size."
+    },
+    {
+      "type": "img",
+      "src": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/46f78589-2cb2-4743-9313-b7812d37ef38.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "alt": "Womens Dress details image 1"
+    },
+    {
+      "type": "p",
+      "text": "Fabric and comfort Comfort is not just about softness. It is also about movement and how the fabric behaves as you walk, sit, and stand. A fabric blend with a bit of give helps it keep its shape while still feeling wearable."
+    },
+    {
+      "type": "img",
+      "src": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fabe6f24-46e9-4a03-b0fa-7bbcc97aa05d.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "alt": "Womens Dress details image 2"
+    },
+    {
+      "type": "p",
+      "text": "Highlights A clean neckline and a refined silhouette for an elevated look. Designed to layer easily with jackets, wraps, or sweaters. Works well with both minimal accessories and statement pieces."
+    },
+    {
+      "type": "img",
+      "src": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0faa19a6-51b0-4297-a55e-33305034539f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "alt": "Womens Dress details image 3"
+    },
+    {
+      "type": "p",
+      "text": "How to style Styling ideas: keep it minimal with neutral shoes and one standout accessory. For a relaxed daytime look, add a denim jacket or cardigan. For events, switch to a bolder shoe and a small clutch for a sharper finish."
+    },
+    {
+      "type": "img",
+      "src": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/07cf07ee-0c37-4e37-8fe6-2be16aec4d04.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "alt": "Womens Dress details image 4"
+    },
+    {
+      "type": "p",
+      "text": "Color notes Available colors may include: Nutmeg, Stripes Grey, Ruby Red, Stripes Apricot, Fuchsia, Apricot, Dusty Pink, Army Green, Black, Dusty Blue, Orange, Beige, Mauve, Butter Yellow. If a shade is sold out, check back as availability can change."
+    },
+    {
+      "type": "img",
+      "src": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8e823b5e-c915-4218-af23-91f1a4815797.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "alt": "Womens Dress details image 5"
+    },
+    {
+      "type": "p",
+      "text": "Care Care guidance matters if you want it to keep its shape and finish. Follow the label first."
+    }
+  ],
+  "videos": [
+    {
+      "id": "ead4a44f-6de7-49de-9a20-e4c1b12d9820",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ead4a44f-6de7-49de-9a20-e4c1b12d9820/default.vertical.jobtemplate.hls.m3u8",
+      "sources": [
+        {
+          "type": "application/x-mpegURL",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ead4a44f-6de7-49de-9a20-e4c1b12d9820/default.vertical.jobtemplate.hls.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "ea76cd64-e72c-4279-a823-8a42c50e352e",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ea76cd64-e72c-4279-a823-8a42c50e352e/default.vertical.jobtemplate.hls.m3u8",
+      "sources": [
+        {
+          "type": "application/x-mpegURL",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ea76cd64-e72c-4279-a823-8a42c50e352e/default.vertical.jobtemplate.hls.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "17bf1a35-5db0-48f2-87ad-b1750c46b1d8",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/17bf1a35-5db0-48f2-87ad-b1750c46b1d8/default.vertical.jobtemplate.hls.m3u8",
+      "sources": [
+        {
+          "type": "application/x-mpegURL",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/17bf1a35-5db0-48f2-87ad-b1750c46b1d8/default.vertical.jobtemplate.hls.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "b79b89c0-983d-469b-afba-1bbaa79214ed",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b79b89c0-983d-469b-afba-1bbaa79214ed/default.vertical.jobtemplate.hls.m3u8",
+      "sources": [
+        {
+          "type": "application/x-mpegURL",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b79b89c0-983d-469b-afba-1bbaa79214ed/default.vertical.jobtemplate.hls.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "467bdd27-56e2-477d-bbd7-805d99563a99",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/467bdd27-56e2-477d-bbd7-805d99563a99/default.vertical.jobtemplate.hls.m3u8",
+      "sources": [
+        {
+          "type": "application/x-mpegURL",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/467bdd27-56e2-477d-bbd7-805d99563a99/default.vertical.jobtemplate.hls.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "439ad7b0-b947-42cc-8b80-a6cdab4984dc",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/439ad7b0-b947-42cc-8b80-a6cdab4984dc/default.vertical.jobtemplate.hls.m3u8",
+      "sources": [
+        {
+          "type": "application/x-mpegURL",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/439ad7b0-b947-42cc-8b80-a6cdab4984dc/default.vertical.jobtemplate.hls.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "92e19db0-8193-4a25-ad3b-7284014fd331",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/92e19db0-8193-4a25-ad3b-7284014fd331/default.vertical.jobtemplate.hls.m3u8",
+      "sources": [
+        {
+          "type": "application/x-mpegURL",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/92e19db0-8193-4a25-ad3b-7284014fd331/default.vertical.jobtemplate.hls.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "39ee9d1d-9672-4f3b-977e-a45e5d8eed99",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/39ee9d1d-9672-4f3b-977e-a45e5d8eed99/default.jobtemplate.hls.m3u8",
+      "sources": [
+        {
+          "type": "application/x-mpegURL",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/39ee9d1d-9672-4f3b-977e-a45e5d8eed99/default.jobtemplate.hls.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "ee09c19e-809f-40f8-ab31-8198fd313d27",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ee09c19e-809f-40f8-ab31-8198fd313d27/default.vertical.jobtemplate.hls.m3u8",
+      "sources": [
+        {
+          "type": "application/x-mpegURL",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ee09c19e-809f-40f8-ab31-8198fd313d27/default.vertical.jobtemplate.hls.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "b2f5d4eb-ab8e-44cc-99b1-d0cf5a5e57fa",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b2f5d4eb-ab8e-44cc-99b1-d0cf5a5e57fa/default.vertical.jobtemplate.hls.m3u8",
+      "sources": [
+        {
+          "type": "application/x-mpegURL",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b2f5d4eb-ab8e-44cc-99b1-d0cf5a5e57fa/default.vertical.jobtemplate.hls.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "20fd0933-278e-4286-9f8b-faea6535c307",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/20fd0933-278e-4286-9f8b-faea6535c307/videopreview.jobtemplate.mp4.default.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/20fd0933-278e-4286-9f8b-faea6535c307/videopreview.jobtemplate.mp4.default.mp4"
+        }
+      ]
+    },
+    {
+      "id": "c43dbf01-5f0b-4441-8cb5-22ebc57faf68",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c43dbf01-5f0b-4441-8cb5-22ebc57faf68/videopreview.jobtemplate.mp4.default.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c43dbf01-5f0b-4441-8cb5-22ebc57faf68/videopreview.jobtemplate.mp4.default.mp4"
+        }
+      ]
+    }
+  ],
+  "color_swatches": {
+    "Nutmeg": "https://m.media-amazon.com/images/I/41EwXQTclAL._AC_SR38,50_.jpg",
+    "Stripes Grey": "https://m.media-amazon.com/images/I/51LyH7C6RHL._AC_SR38,50_.jpg",
+    "Ruby Red": "https://m.media-amazon.com/images/I/51ENewbvENL._AC_SR38,50_.jpg",
+    "Stripes Apricot": "https://m.media-amazon.com/images/I/41XYCPcoX6L._AC_SR38,50_.jpg",
+    "Fuchsia": "https://m.media-amazon.com/images/I/41QV9wQL+0L._AC_SR38,50_.jpg",
+    "Apricot": "https://m.media-amazon.com/images/I/41fbUjRBFZL._AC_SR38,50_.jpg",
+    "Dusty Pink": "https://m.media-amazon.com/images/I/41wZqfz0nDL._AC_SR38,50_.jpg",
+    "Army Green": "https://m.media-amazon.com/images/I/51Ghrsfn8BL._AC_SR38,50_.jpg",
+    "Black": "https://m.media-amazon.com/images/I/41s6vJA4CNL._AC_SR38,50_.jpg",
+    "Dusty Blue": "https://m.media-amazon.com/images/I/51v3Ec9VM4L._AC_SR38,50_.jpg",
+    "Orange": "https://m.media-amazon.com/images/I/51gONjyYhHL._AC_SR38,50_.jpg",
+    "Beige": "https://m.media-amazon.com/images/I/41xPGVXRidL._AC_SR38,50_.jpg",
+    "Mauve": "https://m.media-amazon.com/images/I/41J3iAHDKpL._AC_SR38,50_.jpg",
+    "Butter Yellow": "https://m.media-amazon.com/images/I/415g-Z2XCWL._AC_SR38,50_.jpg",
+    "Light Pink": "https://m.media-amazon.com/images/I/41+su7fONFL._AC_SR38,50_.jpg",
+    "Rust": "https://m.media-amazon.com/images/I/41GfV8aPPdL._AC_SR38,50_.jpg",
+    "Sagegreen": "https://m.media-amazon.com/images/I/412tt+NywvL._AC_SR38,50_.jpg",
+    "Hot Pink": "https://m.media-amazon.com/images/I/51FEOA1YrmL._AC_SR38,50_.jpg",
+    "Teal Blue": "https://m.media-amazon.com/images/I/41DhaSZJ2UL._AC_SR38,50_.jpg",
+    "Navy Blue": "https://m.media-amazon.com/images/I/51gZDbzRCvL._AC_SR38,50_.jpg",
+    "Dark Apricot": "https://m.media-amazon.com/images/I/51DeT5QewvL._AC_SR38,50_.jpg",
+    "Red": "https://m.media-amazon.com/images/I/41RCyQUCmoL._AC_SR38,50_.jpg",
+    "Pink": "https://m.media-amazon.com/images/I/41bsrgPhyhL._AC_SR38,50_.jpg",
+    "White": "https://m.media-amazon.com/images/I/41xa6NefXbL._AC_SR38,50_.jpg",
+    "Chocobrown": "https://m.media-amazon.com/images/I/41Q6BJDBbOL._AC_SR38,50_.jpg",
+    "Purple": "https://m.media-amazon.com/images/I/51FDJrjZ7BL._AC_SR38,50_.jpg",
+    "Stripes White": "https://m.media-amazon.com/images/I/51d+J18A8pL._AC_SR38,50_.jpg",
+    "Yellow": "https://m.media-amazon.com/images/I/51yDLU0Yj5L._AC_SR38,50_.jpg",
+    "Caramel": "https://m.media-amazon.com/images/I/51Qe+9x5RyL._AC_SR38,50_.jpg",
+    "Light Grey": "https://m.media-amazon.com/images/I/51oRky8NiEL._AC_SR38,50_.jpg"
+  },
+  "color_image_key": {
+    "Nutmeg": "81cN56lM1mL",
+    "Stripes Grey": "81egfAXtb8L",
+    "Ruby Red": "71PliMD4yaL",
+    "Stripes Apricot": "81xWaW3wbuL",
+    "Fuchsia": "81ZN-e6E8bL",
+    "Apricot": "81I4TJ1YgAL",
+    "Dusty Pink": "81no8xzmHeL",
+    "Army Green": "81KQGJv6RPL",
+    "Black": "71xSOwJPQ1L",
+    "Dusty Blue": "81UnEbSDKwL",
+    "Orange": "81L+pSH4HxL",
+    "Beige": "81+gNwGy-wL",
+    "Mauve": "81-CkwYmD6L",
+    "Butter Yellow": "81zOt0Pj4RL",
+    "Light Pink": "81cfCPvZIgL",
+    "Rust": "81hLDaMBeBL",
+    "Sagegreen": "81oncwOKf3L",
+    "Hot Pink": "81OsPb+0eVL",
+    "Teal Blue": "81YC0VIerQL",
+    "Navy Blue": "71ocO1r9RKL",
+    "Dark Apricot": "815er0a4lhL",
+    "Red": "71mfs7dX2dL",
+    "Pink": "819MrgPcIjL",
+    "White": "813Q9+ZFPPL",
+    "Chocobrown": "71qIYmpnKVL",
+    "Purple": "81oa19Tj90L",
+    "Stripes White": "81-1iZ5H+8L",
+    "Yellow": "8123QdAuwAL",
+    "Caramel": "81dhu2JsAlL",
+    "Light Grey": "81fStQDR64L"
+  },
+  "color_images": {
+    "Nutmeg": [
+      "https://m.media-amazon.com/images/I/81cN56lM1mL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81OQL5qzWiL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81C5MFFefKL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81LjeWL9dPL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81Yn6VHBJUL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81PrKK7JgsL._SL1500_.jpg"
+    ],
+    "Stripes Grey": [
+      "https://m.media-amazon.com/images/I/81egfAXtb8L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81PugIJdXCL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81EmnwXPGjL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81cfaTKM2hL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/8147fe-NQqL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81AGcFVL5xL._SL1500_.jpg"
+    ],
+    "Ruby Red": [
+      "https://m.media-amazon.com/images/I/71PliMD4yaL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81aXJ4+axbL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81ojc11iE4L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/814jeC7h+yL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81eZxwkW9lL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81fezS0zmNL._SL1500_.jpg"
+    ],
+    "Stripes Apricot": [
+      "https://m.media-amazon.com/images/I/81xWaW3wbuL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81lhgtNnXLL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/813c44Ti63L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81PF5GmYPWL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81LSBXXSD4L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81Vmczc9xzL._SL1500_.jpg"
+    ],
+    "Fuchsia": [
+      "https://m.media-amazon.com/images/I/81ZN-e6E8bL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81JnqHEaNPL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81HPzZcGQoL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81pPS0YM2lL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81l8ALOu4hL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81-ClQ2moAL._SL1500_.jpg"
+    ],
+    "Apricot": [
+      "https://m.media-amazon.com/images/I/81I4TJ1YgAL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81nDwHNIZ3L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81O2t2OOkrL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/819IwLoCKeL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/819D2X0BanL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81w-fmQtDML._SL1500_.jpg"
+    ],
+    "Dusty Pink": [
+      "https://m.media-amazon.com/images/I/81no8xzmHeL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81+A7-xRETL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81LwOTPhhHL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81MKPNMfZHL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81-aaPZd5JL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81mvUpabefL._SL1500_.jpg"
+    ],
+    "Army Green": [
+      "https://m.media-amazon.com/images/I/81KQGJv6RPL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81CyZN-kJ1L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/813NCgSKJWL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81xXoY1+HxL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81w+ASdUXsL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81cAhcthjTL._SL1500_.jpg"
+    ],
+    "Black": [
+      "https://m.media-amazon.com/images/I/71xSOwJPQ1L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71UGJJILqjL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71F9MJ7uEYL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/719pBcrADXL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71XjwBAFotL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81f-6N+p8+L._SL1500_.jpg"
+    ],
+    "Dusty Blue": [
+      "https://m.media-amazon.com/images/I/81UnEbSDKwL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81mKBdcy-3L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81Xy9Li4bkL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81TF6QHzP8L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81BlREr0IOL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81hqZCsdpxL._SL1500_.jpg"
+    ],
+    "Orange": [
+      "https://m.media-amazon.com/images/I/81L+pSH4HxL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/812jFWFRtgL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81oP9+AHy9L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81gNMUvWMcL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81c5uUVv2XL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81wmXZ9z+dL._SL1500_.jpg"
+    ],
+    "Beige": [
+      "https://m.media-amazon.com/images/I/81+gNwGy-wL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71GOayyx0XL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/713snOWv5bL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71F6sKXFstL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71CG6rpYnYL._SL1500_.jpg"
+    ],
+    "Mauve": [
+      "https://m.media-amazon.com/images/I/81-CkwYmD6L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81sA7N0r+CL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81uKtl6S6iL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81nuBUyP84L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/712tF53Jz0L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81vrVCP9RyL._SL1500_.jpg"
+    ],
+    "Butter Yellow": [
+      "https://m.media-amazon.com/images/I/81zOt0Pj4RL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71k5h8aRsDL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71zDpwiANJL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71inkrSmw2L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/716p4+4Su2L._SL1500_.jpg"
+    ],
+    "Light Pink": [
+      "https://m.media-amazon.com/images/I/81cfCPvZIgL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81HVSOteCZL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81cIpC5yJiL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81BnX9Vj5DL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81qB0k7DljL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81Ps4bCruWL._SL1500_.jpg"
+    ],
+    "Rust": [
+      "https://m.media-amazon.com/images/I/81hLDaMBeBL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81hLeHxkA2L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81s4f6k5ItL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/813V1QfZZ4L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81QxyuN3JWL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81DfRXQF2NL._SL1500_.jpg"
+    ],
+    "Sagegreen": [
+      "https://m.media-amazon.com/images/I/81oncwOKf3L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81+3o3qn49L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81Um9WhXt7L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81sC4L+auaL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81X+TILnExL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81fUzqIxBWL._SL1500_.jpg"
+    ],
+    "Hot Pink": [
+      "https://m.media-amazon.com/images/I/81OsPb+0eVL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81jXpRuEvXL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81X-cclp2nL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81dyeV1QpcL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/818kIkqzXOL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81iQW6N4jfL._SL1500_.jpg"
+    ],
+    "Teal Blue": [
+      "https://m.media-amazon.com/images/I/81YC0VIerQL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/815SIh2TJtL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81T714ZFBfL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81sHZL4eaCL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/810HnV7URGL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81XZzzHwjJL._SL1500_.jpg"
+    ],
+    "Navy Blue": [
+      "https://m.media-amazon.com/images/I/71ocO1r9RKL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81QS+rGLKiL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81eBKxOknpL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81qAQFcXAGL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81B-ipoyudL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81YJ9yrz7DL._SL1500_.jpg"
+    ],
+    "Dark Apricot": [
+      "https://m.media-amazon.com/images/I/815er0a4lhL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81OM1pbt2HL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81B+8dvmFoL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/819HQOHVgXL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81Vj8v+luNL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81gK4A8Qc5L._SL1500_.jpg"
+    ],
+    "Red": [
+      "https://m.media-amazon.com/images/I/71mfs7dX2dL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/812ltMLHuNL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81q9HX0pCCL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/819OhlEkybL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81uiqZh3BgL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81HU6+K0a7L._SL1500_.jpg"
+    ],
+    "Pink": [
+      "https://m.media-amazon.com/images/I/819MrgPcIjL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81Ntz-qaaVL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81NjTqWhDML._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81tHrmBjhEL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81iYmYq1kRL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/813M9CG+6HL._SL1500_.jpg"
+    ],
+    "White": [
+      "https://m.media-amazon.com/images/I/813Q9+ZFPPL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81do9siIubL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81PTNPUSqdL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81NcORTboKL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81YnlXelFuL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81HW0ReuCtL._SL1500_.jpg"
+    ],
+    "Chocobrown": [
+      "https://m.media-amazon.com/images/I/71qIYmpnKVL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/7127n5O-KTL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71SBsgWcVxL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71CRNMuiyFL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71bKE8g60ZL._SL1500_.jpg"
+    ],
+    "Purple": [
+      "https://m.media-amazon.com/images/I/81oa19Tj90L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/813mXjOmWxL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/816cUiwNzpL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81rJCCj9hHL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81mOhTshPyL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81OrmOnuSML._SL1500_.jpg"
+    ],
+    "Stripes White": [
+      "https://m.media-amazon.com/images/I/81-1iZ5H+8L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/810tOJjr0+L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81-BEAdpfAL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81eIKegqRZL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81TEjWKvEiL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81AdAea5zvL._SL1500_.jpg"
+    ],
+    "Yellow": [
+      "https://m.media-amazon.com/images/I/8123QdAuwAL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81baTBeLONL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81xonvZVY7L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81+D-rYBOOL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81fe2OrA1sL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81SGNqbiphL._SL1500_.jpg"
+    ],
+    "Caramel": [
+      "https://m.media-amazon.com/images/I/81dhu2JsAlL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81umjDsIhUL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81ggO2tuRjL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81HKC8W0LCL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/813LYq2Qp4L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81jKBYMji3L._SL1500_.jpg"
+    ],
+    "Light Grey": [
+      "https://m.media-amazon.com/images/I/81fStQDR64L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81mPDhXem+L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81JFdl6NRWL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81PeYJFW7eL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81U8IwNON2L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81n5rlBqmIL._SL1500_.jpg"
+    ]
+  },
+  "related": [
+    {
+      "id": "womens-maxi-dress-long-sleeve-v-neck",
+      "title": "Womens Maxi Dress Long Sleeve V Neck",
+      "price": 41.94,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters",
+      "images": [
+        "https://m.media-amazon.com/images/I/71jQuOijTRL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-long-sleeve",
+      "title": "Womens Maxi Dress Long Sleeve",
+      "price": 34.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Pullovers",
+      "images": [
+        "https://m.media-amazon.com/images/I/815B4dr4DVL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-long-sleeve",
+      "title": "Womens Maxi Dress Long Sleeve",
+      "price": 21.62,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Pullovers",
+      "images": [
+        "https://m.media-amazon.com/images/I/71yyywpXjyL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-long-sleeve",
+      "title": "Womens Maxi Dress Long Sleeve",
+      "price": 24.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Pullovers",
+      "images": [
+        "https://m.media-amazon.com/images/I/61lB9r+7IqL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-dress-v-neck",
+      "title": "Womens Dress V Neck",
+      "price": 199.0,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Pullovers",
+      "images": [
+        "https://m.media-amazon.com/images/I/61COVj6daNL._SL1500_.jpg"
+      ]
+    }
+  ],
+  "customer_also_viewed": [
+    {
+      "id": "womens-maxi-dress-long-sleeve",
+      "title": "Womens Maxi Dress Long Sleeve",
+      "price": 34.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Pullovers",
+      "images": [
+        "https://m.media-amazon.com/images/I/815B4dr4DVL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-v-neck-long-sleeve",
+      "title": "Womens Maxi Dress V Neck Long Sleeve",
+      "price": 34.98,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Pullovers",
+      "images": [
+        "https://m.media-amazon.com/images/I/71uYqGniYdL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-long-sleeve",
+      "title": "Womens Maxi Dress Long Sleeve",
+      "price": 27.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Pullovers",
+      "images": [
+        "https://m.media-amazon.com/images/I/71sCe8A0rGL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-long-sleeve",
+      "title": "Womens Maxi Dress Long Sleeve",
+      "price": 49.28,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Pullovers",
+      "images": [
+        "https://m.media-amazon.com/images/I/41OTP0AAGcL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-dress-short-sleeve",
+      "title": "Womens Dress Short Sleeve",
+      "price": 32.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Pullovers",
+      "images": [
+        "https://m.media-amazon.com/images/I/81BKXx-SPwL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-dress-sleeveless-v-neck",
+      "title": "Womens Dress Sleeveless V Neck",
+      "price": 33.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Vests",
+      "images": [
+        "https://m.media-amazon.com/images/I/71FBQFcJZyL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-long-sleeve",
+      "title": "Womens Maxi Dress Long Sleeve",
+      "price": 27.97,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Pullovers",
+      "images": [
+        "https://m.media-amazon.com/images/I/61fejK2WLUL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-long-sleeve-v-neck",
+      "title": "Womens Maxi Dress Long Sleeve V Neck",
+      "price": 41.94,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters",
+      "images": [
+        "https://m.media-amazon.com/images/I/71jQuOijTRL._SL1500_.jpg"
+      ]
+    }
+  ],
+  "slug": "womens-dress-b0c7bw86v8"
+}

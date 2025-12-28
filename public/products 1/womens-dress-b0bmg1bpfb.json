@@ -1,0 +1,541 @@
+{
+  "id": "womens-dress",
+  "handle": "womens-dress-b0bmg1bpfb",
+  "sku": "JC1033",
+  "asin": "B0BMG1BPFB",
+  "title": "Womens Dress",
+  "title_original": "Arssm Women Santa Sweater Ugly Christmas Sweater Funny Xmas Holiday Party Knitted Cozy Pullover Sweatshirts Tops",
+  "brand": "Arssm",
+  "price": 36.99,
+  "social_proof": {
+    "bought_past_month": 835,
+    "text": "835+ bought in the past month"
+  },
+  "images": [
+    "https://m.media-amazon.com/images/I/71gREeIh-uL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71KgG5P9RuL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71dmCvbzPQL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/719QhrIV7FL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71zPlOzuYPL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71a1Og-tlrL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81t10h3goyL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/819k2GE-7LL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81xkIYKlhvL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/810xEPL7ZDL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81mhA1+GnDL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71bCC07VY-L._SL1500_.jpg"
+  ],
+  "gallery_images": [
+    "https://m.media-amazon.com/images/I/71gREeIh-uL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71KgG5P9RuL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71dmCvbzPQL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/719QhrIV7FL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71zPlOzuYPL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71a1Og-tlrL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81t10h3goyL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/819k2GE-7LL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81xkIYKlhvL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/810xEPL7ZDL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81mhA1+GnDL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71bCC07VY-L._SL1500_.jpg"
+  ],
+  "aplus_images": [
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/29fb9ab9-13d9-44a9-bf84-2f43d23202f7.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8d4a9e31-9477-45f0-a5e4-17561fd9746b.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0da0cabd-e1cb-42ae-bb18-d9350cc6347f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5195ce23-ba3b-4f95-9325-8ef1db4e0c3e.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1a725370-d7b0-4818-b6e7-9462789fb42d.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/18985319-ab3a-45bc-a62e-550f73ba65dc.__AC_SR1200,1200___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/61584b62-7898-41f8-afaa-273e76aaed79.__AC_SR1200,1200___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1b48cd35-4069-4234-b256-a9a98b9e3e73.__AC_SR1200,1200___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/90397280-08d9-4629-8b67-b8955b59ad1b.__AC_SR1200,1200___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b333e50a-3480-44ef-b56d-e85c43ab1be7.__AC_SR1200,1200___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/85c27780-3f77-46b7-8971-66f2f3add91a.__AC_SR1200,1200___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f9d0bc2b-c530-4ce6-9f29-77c267253545.__AC_SR1200,1200___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/efe4ecb8-b106-40dc-9488-b190dddcff75.__AC_SR1200,1200___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/df515dd0-60d7-46d5-b8ec-f3f46af62273.__AC_SR1200,1200___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/772335d9-8870-47a5-a97c-ccc26eefed4d.__AC_SR1200,1200___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0ea16f36-dded-4670-aa2a-6445cfb1371c.__AC_SR1200,1200___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9ff6f5f3-18ed-4ec8-9e93-9210688212d2.__AC_SR1200,1200___.jpg"
+  ],
+  "description_images": [
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/29fb9ab9-13d9-44a9-bf84-2f43d23202f7.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8d4a9e31-9477-45f0-a5e4-17561fd9746b.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0da0cabd-e1cb-42ae-bb18-d9350cc6347f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5195ce23-ba3b-4f95-9325-8ef1db4e0c3e.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1a725370-d7b0-4818-b6e7-9462789fb42d.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/18985319-ab3a-45bc-a62e-550f73ba65dc.__AC_SR1200,1200___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/61584b62-7898-41f8-afaa-273e76aaed79.__AC_SR1200,1200___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1b48cd35-4069-4234-b256-a9a98b9e3e73.__AC_SR1200,1200___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/90397280-08d9-4629-8b67-b8955b59ad1b.__AC_SR1200,1200___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b333e50a-3480-44ef-b56d-e85c43ab1be7.__AC_SR1200,1200___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/85c27780-3f77-46b7-8971-66f2f3add91a.__AC_SR1200,1200___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f9d0bc2b-c530-4ce6-9f29-77c267253545.__AC_SR1200,1200___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/efe4ecb8-b106-40dc-9488-b190dddcff75.__AC_SR1200,1200___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/df515dd0-60d7-46d5-b8ec-f3f46af62273.__AC_SR1200,1200___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/772335d9-8870-47a5-a97c-ccc26eefed4d.__AC_SR1200,1200___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0ea16f36-dded-4670-aa2a-6445cfb1371c.__AC_SR1200,1200___.jpg",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9ff6f5f3-18ed-4ec8-9e93-9210688212d2.__AC_SR1200,1200___.jpg"
+  ],
+  "bullets": [],
+  "specs": {
+    "Department ‏": "‎ womens",
+    "Date First Available ‏": "‎ November 15, 2022",
+    "Manufacturer ‏": "‎ Arssm",
+    "ASIN ‏": "‎ B0BMG2Y16C",
+    "Product Warranty": "For warranty information about this product, please click here",
+    "Best Sellers Rank": "#155,311 in Clothing, Shoes & Jewelry ( See Top 100 in Clothing, Shoes & Jewelry ) #1,565 in Women's Pullover Sweaters",
+    "Customer Reviews": "4.5 4.5 out of 5 stars (21)"
+  },
+  "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Pullovers",
+  "category_path": [
+    "Clothing, Shoes & Jewelry",
+    "Women",
+    "Clothing",
+    "Sweaters",
+    "Pullovers"
+  ],
+  "category_slug": "clothing-shoes-jewelry/women/clothing/sweaters/pullovers",
+  "category_leaf": "Pullovers",
+  "variations": {
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Red",
+      "Pink",
+      "Blue",
+      "Black",
+      "Green",
+      "Grey"
+    ],
+    "size_chart": {
+      "label": "Size chart",
+      "href": null,
+      "html": "\n        <table class=\"size-chart\">\n          <thead>\n            <tr>\n              <th>Size</th>\n              <th>Bust (in)</th>\n              <th>Waist (in)</th>\n              <th>Hips (in)</th>\n            </tr>\n          </thead>\n          <tbody>\n            <tr><td>XS</td><td>31-32</td><td>23-24</td><td>33-34</td></tr>\n            <tr><td>S</td><td>33-34</td><td>25-26</td><td>35-36</td></tr>\n            <tr><td>M</td><td>35-36</td><td>27-28</td><td>37-38</td></tr>\n            <tr><td>L</td><td>37-39</td><td>29-31</td><td>39-41</td></tr>\n            <tr><td>XL</td><td>40-42</td><td>32-34</td><td>42-44</td></tr>\n          </tbody>\n        </table>\n        "
+    }
+  },
+  "reviews": {
+    "average_rating": 4.5,
+    "count": 21,
+    "customers_say": "Customers find the Santa sweater cute and soft, with good quality and a great fit. The size receives mixed feedback, with several customers noting it runs large.",
+    "items": [
+      {
+        "title": "5.0 out of 5 stars Wow!! Love the quality",
+        "body": "I searched through many sellers and they were not all the same. This one had furry Santa’s which I loved and I love the fit and style , slouchy. It is really soft. I am very happy with the purchase. I bought extra large and am 5’4 180. Read more",
+        "author": "Mr & Mrs. Smith",
+        "rating": 5.0,
+        "date": "December 5, 2024",
+        "verified": false,
+        "images": []
+      },
+      {
+        "title": "5.0 out of 5 stars Very cute — lots of compliments",
+        "body": "V cute and soft. Tons of compliments. You could size down. I ordered L and probably could have managed a medium. Very roomy but kinda short! Read more",
+        "author": "Antonia Steinmiller",
+        "rating": 5.0,
+        "date": "December 25, 2024",
+        "verified": false,
+        "images": [
+          "https://m.media-amazon.com/images/I/715pCDXD6bL._SY88._SL1500_.jpg"
+        ]
+      },
+      {
+        "title": "5.0 out of 5 stars LOVE",
+        "body": "I got SO many compliments on this sweater!! So fun and cute. Definitely worth it. Read more",
+        "author": "Alex gottron",
+        "rating": 5.0,
+        "date": "December 17, 2025",
+        "verified": false,
+        "images": []
+      },
+      {
+        "title": "4.0 out of 5 stars So comfortable!",
+        "body": "This sweater is the perfect weight for a party or outing. It is extremely comfortable, looks great with high waisted jeans. Runs true to size. Read more",
+        "author": "Crl",
+        "rating": 4.0,
+        "date": "January 27, 2025",
+        "verified": false,
+        "images": []
+      },
+      {
+        "title": "5.0 out of 5 stars Light pink Santa clause sweater",
+        "body": "I love this sweater. I wore it over a red mini dress with leggings and it looked fabulous . It’s well made and so soft and TTS. Love the light pink with the red Santa’s. The colors look great. Just the right thickness to wear during the holidays. Read more",
+        "author": "Talker",
+        "rating": 5.0,
+        "date": "November 10, 2024",
+        "verified": false,
+        "images": []
+      },
+      {
+        "title": "5.0 out of 5 stars Softest sweater",
+        "body": "I love the softness of this sweater and the cute Santa faces. Be forewarned, however, it runs very big! Read more",
+        "author": "Beth Crea",
+        "rating": 5.0,
+        "date": "December 23, 2024",
+        "verified": false,
+        "images": []
+      },
+      {
+        "title": "2.0 out of 5 stars So disappointed!",
+        "body": "I was so excited for this Christmas sweater but could not look passed the poor quality. The stitching was all crooked around the arms. Threads were already loose. Definitely save your $40…not worth it! Read more",
+        "author": "Customer",
+        "rating": 2.0,
+        "date": "November 19, 2024",
+        "verified": false,
+        "images": []
+      },
+      {
+        "title": "3.0 out of 5 stars Hermoso abrigo",
+        "body": "El abrigo es muy similar a la fotografía, la tela en el interior pica un poco la piel por el diseño de santa Read more",
+        "author": "Melissa Barboza",
+        "rating": 3.0,
+        "date": "November 24, 2024",
+        "verified": false,
+        "images": []
+      }
+    ]
+  },
+  "short_description": "Womens Dress is made for a polished look that still feels comfortable to wear. It is designed to sit cleanly on the body with a flattering shape that works for day plans and dressier moments without feeling overdone.\n\nThe fit focuses on balance rather than extremes, so you can move naturally while still getting a defined silhouette. Choose your usual size for a closer look, or size up if you prefer a little more ease through the waist and hips.\n\nStyling is simple: keep accessories minimal for a clean finish, or add a jacket and statement shoes when you want a sharper outfit. This piece photographs well thanks to smooth lines and a structured feel that stays put once you have it adjusted.\n\nWith the right fit and simple styling, this item becomes an easy go-to when you want something that looks intentional without requiring extra effort.\n\nTo keep it looking sharp, follow the care label first and avoid high heat when drying or steaming if the material is sensitive.\n\nFor the best look, smooth the fabric, check the neckline placement, and pair it with shoes that match the occasion and the hem length.",
+  "about_this_item": "Womens Dress is made for a polished look that still feels comfortable to wear. It is designed to sit cleanly on the body with a flattering shape that works for day plans and dressier moments without feeling overdone.\n\nThe fit focuses on balance rather than extremes, so you can move naturally while still getting a defined silhouette. Choose your usual size for a closer look, or size up if you prefer a little more ease through the waist and hips.\n\nStyling is simple: keep accessories minimal for a clean finish, or add a jacket and statement shoes when you want a sharper outfit. This piece photographs well thanks to smooth lines and a structured feel that stays put once you have it adjusted.\n\nWith the right fit and simple styling, this item becomes an easy go-to when you want something that looks intentional without requiring extra effort.\n\nTo keep it looking sharp, follow the care label first and avoid high heat when drying or steaming if the material is sensitive.\n\nFor the best look, smooth the fabric, check the neckline placement, and pair it with shoes that match the occasion and the hem length.",
+  "long_description": "Womens Dress is a versatile piece you can reach for when you want a put-together look that still feels comfortable. The goal is simple: a silhouette that reads polished, photographs well, and stays wearable for a full day or a long night.\n\nFit and sizing Fit is where most outfits win or lose. This design aims for a balanced shape with a defined line through the torso, a clean waist, and a smooth finish through the hips and legs. If you prefer a more relaxed feel, size up; if you like a closer fit, stay true to size. Sizes may include: XS, S, M, L, XL.\n\nFabric and comfort Comfort is not just about softness. It is also about movement and how the fabric behaves as you walk, sit, and stand. A fabric blend with a bit of give helps it keep its shape while still feeling wearable.\n\nHighlights A clean neckline and a refined silhouette for an elevated look. Designed to layer easily with jackets, wraps, or sweaters. Works well with both minimal accessories and statement pieces.\n\nHow to style Styling ideas: keep it minimal with neutral shoes and one standout accessory. For a relaxed daytime look, add a denim jacket or cardigan. For events, switch to a bolder shoe and a small clutch for a sharper finish.\n\nColor notes Available colors may include: Red, Pink, Blue, Black, Green, Grey. If a shade is sold out, check back as availability can change.\n\nCare Care guidance matters if you want it to keep its shape and finish. Follow the label first.",
+  "long_description_blocks": [
+    {
+      "type": "p",
+      "text": "Womens Dress is a versatile piece you can reach for when you want a put-together look that still feels comfortable. The goal is simple: a silhouette that reads polished, photographs well, and stays wearable for a full day or a long night."
+    },
+    {
+      "type": "p",
+      "text": "Fit and sizing Fit is where most outfits win or lose. This design aims for a balanced shape with a defined line through the torso, a clean waist, and a smooth finish through the hips and legs. If you prefer a more relaxed feel, size up; if you like a closer fit, stay true to size. Sizes may include: XS, S, M, L, XL."
+    },
+    {
+      "type": "img",
+      "src": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/29fb9ab9-13d9-44a9-bf84-2f43d23202f7.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "alt": "Womens Dress details image 1"
+    },
+    {
+      "type": "p",
+      "text": "Fabric and comfort Comfort is not just about softness. It is also about movement and how the fabric behaves as you walk, sit, and stand. A fabric blend with a bit of give helps it keep its shape while still feeling wearable."
+    },
+    {
+      "type": "img",
+      "src": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8d4a9e31-9477-45f0-a5e4-17561fd9746b.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "alt": "Womens Dress details image 2"
+    },
+    {
+      "type": "p",
+      "text": "Highlights A clean neckline and a refined silhouette for an elevated look. Designed to layer easily with jackets, wraps, or sweaters. Works well with both minimal accessories and statement pieces."
+    },
+    {
+      "type": "img",
+      "src": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0da0cabd-e1cb-42ae-bb18-d9350cc6347f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "alt": "Womens Dress details image 3"
+    },
+    {
+      "type": "p",
+      "text": "How to style Styling ideas: keep it minimal with neutral shoes and one standout accessory. For a relaxed daytime look, add a denim jacket or cardigan. For events, switch to a bolder shoe and a small clutch for a sharper finish."
+    },
+    {
+      "type": "img",
+      "src": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5195ce23-ba3b-4f95-9325-8ef1db4e0c3e.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "alt": "Womens Dress details image 4"
+    },
+    {
+      "type": "p",
+      "text": "Color notes Available colors may include: Red, Pink, Blue, Black, Green, Grey. If a shade is sold out, check back as availability can change."
+    },
+    {
+      "type": "img",
+      "src": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1a725370-d7b0-4818-b6e7-9462789fb42d.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+      "alt": "Womens Dress details image 5"
+    },
+    {
+      "type": "p",
+      "text": "Care Care guidance matters if you want it to keep its shape and finish. Follow the label first."
+    }
+  ],
+  "videos": [
+    {
+      "id": "adeb24c6-37ed-49f6-aa7d-375a3c57b869",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/adeb24c6-37ed-49f6-aa7d-375a3c57b869/default.vertical.jobtemplate.hls.m3u8",
+      "sources": [
+        {
+          "type": "application/x-mpegURL",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/adeb24c6-37ed-49f6-aa7d-375a3c57b869/default.vertical.jobtemplate.hls.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "1cd647e3-1058-4b42-8b34-6ee9fe8584e3",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1cd647e3-1058-4b42-8b34-6ee9fe8584e3/default.vertical.jobtemplate.hls.m3u8",
+      "sources": [
+        {
+          "type": "application/x-mpegURL",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1cd647e3-1058-4b42-8b34-6ee9fe8584e3/default.vertical.jobtemplate.hls.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "8c02d20a-5e7d-4106-8ea0-2e3da1e5b8cc",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8c02d20a-5e7d-4106-8ea0-2e3da1e5b8cc/default.vertical.jobtemplate.hls.m3u8",
+      "sources": [
+        {
+          "type": "application/x-mpegURL",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8c02d20a-5e7d-4106-8ea0-2e3da1e5b8cc/default.vertical.jobtemplate.hls.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "b69b7c4b-a58c-4a36-9f96-f05e3ac0da48",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b69b7c4b-a58c-4a36-9f96-f05e3ac0da48/default.vertical.jobtemplate.hls.m3u8",
+      "sources": [
+        {
+          "type": "application/x-mpegURL",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b69b7c4b-a58c-4a36-9f96-f05e3ac0da48/default.vertical.jobtemplate.hls.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "e09672cb-5151-4d44-9377-b8c77bfe5936",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e09672cb-5151-4d44-9377-b8c77bfe5936/default.vertical.jobtemplate.hls.m3u8",
+      "sources": [
+        {
+          "type": "application/x-mpegURL",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e09672cb-5151-4d44-9377-b8c77bfe5936/default.vertical.jobtemplate.hls.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "f3229155-c1b3-4130-a97a-ae5fe6497fd2",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f3229155-c1b3-4130-a97a-ae5fe6497fd2/default.vertical.jobtemplate.hls.m3u8",
+      "sources": [
+        {
+          "type": "application/x-mpegURL",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f3229155-c1b3-4130-a97a-ae5fe6497fd2/default.vertical.jobtemplate.hls.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "de8517ec-4835-4239-a292-c0d8f9de164f",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/de8517ec-4835-4239-a292-c0d8f9de164f/videopreview.jobtemplate.mp4.default.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/de8517ec-4835-4239-a292-c0d8f9de164f/videopreview.jobtemplate.mp4.default.mp4"
+        }
+      ]
+    },
+    {
+      "id": "24eaec6e-92f2-44ff-9feb-745216638564",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/24eaec6e-92f2-44ff-9feb-745216638564/videopreview.jobtemplate.mp4.default.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/24eaec6e-92f2-44ff-9feb-745216638564/videopreview.jobtemplate.mp4.default.mp4"
+        }
+      ]
+    },
+    {
+      "id": "f367dcc6-ae5c-466a-8527-706a46777d21",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f367dcc6-ae5c-466a-8527-706a46777d21/videopreview.jobtemplate.mp4.default.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f367dcc6-ae5c-466a-8527-706a46777d21/videopreview.jobtemplate.mp4.default.mp4"
+        }
+      ]
+    },
+    {
+      "id": "83673849-b6b0-4cae-8024-e6573f22f08f",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/83673849-b6b0-4cae-8024-e6573f22f08f/videopreview.jobtemplate.mp4.default.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/83673849-b6b0-4cae-8024-e6573f22f08f/videopreview.jobtemplate.mp4.default.mp4"
+        }
+      ]
+    },
+    {
+      "id": "3d1e99ba-8565-4d9f-82d8-d417b6d1f033",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3d1e99ba-8565-4d9f-82d8-d417b6d1f033/videopreview.jobtemplate.mp4.default.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3d1e99ba-8565-4d9f-82d8-d417b6d1f033/videopreview.jobtemplate.mp4.default.mp4"
+        }
+      ]
+    },
+    {
+      "id": "15c66606-cba3-4a9f-9364-b3e4b5074a31",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/15c66606-cba3-4a9f-9364-b3e4b5074a31/videopreview.jobtemplate.mp4.default.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/15c66606-cba3-4a9f-9364-b3e4b5074a31/videopreview.jobtemplate.mp4.default.mp4"
+        }
+      ]
+    }
+  ],
+  "color_swatches": {
+    "Red": "https://m.media-amazon.com/images/I/41vGkhLvnxL._AC_SR38,50_.jpg",
+    "Pink": "https://m.media-amazon.com/images/I/41BbSLDGkSL._AC_SR38,50_.jpg",
+    "Blue": "https://m.media-amazon.com/images/I/414CmX5ZsWL._AC_SR38,50_.jpg",
+    "Black": "https://m.media-amazon.com/images/I/41jT3X9l0sL._AC_SR38,50_.jpg",
+    "Green": "https://m.media-amazon.com/images/I/41d7K0pj1cL._AC_SR38,50_.jpg",
+    "Grey": "https://m.media-amazon.com/images/I/41D5pIQ9nSL._AC_SR38,50_.jpg"
+  },
+  "color_image_key": {
+    "Red": "71KgG5P9RuL",
+    "Pink": "71gREeIh-uL",
+    "Blue": "71dmCvbzPQL",
+    "Black": "719QhrIV7FL",
+    "Green": "71zPlOzuYPL",
+    "Grey": "71a1Og-tlrL"
+  },
+  "color_images": {
+    "Red": [
+      "https://m.media-amazon.com/images/I/71KgG5P9RuL._SL1500_.jpg"
+    ],
+    "Pink": [
+      "https://m.media-amazon.com/images/I/71gREeIh-uL._SL1500_.jpg"
+    ],
+    "Blue": [
+      "https://m.media-amazon.com/images/I/71dmCvbzPQL._SL1500_.jpg"
+    ],
+    "Black": [
+      "https://m.media-amazon.com/images/I/719QhrIV7FL._SL1500_.jpg"
+    ],
+    "Green": [
+      "https://m.media-amazon.com/images/I/71zPlOzuYPL._SL1500_.jpg"
+    ],
+    "Grey": [
+      "https://m.media-amazon.com/images/I/71a1Og-tlrL._SL1500_.jpg"
+    ]
+  },
+  "related": [
+    {
+      "id": "womens-maxi-dress-long-sleeve",
+      "title": "Womens Maxi Dress Long Sleeve",
+      "price": 32.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Pullovers",
+      "images": [
+        "https://m.media-amazon.com/images/I/716xMhc9PgL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-dress-v-neck",
+      "title": "Womens Dress V Neck",
+      "price": 46.98,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters",
+      "images": [
+        "https://m.media-amazon.com/images/I/81f-MxNqbuL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-long-sleeve",
+      "title": "Womens Maxi Dress Long Sleeve",
+      "price": 45.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Cardigans",
+      "images": [
+        "https://m.media-amazon.com/images/I/81sMy5kD0QL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-long-sleeve",
+      "title": "Womens Maxi Dress Long Sleeve",
+      "price": 24.88,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Cardigans",
+      "images": [
+        "https://m.media-amazon.com/images/I/71aRZcKvjHL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-long-sleeve",
+      "title": "Womens Maxi Dress Long Sleeve",
+      "price": 19.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Cardigans",
+      "images": [
+        "https://m.media-amazon.com/images/I/71grbPsT-1L._SL1500_.jpg"
+      ]
+    }
+  ],
+  "customer_also_viewed": [
+    {
+      "id": "womens-maxi-dress-long-sleeve",
+      "title": "Womens Maxi Dress Long Sleeve",
+      "price": 39.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Pullovers",
+      "images": [
+        "https://m.media-amazon.com/images/I/71ryriMKzKL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-long-sleeve",
+      "title": "Womens Maxi Dress Long Sleeve",
+      "price": 32.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Pullovers",
+      "images": [
+        "https://m.media-amazon.com/images/I/716xMhc9PgL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress",
+      "title": "Womens Maxi Dress",
+      "price": 43.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Cardigans",
+      "images": [
+        "https://m.media-amazon.com/images/I/71SBhcVUplL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-long-sleeve",
+      "title": "Womens Maxi Dress Long Sleeve",
+      "price": 29.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Pullovers",
+      "images": [
+        "https://m.media-amazon.com/images/I/61lBWtK8QoL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-long-sleeve",
+      "title": "Womens Maxi Dress Long Sleeve",
+      "price": 64.95,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Pullovers",
+      "images": [
+        "https://m.media-amazon.com/images/I/61TfYTxAU8L._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-long-sleeve",
+      "title": "Womens Maxi Dress Long Sleeve",
+      "price": 99.0,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Pullovers",
+      "images": [
+        "https://m.media-amazon.com/images/I/71JqvE1g3rL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-long-sleeve",
+      "title": "Womens Maxi Dress Long Sleeve",
+      "price": 45.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Cardigans",
+      "images": [
+        "https://m.media-amazon.com/images/I/81sMy5kD0QL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-long-sleeve",
+      "title": "Womens Maxi Dress Long Sleeve",
+      "price": 48.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Pullovers",
+      "images": [
+        "https://m.media-amazon.com/images/I/61IlS+ROtkL._SL1500_.jpg"
+      ]
+    }
+  ],
+  "slug": "womens-dress-b0bmg1bpfb"
+}

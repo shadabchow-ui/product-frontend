@@ -1,0 +1,569 @@
+{
+  "id": "womens-maxi-dress-long-sleeve-maxi",
+  "handle": "womens-maxi-dress-long-sleeve-maxi",
+  "sku": "JC3077",
+  "asin": "B0FQN5F9BJ",
+  "title": "Womens Maxi Dress Long Sleeve Maxi",
+  "title_original": "Womens Fall Maxi Dress Casual Dress A-Line Tiered Flowy Long Sleeve Dresses with Pockets for Spring Winter",
+  "brand": "ZIATUBLES",
+  "price": 42.99,
+  "social_proof": {
+    "bought_past_month": 409,
+    "text": "409+ bought in the past month"
+  },
+  "images": [
+    "https://m.media-amazon.com/images/I/61-aWRLr+IL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61LB9v1eLHL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71KzzXubDqL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71OP841kAKL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61ymynZHQhL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71c-oW0OBEL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61x2dbWaEEL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/619Vm03HVXL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61YEZN5MxSL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61l848C9lbL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/6133QNBo3ZL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61Mu4aqTneL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61GPaN73brL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61a1lob6hwL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61WhVtKUDDL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61bz-nc8o6L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61HZXYD8z+L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61ENwA9GvWL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61yXmMzkm7L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61p7JumnrxL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61jaBgvXoVL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61mtnCMUD8L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61cD16bIefL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61VrwgXxQmL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61oPkQkNH8L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61a+5nk1JfL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61ae7ACelQL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/610Ysm82kxL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/617w3AJiuyL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/613UgvDiCYL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61TG1h6uAmL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61Epz4n-JPL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61ifPi+5zcL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61xbIzniBhL._SL1500_.jpg"
+  ],
+  "gallery_images": [
+    "https://m.media-amazon.com/images/I/61-aWRLr+IL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61LB9v1eLHL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71KzzXubDqL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71OP841kAKL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61ymynZHQhL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71c-oW0OBEL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61x2dbWaEEL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/619Vm03HVXL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61YEZN5MxSL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61l848C9lbL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/6133QNBo3ZL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61Mu4aqTneL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61GPaN73brL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61a1lob6hwL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61WhVtKUDDL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61bz-nc8o6L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61HZXYD8z+L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61ENwA9GvWL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61yXmMzkm7L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61p7JumnrxL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61jaBgvXoVL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61mtnCMUD8L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61cD16bIefL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61VrwgXxQmL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61oPkQkNH8L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61a+5nk1JfL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61ae7ACelQL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/610Ysm82kxL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/617w3AJiuyL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/613UgvDiCYL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61TG1h6uAmL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61Epz4n-JPL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61ifPi+5zcL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61xbIzniBhL._SL1500_.jpg"
+  ],
+  "aplus_images": [],
+  "description_images": [],
+  "bullets": [],
+  "specs": {
+    "Department ‏": "‎ womens",
+    "Date First Available ‏": "‎ September 11, 2025",
+    "ASIN ‏": "‎ B0FQMPDJ1S",
+    "Best Sellers Rank": "#803,033 in Clothing, Shoes & Jewelry ( See Top 100 in Clothing, Shoes & Jewelry ) #9,837 in Women's Casual Dresses"
+  },
+  "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Casual",
+  "variations": {
+    "sizes": [
+      "5",
+      "5.5",
+      "6",
+      "6.5",
+      "7",
+      "7.5",
+      "8",
+      "8.5",
+      "9",
+      "9.5",
+      "10",
+      "11"
+    ],
+    "colors": [
+      "Retro Mushroom Starry",
+      "Cute Hippie Flower",
+      "Daisy Flower Starry",
+      "Western Cowboy",
+      "Sunflower Butterfly Leopard",
+      "Tiger",
+      "Forest Maple Leaf",
+      "Red Gold Snowflake Christmas Tree",
+      "Autumn Leaf Flower",
+      "Blue Pinetree Snowflake",
+      "Cactus Plant Horse",
+      "Blue Snowflake Red Bow",
+      "Christmas Tree Gingerbread Man",
+      "Blue Flower Dog",
+      "Colorful Flower",
+      "Aztec Tribal Brown Geometric",
+      "Pink Axolotl Cherry Flower",
+      "Turtle Frangipani Flower",
+      "Aztec Tribal Geometric",
+      "Black Cow",
+      "Retro Mushroom Leaf",
+      "Purple Butterfly",
+      "Pink Leopard",
+      "Hohoho Red Christmas Reindeer",
+      "Lavender Butterfly",
+      "Retro Floral Ladybug",
+      "Retro Flower",
+      "Rooster",
+      "Vintage Christmas Tree Snowman"
+    ],
+    "size_chart": {
+      "label": "Size chart",
+      "href": "javascript:void(0)",
+      "html": null
+    }
+  },
+  "reviews": {
+    "average_rating": 4.4,
+    "count": 0,
+    "customers_say": null,
+    "items": []
+  },
+  "short_description": "Womens Maxi Dress Long Sleeve Maxi is made for a polished look that still feels comfortable to wear. It is designed to sit cleanly on the body with a flattering shape that works for day plans and dressier moments without feeling overdone.\n\nThe fit focuses on balance rather than extremes, so you can move naturally while still getting a defined silhouette. Choose your usual size for a closer look, or size up if you prefer a little more ease through the waist and hips.\n\nStyling is simple: keep accessories minimal for a clean finish, or add a jacket and statement shoes when you want a sharper outfit. This piece photographs well thanks to smooth lines and a structured feel that stays put once you have it adjusted.\n\nWith the right fit and simple styling, this item becomes an easy go-to when you want something that looks intentional without requiring extra effort.\n\nIf you are between sizes, choose based on how close you like the fit through the waist and hips, then adjust with your usual layering choices.\n\nIf you are between sizes, choose based on how close you like the fit through the waist and hips, then adjust with your usual layering choices.",
+  "about_this_item": "Womens Maxi Dress Long Sleeve Maxi is made for a polished look that still feels comfortable to wear. It is designed to sit cleanly on the body with a flattering shape that works for day plans and dressier moments without feeling overdone.\n\nThe fit focuses on balance rather than extremes, so you can move naturally while still getting a defined silhouette. Choose your usual size for a closer look, or size up if you prefer a little more ease through the waist and hips.\n\nStyling is simple: keep accessories minimal for a clean finish, or add a jacket and statement shoes when you want a sharper outfit. This piece photographs well thanks to smooth lines and a structured feel that stays put once you have it adjusted.\n\nWith the right fit and simple styling, this item becomes an easy go-to when you want something that looks intentional without requiring extra effort.\n\nIf you are between sizes, choose based on how close you like the fit through the waist and hips, then adjust with your usual layering choices.\n\nIf you are between sizes, choose based on how close you like the fit through the waist and hips, then adjust with your usual layering choices.",
+  "long_description": "Womens Maxi Dress Long Sleeve Maxi is a versatile piece you can reach for when you want a put-together look that still feels comfortable. The goal is simple: a silhouette that reads polished, photographs well, and stays wearable for a full day or a long night.\n\nFit and sizing Fit is where most outfits win or lose. This design aims for a balanced shape with a defined line through the torso, a clean waist, and a smooth finish through the hips and legs. If you prefer a more relaxed feel, size up; if you like a closer fit, stay true to size. Sizes may include: 5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 11.\n\nFabric and comfort Comfort is not just about softness. It is also about movement and how the fabric behaves as you walk, sit, and stand. A fabric blend with a bit of give helps it keep its shape while still feeling wearable.\n\nHighlights A clean neckline and a refined silhouette for an elevated look. Designed to layer easily with jackets, wraps, or sweaters. Works well with both minimal accessories and statement pieces.\n\nHow to style Styling ideas: keep it minimal with neutral shoes and one standout accessory. For a relaxed daytime look, add a denim jacket or cardigan. For events, switch to a bolder shoe and a small clutch for a sharper finish.\n\nColor notes Available colors may include: Retro Mushroom Starry, Cute Hippie Flower, Daisy Flower Starry, Western Cowboy, Sunflower Butterfly Leopard, Tiger, Forest Maple Leaf, Red Gold Snowflake Christmas Tree, Autumn Leaf Flower, Blue Pinetree Snowflake, Cactus Plant Horse, Blue Snowflake Red Bow, Christmas Tree Gingerbread Man, Blue Flower Dog. If a shade is sold out, check back as availability can change.\n\nCare Care guidance matters if you want it to keep its shape and finish. Follow the label first.",
+  "long_description_blocks": [
+    {
+      "type": "p",
+      "text": "Womens Maxi Dress Long Sleeve Maxi is a versatile piece you can reach for when you want a put-together look that still feels comfortable. The goal is simple: a silhouette that reads polished, photographs well, and stays wearable for a full day or a long night."
+    },
+    {
+      "type": "p",
+      "text": "Fit and sizing Fit is where most outfits win or lose. This design aims for a balanced shape with a defined line through the torso, a clean waist, and a smooth finish through the hips and legs. If you prefer a more relaxed feel, size up; if you like a closer fit, stay true to size. Sizes may include: 5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 11."
+    },
+    {
+      "type": "p",
+      "text": "Fabric and comfort Comfort is not just about softness. It is also about movement and how the fabric behaves as you walk, sit, and stand. A fabric blend with a bit of give helps it keep its shape while still feeling wearable."
+    },
+    {
+      "type": "p",
+      "text": "Highlights A clean neckline and a refined silhouette for an elevated look. Designed to layer easily with jackets, wraps, or sweaters. Works well with both minimal accessories and statement pieces."
+    },
+    {
+      "type": "p",
+      "text": "How to style Styling ideas: keep it minimal with neutral shoes and one standout accessory. For a relaxed daytime look, add a denim jacket or cardigan. For events, switch to a bolder shoe and a small clutch for a sharper finish."
+    },
+    {
+      "type": "p",
+      "text": "Color notes Available colors may include: Retro Mushroom Starry, Cute Hippie Flower, Daisy Flower Starry, Western Cowboy, Sunflower Butterfly Leopard, Tiger, Forest Maple Leaf, Red Gold Snowflake Christmas Tree, Autumn Leaf Flower, Blue Pinetree Snowflake, Cactus Plant Horse, Blue Snowflake Red Bow, Christmas Tree Gingerbread Man, Blue Flower Dog. If a shade is sold out, check back as availability can change."
+    },
+    {
+      "type": "p",
+      "text": "Care Care guidance matters if you want it to keep its shape and finish. Follow the label first."
+    }
+  ],
+  "videos": [
+    {
+      "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/12100d05-cd0f-4937-8096-30a4a1cbb7bc.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG&quot;,&quot;videoSrc&quot;:&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/12100d05-cd0f-4937-8096-30a4a1cbb7bc.mp4/productVideoOptimized.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/12100d05-cd0f-4937-8096-30a4a1cbb7bc.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG&quot;,&quot;videoSrc&quot;:&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/12100d05-cd0f-4937-8096-30a4a1cbb7bc.mp4/productVideoOptimized.mp4"
+        }
+      ]
+    },
+    {
+      "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/12100d05-cd0f-4937-8096-30a4a1cbb7bc.mp4/productVideoOptimized.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/12100d05-cd0f-4937-8096-30a4a1cbb7bc.mp4/productVideoOptimized.mp4"
+        }
+      ]
+    },
+    {
+      "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/12100d05-cd0f-4937-8096-30a4a1cbb7bc.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/12100d05-cd0f-4937-8096-30a4a1cbb7bc.mp4"
+        }
+      ]
+    },
+    {
+      "src": "https://d1f0esyb34c1g2.cloudfront.net/transcode/AssetLibrary/AssetLibrary/amzn1.assetlibrary.asset1.52b5f0282e75e5ad8dc95d8689e64ef5:version_v1/09fc0f21-c1b7-4338-90f3-233d276d6aa9/1666345128529_THUMBNAIL-360P-FRAME-3-CAPTURE-2.0000001.jpg&quot;,&quot;videoSrc&quot;:&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/91233fef-b6ec-4f1e-b658-eb01731114d3.mp4/productVideoOptimized.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://d1f0esyb34c1g2.cloudfront.net/transcode/AssetLibrary/AssetLibrary/amzn1.assetlibrary.asset1.52b5f0282e75e5ad8dc95d8689e64ef5:version_v1/09fc0f21-c1b7-4338-90f3-233d276d6aa9/1666345128529_THUMBNAIL-360P-FRAME-3-CAPTURE-2.0000001.jpg&quot;,&quot;videoSrc&quot;:&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/91233fef-b6ec-4f1e-b658-eb01731114d3.mp4/productVideoOptimized.mp4"
+        }
+      ]
+    },
+    {
+      "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/91233fef-b6ec-4f1e-b658-eb01731114d3.mp4/productVideoOptimized.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/91233fef-b6ec-4f1e-b658-eb01731114d3.mp4/productVideoOptimized.mp4"
+        }
+      ]
+    },
+    {
+      "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/824c501e-4f94-4302-b0db-b952e33e1f49.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG&quot;,&quot;videoSrc&quot;:&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/824c501e-4f94-4302-b0db-b952e33e1f49.mp4/productVideoOptimized.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/824c501e-4f94-4302-b0db-b952e33e1f49.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG&quot;,&quot;videoSrc&quot;:&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/824c501e-4f94-4302-b0db-b952e33e1f49.mp4/productVideoOptimized.mp4"
+        }
+      ]
+    },
+    {
+      "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/824c501e-4f94-4302-b0db-b952e33e1f49.mp4/productVideoOptimized.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/824c501e-4f94-4302-b0db-b952e33e1f49.mp4/productVideoOptimized.mp4"
+        }
+      ]
+    },
+    {
+      "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/824c501e-4f94-4302-b0db-b952e33e1f49.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/824c501e-4f94-4302-b0db-b952e33e1f49.mp4"
+        }
+      ]
+    },
+    {
+      "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/02ceae00-1663-4282-82d4-4430945657bd.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG&quot;,&quot;videoSrc&quot;:&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/02ceae00-1663-4282-82d4-4430945657bd.mp4/productVideoOptimized.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/02ceae00-1663-4282-82d4-4430945657bd.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG&quot;,&quot;videoSrc&quot;:&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/02ceae00-1663-4282-82d4-4430945657bd.mp4/productVideoOptimized.mp4"
+        }
+      ]
+    },
+    {
+      "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/02ceae00-1663-4282-82d4-4430945657bd.mp4/productVideoOptimized.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/02ceae00-1663-4282-82d4-4430945657bd.mp4/productVideoOptimized.mp4"
+        }
+      ]
+    },
+    {
+      "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/02ceae00-1663-4282-82d4-4430945657bd.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/02ceae00-1663-4282-82d4-4430945657bd.mp4"
+        }
+      ]
+    },
+    {
+      "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/2c49db9d-db87-41ce-a161-e6578df1bd50.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG&quot;,&quot;videoSrc&quot;:&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/2c49db9d-db87-41ce-a161-e6578df1bd50.mp4/productVideoOptimized.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/2c49db9d-db87-41ce-a161-e6578df1bd50.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG&quot;,&quot;videoSrc&quot;:&quot;https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/2c49db9d-db87-41ce-a161-e6578df1bd50.mp4/productVideoOptimized.mp4"
+        }
+      ]
+    }
+  ],
+  "color_swatches": {
+    "Retro Mushroom Starry": "https://m.media-amazon.com/images/I/41tjtTVX7cL._AC_SR38,50_.jpg",
+    "Cute Hippie Flower": "https://m.media-amazon.com/images/I/31fbgVrl0rL._AC_SR38,50_.jpg",
+    "Daisy Flower Starry": "https://m.media-amazon.com/images/I/31a1W5X8jzL._AC_SR38,50_.jpg",
+    "Western Cowboy": "https://m.media-amazon.com/images/I/41BE20Zo6ML._AC_SR38,50_.jpg",
+    "Sunflower Butterfly Leopard": "https://m.media-amazon.com/images/I/41tG+xjH-zL._AC_SR38,50_.jpg",
+    "Tiger": "https://m.media-amazon.com/images/I/41AzQsQN2lL._AC_SR38,50_.jpg",
+    "Forest Maple Leaf": "https://m.media-amazon.com/images/I/31a4yupPZlL._AC_SR38,50_.jpg",
+    "Red Gold Snowflake Christmas Tree": "https://m.media-amazon.com/images/I/31vkl8ahYiL._AC_SR38,50_.jpg",
+    "Autumn Leaf Flower": "https://m.media-amazon.com/images/I/31JrQ1ZiysL._AC_SR38,50_.jpg",
+    "Blue Pinetree Snowflake": "https://m.media-amazon.com/images/I/31LUNvUCCBL._AC_SR38,50_.jpg",
+    "Cactus Plant Horse": "https://m.media-amazon.com/images/I/318WOaKzPYL._AC_SR38,50_.jpg",
+    "Blue Snowflake Red Bow": "https://m.media-amazon.com/images/I/316c+TnvG3L._AC_SR38,50_.jpg",
+    "Christmas Tree Gingerbread Man": "https://m.media-amazon.com/images/I/41H8Ml+s3+L._AC_SR38,50_.jpg",
+    "Blue Flower Dog": "https://m.media-amazon.com/images/I/41hc-Dy7eAL._AC_SR38,50_.jpg",
+    "Colorful Flower": "https://m.media-amazon.com/images/I/419wQ2J3XfL._AC_SR38,50_.jpg",
+    "Aztec Tribal Brown Geometric": "https://m.media-amazon.com/images/I/41496JYrimL._AC_SR38,50_.jpg",
+    "Pink Axolotl Cherry Flower": "https://m.media-amazon.com/images/I/31kprak3PpL._AC_SR38,50_.jpg",
+    "Turtle Frangipani Flower": "https://m.media-amazon.com/images/I/41TargjmgPL._AC_SR38,50_.jpg",
+    "Aztec Tribal Geometric": "https://m.media-amazon.com/images/I/41J9l+sxr5L._AC_SR38,50_.jpg",
+    "Black Cow": "https://m.media-amazon.com/images/I/31+bHijXegL._AC_SR38,50_.jpg",
+    "Retro Mushroom Leaf": "https://m.media-amazon.com/images/I/41rO8-PNqxL._AC_SR38,50_.jpg",
+    "Purple Butterfly": "https://m.media-amazon.com/images/I/31q6jR0ilcL._AC_SR38,50_.jpg",
+    "Pink Leopard": "https://m.media-amazon.com/images/I/41GTOroMdUL._AC_SR38,50_.jpg",
+    "Hohoho Red Christmas Reindeer": "https://m.media-amazon.com/images/I/41b1+M4k9xL._AC_SR38,50_.jpg",
+    "Lavender Butterfly": "https://m.media-amazon.com/images/I/31okv1Hxl+L._AC_SR38,50_.jpg",
+    "Retro Floral Ladybug": "https://m.media-amazon.com/images/I/41-Jl0Nx4rL._AC_SR38,50_.jpg",
+    "Retro Flower": "https://m.media-amazon.com/images/I/41tQf-v9KYL._AC_SR38,50_.jpg",
+    "Rooster": "https://m.media-amazon.com/images/I/412sIwehfbL._AC_SR38,50_.jpg",
+    "Vintage Christmas Tree Snowman": "https://m.media-amazon.com/images/I/41PGQ-OUKdL._AC_SR38,50_.jpg"
+  },
+  "color_image_key": {
+    "Retro Mushroom Starry": "61x2dbWaEEL",
+    "Cute Hippie Flower": "619Vm03HVXL",
+    "Daisy Flower Starry": "61YEZN5MxSL",
+    "Western Cowboy": "61l848C9lbL",
+    "Sunflower Butterfly Leopard": "6133QNBo3ZL",
+    "Tiger": "61Mu4aqTneL",
+    "Forest Maple Leaf": "61-aWRLr+IL",
+    "Red Gold Snowflake Christmas Tree": "61GPaN73brL",
+    "Autumn Leaf Flower": "61a1lob6hwL",
+    "Blue Pinetree Snowflake": "61WhVtKUDDL",
+    "Cactus Plant Horse": "61bz-nc8o6L",
+    "Blue Snowflake Red Bow": "61HZXYD8z+L",
+    "Christmas Tree Gingerbread Man": "61ENwA9GvWL",
+    "Blue Flower Dog": "61yXmMzkm7L",
+    "Colorful Flower": "61p7JumnrxL",
+    "Aztec Tribal Brown Geometric": "61jaBgvXoVL",
+    "Pink Axolotl Cherry Flower": "61mtnCMUD8L",
+    "Turtle Frangipani Flower": "61cD16bIefL",
+    "Aztec Tribal Geometric": "61VrwgXxQmL",
+    "Black Cow": "61oPkQkNH8L",
+    "Retro Mushroom Leaf": "61a+5nk1JfL",
+    "Purple Butterfly": "61ae7ACelQL",
+    "Pink Leopard": "610Ysm82kxL",
+    "Hohoho Red Christmas Reindeer": "617w3AJiuyL",
+    "Lavender Butterfly": "613UgvDiCYL",
+    "Retro Floral Ladybug": "61TG1h6uAmL",
+    "Retro Flower": "61Epz4n-JPL",
+    "Rooster": "61ifPi+5zcL",
+    "Vintage Christmas Tree Snowman": "61xbIzniBhL"
+  },
+  "color_images": {
+    "Retro Mushroom Starry": [
+      "https://m.media-amazon.com/images/I/61x2dbWaEEL._SL1500_.jpg"
+    ],
+    "Cute Hippie Flower": [
+      "https://m.media-amazon.com/images/I/619Vm03HVXL._SL1500_.jpg"
+    ],
+    "Daisy Flower Starry": [
+      "https://m.media-amazon.com/images/I/61YEZN5MxSL._SL1500_.jpg"
+    ],
+    "Western Cowboy": [
+      "https://m.media-amazon.com/images/I/61l848C9lbL._SL1500_.jpg"
+    ],
+    "Sunflower Butterfly Leopard": [
+      "https://m.media-amazon.com/images/I/6133QNBo3ZL._SL1500_.jpg"
+    ],
+    "Tiger": [
+      "https://m.media-amazon.com/images/I/61Mu4aqTneL._SL1500_.jpg"
+    ],
+    "Forest Maple Leaf": [
+      "https://m.media-amazon.com/images/I/61-aWRLr+IL._SL1500_.jpg"
+    ],
+    "Red Gold Snowflake Christmas Tree": [
+      "https://m.media-amazon.com/images/I/61GPaN73brL._SL1500_.jpg"
+    ],
+    "Autumn Leaf Flower": [
+      "https://m.media-amazon.com/images/I/61a1lob6hwL._SL1500_.jpg"
+    ],
+    "Blue Pinetree Snowflake": [
+      "https://m.media-amazon.com/images/I/61WhVtKUDDL._SL1500_.jpg"
+    ],
+    "Cactus Plant Horse": [
+      "https://m.media-amazon.com/images/I/61bz-nc8o6L._SL1500_.jpg"
+    ],
+    "Blue Snowflake Red Bow": [
+      "https://m.media-amazon.com/images/I/61HZXYD8z+L._SL1500_.jpg"
+    ],
+    "Christmas Tree Gingerbread Man": [
+      "https://m.media-amazon.com/images/I/61ENwA9GvWL._SL1500_.jpg"
+    ],
+    "Blue Flower Dog": [
+      "https://m.media-amazon.com/images/I/61yXmMzkm7L._SL1500_.jpg"
+    ],
+    "Colorful Flower": [
+      "https://m.media-amazon.com/images/I/61p7JumnrxL._SL1500_.jpg"
+    ],
+    "Aztec Tribal Brown Geometric": [
+      "https://m.media-amazon.com/images/I/61jaBgvXoVL._SL1500_.jpg"
+    ],
+    "Pink Axolotl Cherry Flower": [
+      "https://m.media-amazon.com/images/I/61mtnCMUD8L._SL1500_.jpg"
+    ],
+    "Turtle Frangipani Flower": [
+      "https://m.media-amazon.com/images/I/61cD16bIefL._SL1500_.jpg"
+    ],
+    "Aztec Tribal Geometric": [
+      "https://m.media-amazon.com/images/I/61VrwgXxQmL._SL1500_.jpg"
+    ],
+    "Black Cow": [
+      "https://m.media-amazon.com/images/I/61oPkQkNH8L._SL1500_.jpg"
+    ],
+    "Retro Mushroom Leaf": [
+      "https://m.media-amazon.com/images/I/61a+5nk1JfL._SL1500_.jpg"
+    ],
+    "Purple Butterfly": [
+      "https://m.media-amazon.com/images/I/61ae7ACelQL._SL1500_.jpg"
+    ],
+    "Pink Leopard": [
+      "https://m.media-amazon.com/images/I/610Ysm82kxL._SL1500_.jpg"
+    ],
+    "Hohoho Red Christmas Reindeer": [
+      "https://m.media-amazon.com/images/I/617w3AJiuyL._SL1500_.jpg"
+    ],
+    "Lavender Butterfly": [
+      "https://m.media-amazon.com/images/I/613UgvDiCYL._SL1500_.jpg"
+    ],
+    "Retro Floral Ladybug": [
+      "https://m.media-amazon.com/images/I/61TG1h6uAmL._SL1500_.jpg"
+    ],
+    "Retro Flower": [
+      "https://m.media-amazon.com/images/I/61Epz4n-JPL._SL1500_.jpg"
+    ],
+    "Rooster": [
+      "https://m.media-amazon.com/images/I/61ifPi+5zcL._SL1500_.jpg"
+    ],
+    "Vintage Christmas Tree Snowman": [
+      "https://m.media-amazon.com/images/I/61xbIzniBhL._SL1500_.jpg"
+    ]
+  },
+  "related": [
+    {
+      "id": "womens-dress",
+      "title": "Womens Dress",
+      "price": 210.0,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Casual",
+      "images": [
+        "https://m.media-amazon.com/images/I/71gHGMr--UL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-dress",
+      "title": "Womens Dress",
+      "price": 36.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Club & Night Out",
+      "images": [
+        "https://m.media-amazon.com/images/I/61gUSDNnB3L._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-dress-short-sleeve",
+      "title": "Womens Dress Short Sleeve",
+      "price": 75.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Formal",
+      "images": [
+        "https://m.media-amazon.com/images/I/61XTYDFxLML._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-long-sleeve-formal-bodycon",
+      "title": "Womens Maxi Dress Long Sleeve Formal Bodycon",
+      "price": 36.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Club & Night Out",
+      "images": [
+        "https://m.media-amazon.com/images/I/61GBgs5yftL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-long-sleeve",
+      "title": "Womens Maxi Dress Long Sleeve",
+      "price": 35.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses",
+      "images": [
+        "https://m.media-amazon.com/images/I/61ueGd5J5HL._SL1500_.jpg"
+      ]
+    }
+  ],
+  "customer_also_viewed": [
+    {
+      "id": "womens-maxi-dress-boat-neck-bodycon-long-sleeve",
+      "title": "Womens Maxi Dress Boat Neck Bodycon Long Sleeve",
+      "price": 36.89,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Club & Night Out",
+      "images": [
+        "https://m.media-amazon.com/images/I/61g-xMLK3CL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-dress-short-sleeve",
+      "title": "Womens Dress Short Sleeve",
+      "price": 139.0,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Casual",
+      "images": [
+        "https://m.media-amazon.com/images/I/61DGsPsr6EL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-dress-formal-evening",
+      "title": "Womens Dress Formal Evening",
+      "price": 85.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Formal",
+      "images": [
+        "https://m.media-amazon.com/images/I/51DBpbbgqCL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-boat-neck",
+      "title": "Womens Maxi Dress Boat Neck",
+      "price": 34.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Casual",
+      "images": [
+        "https://m.media-amazon.com/images/I/61X0az+gtqL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-long-sleeve",
+      "title": "Womens Maxi Dress Long Sleeve",
+      "price": 41.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Casual",
+      "images": [
+        "https://m.media-amazon.com/images/I/61jHeV88bYL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-bodycon-long-sleeve",
+      "title": "Womens Maxi Dress Bodycon Long Sleeve",
+      "price": 27.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Club & Night Out",
+      "images": [
+        "https://m.media-amazon.com/images/I/419lpifTakL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-long-sleeve-v-neck-split",
+      "title": "Womens Maxi Dress Long Sleeve V Neck Split",
+      "price": 9.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Casual",
+      "images": [
+        "https://m.media-amazon.com/images/I/61rDQSA6d3L._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-dress-short-sleeve",
+      "title": "Womens Dress Short Sleeve",
+      "price": 36.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Casual",
+      "images": [
+        "https://m.media-amazon.com/images/I/71mJpfJK2VL._SL1500_.jpg"
+      ]
+    }
+  ]
+}

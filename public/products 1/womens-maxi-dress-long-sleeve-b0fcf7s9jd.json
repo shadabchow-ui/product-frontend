@@ -1,0 +1,567 @@
+{
+  "id": "womens-maxi-dress-long-sleeve",
+  "handle": "womens-maxi-dress-long-sleeve-b0fcf7s9jd",
+  "sku": "JC1013",
+  "asin": "B0FCF7S9JD",
+  "title": "Womens Maxi Dress Long Sleeve",
+  "title_original": "QINSEN Womens Asymmetrical Neck Sweater Slim Fit Long Sleeve Knit Pullover Top",
+  "brand": "QINSEN",
+  "price": 33.99,
+  "social_proof": {
+    "bought_past_month": 717,
+    "text": "717+ bought in the past month"
+  },
+  "images": [
+    "https://m.media-amazon.com/images/I/51qNxlC1utL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61lTt-o2coL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61YTvWW1OWL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61VZqQbsiGL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/51stBYwzYZL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/518x747O9HL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/51QylgMyeDL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/51IchFqbNGL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/51T9Y3CSHtL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/51S32FphKzL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61zRCqh1ZPL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61dZbZFsYDL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61RvFqG2ijL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/51PFUU25ndL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/51ntOzsPIFL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61iVZ0SqVSL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61XYZtWJpmL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61uJ77vFpgL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/51ZcThrG4AL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/51ZPB4bl0RL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61GvwM36ufL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61vY1Hko9PL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61q+s1G0fML._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/51SdZ5ve19L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/518K9ZxFxZL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61lQPPhmUmL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61ShH9b4l1L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61tyl355iSL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/51UDHG1PXML._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/51bZX+uSazL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61y1LssvXlL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/51gEF4-lr2L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/514D47+CAEL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/519QFO00cmL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/51WuJZnFpZL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61TAOX1ZCnL._SL1500_.jpg"
+  ],
+  "gallery_images": [
+    "https://m.media-amazon.com/images/I/51qNxlC1utL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61lTt-o2coL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61YTvWW1OWL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61VZqQbsiGL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/51stBYwzYZL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/518x747O9HL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/51QylgMyeDL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/51IchFqbNGL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/51T9Y3CSHtL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/51S32FphKzL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61zRCqh1ZPL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61dZbZFsYDL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61RvFqG2ijL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/51PFUU25ndL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/51ntOzsPIFL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61iVZ0SqVSL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61XYZtWJpmL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61uJ77vFpgL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/51ZcThrG4AL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/51ZPB4bl0RL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61GvwM36ufL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61vY1Hko9PL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61q+s1G0fML._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/51SdZ5ve19L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/518K9ZxFxZL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61lQPPhmUmL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61ShH9b4l1L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61tyl355iSL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/51UDHG1PXML._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/51bZX+uSazL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61y1LssvXlL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/51gEF4-lr2L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/514D47+CAEL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/519QFO00cmL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/51WuJZnFpZL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61TAOX1ZCnL._SL1500_.jpg"
+  ],
+  "aplus_images": [
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9c155ec2-cb06-408b-bde4-fa4f93fa7fdd.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/faff4520-2064-468e-8495-4a5a46e28d35.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7bb53345-62bc-4863-97b3-9a8d53bda754.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ee18adbd-4444-4b5f-b292-ca5abc25e626.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bc8ea05e-aea9-4e59-9987-19b82071fd08.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f89b67ef-793b-40ae-9568-f9438aad8581.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c702e212-ed5a-46a8-9a74-c578916be878.__CR0,0,1464,600_PT0_SX1464_V1___.png"
+  ],
+  "description_images": [
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9c155ec2-cb06-408b-bde4-fa4f93fa7fdd.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/faff4520-2064-468e-8495-4a5a46e28d35.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7bb53345-62bc-4863-97b3-9a8d53bda754.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ee18adbd-4444-4b5f-b292-ca5abc25e626.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bc8ea05e-aea9-4e59-9987-19b82071fd08.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f89b67ef-793b-40ae-9568-f9438aad8581.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c702e212-ed5a-46a8-9a74-c578916be878.__CR0,0,1464,600_PT0_SX1464_V1___.png"
+  ],
+  "bullets": [],
+  "specs": {
+    "Department ‏": "‎ womens",
+    "Date First Available ‏": "‎ June 9, 2025",
+    "ASIN ‏": "‎ B0FCF7DJGJ",
+    "Best Sellers Rank": "#50,611 in Clothing, Shoes & Jewelry ( See Top 100 in Clothing, Shoes & Jewelry ) #662 in Women's Pullover Sweaters",
+    "Customer Reviews": "4.2 4.2 out of 5 stars (31)"
+  },
+  "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Pullovers",
+  "category_path": [
+    "Clothing, Shoes & Jewelry",
+    "Women",
+    "Clothing",
+    "Sweaters",
+    "Pullovers"
+  ],
+  "category_slug": "clothing-shoes-jewelry/women/clothing/sweaters/pullovers",
+  "category_leaf": "Pullovers",
+  "variations": {
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Red",
+      "Brown",
+      "Khaki",
+      "Beige",
+      "Black",
+      "Navy Blue"
+    ],
+    "size_chart": {
+      "label": "Size chart",
+      "href": "javascript:void(0)",
+      "html": "<table class=\"a-bordered a-size-base\" id=\"fit-sizechartv2-0-table-0\"><tr><th>Brand Size</th><th>Bust (in)</th><th>Waist (in)</th><th>Sleeve Length (in)</th></tr><tr><th>XS</th><td class=\"a-nowrap\">26.8</td><td class=\"a-nowrap\">26.8</td><td class=\"a-nowrap\">22</td></tr><tr><th>S</th><td class=\"a-nowrap\">28.4</td><td class=\"a-nowrap\">28.4</td><td class=\"a-nowrap\">22.4</td></tr><tr><th>M</th><td class=\"a-nowrap\">29.9</td><td class=\"a-nowrap\">29.9</td><td class=\"a-nowrap\">22.8</td></tr><tr><th>L</th><td class=\"a-nowrap\">32.3</td><td class=\"a-nowrap\">32.3</td><td class=\"a-nowrap\">23.2</td></tr><tr><th>XL</th><td class=\"a-nowrap\">34.6</td><td class=\"a-nowrap\">34.6</td><td class=\"a-nowrap\">23.6</td></tr></table>"
+    }
+  },
+  "reviews": {
+    "average_rating": 4.2,
+    "count": 31,
+    "customers_say": "Customers find the sweater chic and perfect for fall and winter, with a thick material that keeps them warm.",
+    "items": [
+      {
+        "title": "5.0 out of 5 stars Flattering & Comfortable",
+        "body": "The material is soft and stretchy without being thin, and the asymmetrical neckline gives it a stylish look. Fits true to size and easy to dress up or down. Read more",
+        "author": "Stephanie",
+        "rating": 5.0,
+        "date": "October 2, 2025",
+        "verified": false,
+        "images": []
+      },
+      {
+        "title": "5.0 out of 5 stars 10/10 Sweater for Fall",
+        "body": "**This review is based on a gifted item from Qinsen.** I am really impressed with this sweater. I did get my normal size to get that fitted look. I am 5’7’’ & wearing an x-small. I love the khaki color as I am a more nuetral girlie. It is a very comfortable material, very stretchy (which I love) & not itchy!! I am obsessed with the off the shoulder detail. That is my favorite style for a sweater so that sold me 100%. The material is not too thick but still warm. It can be dressed up as well as dressed down. I would definitely recommend this sweater!! Read more",
+        "author": "Mariah",
+        "rating": 5.0,
+        "date": "September 14, 2025",
+        "verified": false,
+        "images": [
+          "https://m.media-amazon.com/images/I/71sE7s5nzZL._SY88._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/81l6W2i7aHL._SY88._SL1500_.jpg"
+        ]
+      },
+      {
+        "title": "4.0 out of 5 stars Yes",
+        "body": "Soft and cute Read more",
+        "author": "Christy Shane",
+        "rating": 4.0,
+        "date": "November 25, 2025",
+        "verified": false,
+        "images": []
+      },
+      {
+        "title": "5.0 out of 5 stars Perfect for fall and winter",
+        "body": "This sweater is so versatile because you can wear it as a one off shoulder or a double off shoulder. It’s perfect as we transition into the colder months. It has a very soft material. It does not feel cheap. The material is thick enough to keep you warm. I am 4’11 and about 105lbs. I got a size extra small. I would recommend sizing down. The sleeves are meant to be long. I had to fold mine but it was fine. Read more",
+        "author": "kim",
+        "rating": 5.0,
+        "date": "September 21, 2025",
+        "verified": false,
+        "images": [
+          "https://m.media-amazon.com/images/I/71lTqfnbn1L._SY88._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/71EB5F22weL._SY88._SL1500_.jpg"
+        ]
+      },
+      {
+        "title": "3.0 out of 5 stars Runs big",
+        "body": "Runs large - even XS was too big in the neck area Read more",
+        "author": "Laura B.",
+        "rating": 3.0,
+        "date": "December 2, 2025",
+        "verified": false,
+        "images": []
+      },
+      {
+        "title": "5.0 out of 5 stars Perfect for Fall",
+        "body": "I bought this for my family pictures and I’m obsessed! I got a medium and the fit was great (I’d say I’m a pretty true medium at 135 lbs and 5’4”). I love the neckline cut, it just elevated a normal sweater so much!! I paired it with a long denim skirt and boots. Great quality!! Read more",
+        "author": "Morgan",
+        "rating": 5.0,
+        "date": "November 10, 2025",
+        "verified": false,
+        "images": [
+          "https://m.media-amazon.com/images/I/71Bajcro5bL._SY88._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/711ZHRu4PKL._SY88._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/71z80LFQ-6L._SY88._SL1500_.jpg"
+        ]
+      },
+      {
+        "title": "2.0 out of 5 stars Item was wore when I received.",
+        "body": "It looks okay on. I gave it to stars because this item has been worn. It smells like women’s perfume. There were no tags on sweater either. Read more",
+        "author": "givens88",
+        "rating": 2.0,
+        "date": "December 3, 2025",
+        "verified": false,
+        "images": []
+      },
+      {
+        "title": "5.0 out of 5 stars Great Shirt ♥️",
+        "body": "Asymmetrical neck was perfect. Does not cling to your belly. Great quality. True to size. Read more",
+        "author": "Tom Cothron",
+        "rating": 5.0,
+        "date": "December 9, 2025",
+        "verified": false,
+        "images": [
+          "https://m.media-amazon.com/images/I/71j-2EOikcL._SY88._SL1500_.jpg"
+        ]
+      }
+    ]
+  },
+  "short_description": "Womens Maxi Dress Long Sleeve is made for a polished look that still feels comfortable to wear. It is designed to sit cleanly on the body with a flattering shape that works for day plans and dressier moments without feeling overdone.\n\nThe fit focuses on balance rather than extremes, so you can move naturally while still getting a defined silhouette. Choose your usual size for a closer look, or size up if you prefer a little more ease through the waist and hips.\n\nStyling is simple: keep accessories minimal for a clean finish, or add a jacket and statement shoes when you want a sharper outfit. This piece photographs well thanks to smooth lines and a structured feel that stays put once you have it adjusted.\n\nWith the right fit and simple styling, this item becomes an easy go-to when you want something that looks intentional without requiring extra effort.\n\nFor the best look, smooth the fabric, check the neckline placement, and pair it with shoes that match the occasion and the hem length.\n\nIf you are between sizes, choose based on how close you like the fit through the waist and hips, then adjust with your usual layering choices.",
+  "about_this_item": "Womens Maxi Dress Long Sleeve is made for a polished look that still feels comfortable to wear. It is designed to sit cleanly on the body with a flattering shape that works for day plans and dressier moments without feeling overdone.\n\nThe fit focuses on balance rather than extremes, so you can move naturally while still getting a defined silhouette. Choose your usual size for a closer look, or size up if you prefer a little more ease through the waist and hips.\n\nStyling is simple: keep accessories minimal for a clean finish, or add a jacket and statement shoes when you want a sharper outfit. This piece photographs well thanks to smooth lines and a structured feel that stays put once you have it adjusted.\n\nWith the right fit and simple styling, this item becomes an easy go-to when you want something that looks intentional without requiring extra effort.\n\nFor the best look, smooth the fabric, check the neckline placement, and pair it with shoes that match the occasion and the hem length.\n\nIf you are between sizes, choose based on how close you like the fit through the waist and hips, then adjust with your usual layering choices.",
+  "long_description": "Womens Maxi Dress Long Sleeve is a versatile piece you can reach for when you want a put-together look that still feels comfortable. The goal is simple: a silhouette that reads polished, photographs well, and stays wearable for a full day or a long night.\n\nFit and sizing Fit is where most outfits win or lose. This design aims for a balanced shape with a defined line through the torso, a clean waist, and a smooth finish through the hips and legs. If you prefer a more relaxed feel, size up; if you like a closer fit, stay true to size. Sizes may include: XS, S, M, L, XL.\n\nFabric and comfort Comfort is not just about softness. It is also about movement and how the fabric behaves as you walk, sit, and stand. A fabric blend with a bit of give helps it keep its shape while still feeling wearable.\n\nHighlights A clean neckline and a refined silhouette for an elevated look. Designed to layer easily with jackets, wraps, or sweaters. Works well with both minimal accessories and statement pieces.\n\nHow to style Styling ideas: keep it minimal with neutral shoes and one standout accessory. For a relaxed daytime look, add a denim jacket or cardigan. For events, switch to a bolder shoe and a small clutch for a sharper finish.\n\nColor notes Available colors may include: Red, Brown, Khaki, Beige, Black, Navy Blue. If a shade is sold out, check back as availability can change.\n\nCare Care guidance matters if you want it to keep its shape and finish. Follow the label first.",
+  "long_description_blocks": [
+    {
+      "type": "p",
+      "text": "Womens Maxi Dress Long Sleeve is a versatile piece you can reach for when you want a put-together look that still feels comfortable. The goal is simple: a silhouette that reads polished, photographs well, and stays wearable for a full day or a long night."
+    },
+    {
+      "type": "p",
+      "text": "Fit and sizing Fit is where most outfits win or lose. This design aims for a balanced shape with a defined line through the torso, a clean waist, and a smooth finish through the hips and legs. If you prefer a more relaxed feel, size up; if you like a closer fit, stay true to size. Sizes may include: XS, S, M, L, XL."
+    },
+    {
+      "type": "img",
+      "src": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9c155ec2-cb06-408b-bde4-fa4f93fa7fdd.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "alt": "Womens Maxi Dress Long Sleeve details image 1"
+    },
+    {
+      "type": "p",
+      "text": "Fabric and comfort Comfort is not just about softness. It is also about movement and how the fabric behaves as you walk, sit, and stand. A fabric blend with a bit of give helps it keep its shape while still feeling wearable."
+    },
+    {
+      "type": "img",
+      "src": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/faff4520-2064-468e-8495-4a5a46e28d35.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "alt": "Womens Maxi Dress Long Sleeve details image 2"
+    },
+    {
+      "type": "p",
+      "text": "Highlights A clean neckline and a refined silhouette for an elevated look. Designed to layer easily with jackets, wraps, or sweaters. Works well with both minimal accessories and statement pieces."
+    },
+    {
+      "type": "img",
+      "src": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7bb53345-62bc-4863-97b3-9a8d53bda754.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "alt": "Womens Maxi Dress Long Sleeve details image 3"
+    },
+    {
+      "type": "p",
+      "text": "How to style Styling ideas: keep it minimal with neutral shoes and one standout accessory. For a relaxed daytime look, add a denim jacket or cardigan. For events, switch to a bolder shoe and a small clutch for a sharper finish."
+    },
+    {
+      "type": "img",
+      "src": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ee18adbd-4444-4b5f-b292-ca5abc25e626.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "alt": "Womens Maxi Dress Long Sleeve details image 4"
+    },
+    {
+      "type": "p",
+      "text": "Color notes Available colors may include: Red, Brown, Khaki, Beige, Black, Navy Blue. If a shade is sold out, check back as availability can change."
+    },
+    {
+      "type": "img",
+      "src": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bc8ea05e-aea9-4e59-9987-19b82071fd08.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "alt": "Womens Maxi Dress Long Sleeve details image 5"
+    },
+    {
+      "type": "p",
+      "text": "Care Care guidance matters if you want it to keep its shape and finish. Follow the label first."
+    }
+  ],
+  "videos": [
+    {
+      "id": "2fdce5b8-91b6-4a66-822e-94423b5952ca",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2fdce5b8-91b6-4a66-822e-94423b5952ca/default.vertical.jobtemplate.hls.m3u8",
+      "sources": [
+        {
+          "type": "application/x-mpegURL",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2fdce5b8-91b6-4a66-822e-94423b5952ca/default.vertical.jobtemplate.hls.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "77e4c194-539e-4a6e-a31b-ef76129aee59",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/77e4c194-539e-4a6e-a31b-ef76129aee59/default.vertical.jobtemplate.hls.m3u8",
+      "sources": [
+        {
+          "type": "application/x-mpegURL",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/77e4c194-539e-4a6e-a31b-ef76129aee59/default.vertical.jobtemplate.hls.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "565a6619-7bd1-46ff-9c2f-47395d5e9180",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/565a6619-7bd1-46ff-9c2f-47395d5e9180/default.vertical.jobtemplate.hls.m3u8",
+      "sources": [
+        {
+          "type": "application/x-mpegURL",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/565a6619-7bd1-46ff-9c2f-47395d5e9180/default.vertical.jobtemplate.hls.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "83a9d267-c02e-411b-ad7a-751d5afb316d",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/83a9d267-c02e-411b-ad7a-751d5afb316d/default.jobtemplate.hls.m3u8",
+      "sources": [
+        {
+          "type": "application/x-mpegURL",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/83a9d267-c02e-411b-ad7a-751d5afb316d/default.jobtemplate.hls.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "a4a52df4-b4a4-4023-81c4-0661904f066b",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a4a52df4-b4a4-4023-81c4-0661904f066b/videopreview.jobtemplate.mp4.default.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a4a52df4-b4a4-4023-81c4-0661904f066b/videopreview.jobtemplate.mp4.default.mp4"
+        }
+      ]
+    },
+    {
+      "id": "9d1d72b3-56d2-4c15-ba6b-3a7faff8658c",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9d1d72b3-56d2-4c15-ba6b-3a7faff8658c/videopreview.jobtemplate.mp4.default.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9d1d72b3-56d2-4c15-ba6b-3a7faff8658c/videopreview.jobtemplate.mp4.default.mp4"
+        }
+      ]
+    },
+    {
+      "id": "cd1e463c-0cc3-434a-a25a-9deabd0f236f",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cd1e463c-0cc3-434a-a25a-9deabd0f236f/videopreview.jobtemplate.mp4.default.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cd1e463c-0cc3-434a-a25a-9deabd0f236f/videopreview.jobtemplate.mp4.default.mp4"
+        }
+      ]
+    },
+    {
+      "id": "e23a76c2-21a4-4a5e-99a3-af44ead6e7e4",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e23a76c2-21a4-4a5e-99a3-af44ead6e7e4/videopreview.jobtemplate.mp4.default.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e23a76c2-21a4-4a5e-99a3-af44ead6e7e4/videopreview.jobtemplate.mp4.default.mp4"
+        }
+      ]
+    }
+  ],
+  "color_swatches": {
+    "Red": "https://m.media-amazon.com/images/I/31CaQSGstCL._AC_SR38,50_.jpg",
+    "Brown": "https://m.media-amazon.com/images/I/31DtUAEVJgL._AC_SR38,50_.jpg",
+    "Khaki": "https://m.media-amazon.com/images/I/31JX7Gjhu1L._AC_SR38,50_.jpg",
+    "Beige": "https://m.media-amazon.com/images/I/31iyUQDIh3L._AC_SR38,50_.jpg",
+    "Black": "https://m.media-amazon.com/images/I/31wh-LNiPzL._AC_SR38,50_.jpg",
+    "Navy Blue": "https://m.media-amazon.com/images/I/31nMbm6Rn8L._AC_SR38,50_.jpg"
+  },
+  "color_image_key": {
+    "Red": "61lTt-o2coL",
+    "Brown": "61YTvWW1OWL",
+    "Khaki": "61VZqQbsiGL",
+    "Beige": "51stBYwzYZL",
+    "Black": "51qNxlC1utL",
+    "Navy Blue": "518x747O9HL"
+  },
+  "color_images": {
+    "Red": [
+      "https://m.media-amazon.com/images/I/61lTt-o2coL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61dZbZFsYDL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61RvFqG2ijL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51PFUU25ndL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51ntOzsPIFL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61iVZ0SqVSL._SL1500_.jpg"
+    ],
+    "Brown": [
+      "https://m.media-amazon.com/images/I/61YTvWW1OWL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61XYZtWJpmL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61uJ77vFpgL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51ZcThrG4AL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51ZPB4bl0RL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61GvwM36ufL._SL1500_.jpg"
+    ],
+    "Khaki": [
+      "https://m.media-amazon.com/images/I/61VZqQbsiGL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61vY1Hko9PL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61q+s1G0fML._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51SdZ5ve19L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/518K9ZxFxZL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61lQPPhmUmL._SL1500_.jpg"
+    ],
+    "Beige": [
+      "https://m.media-amazon.com/images/I/51stBYwzYZL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61ShH9b4l1L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61tyl355iSL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51UDHG1PXML._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51bZX+uSazL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61y1LssvXlL._SL1500_.jpg"
+    ],
+    "Black": [
+      "https://m.media-amazon.com/images/I/51qNxlC1utL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51QylgMyeDL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51IchFqbNGL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51T9Y3CSHtL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51S32FphKzL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61zRCqh1ZPL._SL1500_.jpg"
+    ],
+    "Navy Blue": [
+      "https://m.media-amazon.com/images/I/518x747O9HL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51gEF4-lr2L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/514D47+CAEL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/519QFO00cmL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51WuJZnFpZL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61TAOX1ZCnL._SL1500_.jpg"
+    ]
+  },
+  "related": [
+    {
+      "id": "womens-maxi-dress-boat-neck-long-sleeve",
+      "title": "Womens Maxi Dress Boat Neck Long Sleeve",
+      "price": 33.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Pullovers",
+      "images": [
+        "https://m.media-amazon.com/images/I/71mjsjsYRUL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-dress",
+      "title": "Womens Dress",
+      "price": 39.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Pullovers",
+      "images": [
+        "https://m.media-amazon.com/images/I/71jPQhxdlxL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-dress",
+      "title": "Womens Dress",
+      "price": 249.0,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Pullovers",
+      "images": [
+        "https://m.media-amazon.com/images/I/61hfs2xVb9L._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-long-sleeve-v-neck",
+      "title": "Womens Maxi Dress Long Sleeve V Neck",
+      "price": 34.98,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Cardigans",
+      "images": [
+        "https://m.media-amazon.com/images/I/71thU5hdj4L._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-dress",
+      "title": "Womens Dress",
+      "price": 16.3,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Pullovers",
+      "images": [
+        "https://m.media-amazon.com/images/I/81wtkx+nYVL._SL1500_.jpg"
+      ]
+    }
+  ],
+  "customer_also_viewed": [
+    {
+      "id": "womens-dress",
+      "title": "Womens Dress",
+      "price": 39.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Pullovers",
+      "images": [
+        "https://m.media-amazon.com/images/I/71jPQhxdlxL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-v-neck-long-sleeve",
+      "title": "Womens Maxi Dress V Neck Long Sleeve",
+      "price": 21.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Pullovers",
+      "images": [
+        "https://m.media-amazon.com/images/I/71zNN9xaUiL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-dress",
+      "title": "Womens Dress",
+      "price": 19.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Pullovers",
+      "images": [
+        "https://m.media-amazon.com/images/I/71q5Au2+nAL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-dress-evening",
+      "title": "Womens Dress Evening",
+      "price": 38.88,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Cardigans",
+      "images": [
+        "https://m.media-amazon.com/images/I/71A+kUVfblL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-dress-ruched-cocktail",
+      "title": "Womens Dress Ruched Cocktail",
+      "price": 31.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Shrugs",
+      "images": [
+        "https://m.media-amazon.com/images/I/61LSLo-ct6L._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-dress",
+      "title": "Womens Dress",
+      "price": 19.0,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Pullovers",
+      "images": [
+        "https://m.media-amazon.com/images/I/71DSlqWu34L._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-dress",
+      "title": "Womens Dress",
+      "price": 16.3,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Pullovers",
+      "images": [
+        "https://m.media-amazon.com/images/I/81wtkx+nYVL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-dress",
+      "title": "Womens Dress",
+      "price": 40.88,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Sweaters > Pullovers",
+      "images": [
+        "https://m.media-amazon.com/images/I/81mkuEYRTQL._SL1500_.jpg"
+      ]
+    }
+  ],
+  "slug": "womens-maxi-dress-long-sleeve-b0fcf7s9jd"
+}

@@ -1,0 +1,718 @@
+{
+  "id": "womens-dress-v-neck",
+  "handle": "womens-dress-v-neck",
+  "sku": "JC1109",
+  "asin": "B0CMHFYV8L",
+  "title": "Womens Dress V Neck",
+  "title_original": "ANRABESS Womens Summer Dress Ruffle Sleeve V Neck Midi Dresses Fashion Casual Fit Flowy Tiered Boho Beach Vacation Sundress",
+  "brand": "Visit the ANRABESS Store",
+  "price": 29.99,
+  "social_proof": {
+    "bought_past_month": 77,
+    "text": "77+ bought in the past month"
+  },
+  "images": [
+    "https://m.media-amazon.com/images/I/61vy9PWf+XL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71+neuMNEjL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71HPKgH7VaL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71Q9ohCPN6L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71Lqbqxsi9L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71FHm7zcJML._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/818niU-GENL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/811x3Ie3DTL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61VwpzlCHAL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81FlTcs1MbL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71LG5xzipHL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81NjqWRA1XL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61YZbnHF6iL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61ByAXW4syL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71y18cQ0QYL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71DQm2b1NkL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61-f02XNKVL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81xBZVo06iL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81wvJpMvoWL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61Jwb5k1ZoL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61UdpPshh+L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81u5CzrJyuL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61THxyW3T3L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61UtPt13dNL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61tsGajDHNL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71dHUC4COlL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61JxfcdSFjL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61cuflXIOHL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61Gb1jbw7mL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/611OOF1eLWL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81ydWGEkAZL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71vv3aOT76L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61yC3YgEPUL._SL1500_.jpg"
+  ],
+  "gallery_images": [
+    "https://m.media-amazon.com/images/I/61vy9PWf+XL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71+neuMNEjL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71HPKgH7VaL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71Q9ohCPN6L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71Lqbqxsi9L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71FHm7zcJML._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/818niU-GENL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/811x3Ie3DTL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61VwpzlCHAL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81FlTcs1MbL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71LG5xzipHL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81NjqWRA1XL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61YZbnHF6iL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61ByAXW4syL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71y18cQ0QYL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71DQm2b1NkL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61-f02XNKVL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81xBZVo06iL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81wvJpMvoWL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61Jwb5k1ZoL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61UdpPshh+L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81u5CzrJyuL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61THxyW3T3L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61UtPt13dNL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61tsGajDHNL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71dHUC4COlL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61JxfcdSFjL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61cuflXIOHL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61Gb1jbw7mL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/611OOF1eLWL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81ydWGEkAZL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71vv3aOT76L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61yC3YgEPUL._SL1500_.jpg"
+  ],
+  "aplus_images": [
+    "https://m.media-amazon.com/images/I/41fFdjnLYOL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41ic3cWu0%2BL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41apCEIhfVL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41xUsJLbdIL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/4180xhTzQrL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/31QQZTKBBpL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/319NEsaXm7L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/31kiD%2B0%2BEOL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/316X%2B8eTbRL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/31HiXpQzgDL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/31LI6x9Bm4L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/31Pr%2BcAP-VL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/31GaQ4nRHDL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41Wu8jy4ZDL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/31wtsekHGtL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/31JaITy3zyL._SL1500_.jpg"
+  ],
+  "description_images": [
+    "https://m.media-amazon.com/images/I/41fFdjnLYOL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41ic3cWu0%2BL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41apCEIhfVL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41xUsJLbdIL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/4180xhTzQrL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/31QQZTKBBpL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/319NEsaXm7L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/31kiD%2B0%2BEOL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/316X%2B8eTbRL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/31HiXpQzgDL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/31LI6x9Bm4L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/31Pr%2BcAP-VL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/31GaQ4nRHDL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41Wu8jy4ZDL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/31wtsekHGtL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/31JaITy3zyL._SL1500_.jpg"
+  ],
+  "bullets": [],
+  "specs": {
+    "Department ‏": "‎ womens",
+    "Date First Available ‏": "‎ June 17, 2024",
+    "ASIN ‏": "‎ B0D78HVR27",
+    "Best Sellers Rank": "#14,054 in Clothing, Shoes & Jewelry ( See Top 100 in Clothing, Shoes & Jewelry ) #93 in Women's Casual Dresses",
+    "Customer Reviews": "4.3 4.3 out of 5 stars (3,315)"
+  },
+  "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Casual",
+  "variations": {
+    "sizes": [
+      "5",
+      "5.5",
+      "6",
+      "6.5",
+      "7",
+      "7.5",
+      "8",
+      "8.5",
+      "9",
+      "9.5",
+      "10",
+      "11"
+    ],
+    "colors": [
+      "Pink Yellow Navy Floral",
+      "Pink Floral",
+      "Deep Green",
+      "Orange Red Floral",
+      "Black Yellow Flower",
+      "Orange Floral",
+      "Peach",
+      "Orange Rust",
+      "Black",
+      "Grey Khaki Polka Dot",
+      "Rust Red White Dot",
+      "Lake Green",
+      "Blue Yellow Floral",
+      "Grey Pink Floral",
+      "Royal Blue",
+      "Sky Blue",
+      "Blue Red Floral",
+      "Blue",
+      "Deep Navy Blue",
+      "Hot Pink",
+      "Multicolour Floral",
+      "Navy Blue",
+      "Olive",
+      "Red",
+      "Wine Red",
+      "Blue Floral",
+      "Yellow Purple Floral",
+      "Forest"
+    ],
+    "size_chart": {
+      "label": "Size chart",
+      "href": "javascript:void(0)",
+      "html": null
+    }
+  },
+  "reviews": {
+    "average_rating": 4.3,
+    "count": 3315,
+    "customers_say": "Customers love this dress's style, particularly noting that the print looks better in person, and appreciate its fit that's loose without being baggy. The dress is comfortable with pockets, made of soft cotton fabric that doesn't cling, and comes in various colors including perfect summer black. Customers find it versatile, suitable for both casual and dressy occasions, and one customer mentions it's easy to care for. Generated from the text of customer reviews Select to learn more Style (394) Fit (387) Comfort (375) Quality (301) Softness (217) Color (175) Dressability (154) Fabric quality (145) 394 customers mention style, 352 positive, 42 negative 394 customers mention \"Style\" 352 positive 42 negative Customers like the dress's style, particularly noting that the print looks even better in person, and one customer mentions it's nice enough for a special occasion. \" 5’ 4”, 175lb, D cup, ordered large. This dress is so cute and comfortable. I have plenty of room in this dress that it isn’t snug and is flown.... \" Read more \" ...it was going to be a boring old summer dress but it is actually super cute . Then neckline and shoulder ruffles really give it a cute look.... \" Read more \" Cute dress . This is a good basic dress that can easily be dressed up or down. A little longer for occasions where longer hemline is appropriate.... \" Read more \" Beautiful . Such a flattering fit. I would say it is pretty true to size. The material is plenty thick and extra soft. I am going to buy more colors. \" Read more 387 customers mention fit, 333 positive, 54 negative 387 customers mention \"Fit\" 333 positive 54 negative Customers like how the dress fits, noting that it is loose without being baggy and hits just below the knees. \" It fits well , it’s a nice material, it looks accurate to style and color. But I will say the neck line is higher than expected. \" Read more \" Great fit , his below knee, not fond of the flutter sleeve, but that’s my personal opinion. Washes well and will be great item to pack for travel. \" Read more \" I bought this for a trip to Italy. Perfect fit . It does not wrinkle, you can roll it in a ball in your suitcase, pull it out and wear it.... \" Read more \" ...The dress is very cute and it fits great but the color is all wrong. It's very soft and a nice medium weight dress that is perfect for spring.... \" Read more 375 customers mention comfort, 369 positive, 6 negative 375 customers mention \"Comfort\" 369 positive 6 negative Customers find the dress comfortable and flattering, with one customer noting it has pockets. \" Flattering and comfortable . Doesn’t look like a nightgown but has the same comfortable fit. I feel like I’m cheating when I wear this to work, haha.... \" Read more \" This is a very comfortable and pretty dress. It fits nice, hangs well and the fabric is soft. This went from washer to dryer to hanger really nicely.... \" Read more \" This dress can be worn by almost any size woman. It is soft, comfy and flows over the body. I chose the sky blue color which is such a pretty blue.... \" Read more \" Love it!! Just what I was hoping for. It fits perfectly & is so comfortable . Perfect summer dress to dress up or casual & it works.... \" Read more 301 customers mention quality, 281 positive, 20 negative 301 customers mention \"Quality\" 281 positive 20 negative Customers find the dress to be of good quality and perfect for summer wear, with one customer noting it works well as a swimsuit cover-up. \" Great dress ! Perfect for work or dress it up for other occasions. Nice light weight fabric for spring & summer wear. Dark green color is stunning.... \" Read more \" Love this dress . I can wear it as is or dress it up by wearing a jacket over it or a sweater.. true to size. Washes great no wrinkles! \" Read more \" Nice dress but I swear it shrunk a little after the first wash. No I’m not fatter! Easy wash and dry, not wrinkly out of the dryer. Ready to pop on.... \" Read more \" ...The soft material makes it extremely comfortable! This is the perfect summer dress , can keep it casual or dress it up! Plus, pockets!!... \" Read more 217 customers mention softness, 198 positive, 19 negative 217 customers mention \"Softness\" 198 positive 19 negative Customers appreciate the dress's fabric, describing it as soft and lightweight, with one customer noting it's a 60% polyester, 35% rayon, 5% elastane blend that doesn't cling. \" Not a dress person, but this one has definitely changed my mind. Soft and breathable material that fares well in the South. Good value for the price.... \" Read more \" ...Great for hot weather and easy to dress up or down. Fabric is soft and not see-through, which I really appreciate. Perfect casual summer dress! \" Read more \" Nice fabric , great color, fit is good and comfortable-maybe a bit big but it doesn’t look it. Wish I had bought it earlier in the summer. \" Read more \" It fits well, it’s a nice material , it looks accurate to style and color. But I will say the neck line is higher than expected. \" Read more 175 customers mention color, 148 positive, 27 negative 175 customers mention \"Color\" 148 positive 27 negative Customers love the colors of the dress, particularly the dark green and black options, with one customer noting that the navy is a true shade. \" ...Doesnt cling, and can dress up or wear casual. Flattering style, love the color , I ordered deep green. Just may have to order more colors! \" Read more \" Very satisfied with the Style how it fit and the color . It was very comfortable. The fabric was soft and had a good feel and wasn't see through. \" Read more \" The color is beautiful but the sleeves are silly looking a d the bust cuts right across your breast.... \" Read more \" This dress fit me well, was a beautiful color and comfortable fabric. I would definitely order again. \" Read more 154 customers mention dressability, 152 positive, 2 negative 154 customers mention \"Dressability\" 152 positive 2 negative Customers appreciate the dress's versatility, noting it can be worn both casually and dressed up for special occasions, with the ability to pair it with various accessories and shoes. \" ...Which is fine, it is comfortable & casual . But heavy and thick so not what i expected. The good thing is it doesn’t wrinkle and is super comfy.... \" Read more \" ...It's comfy and cute, can be dressed up or down , and is amazing for travel, as the fabric is cool, comfortable, and really doesn't wrinkle! \" Read more \" ...Fabric has a stretch, is solid and not see through. Very versatile and can be worn for all occasions.... \" Read more \" ...I just ordered another one. Of course, a bit long on me but can dress up or down . You won’t be sorry. \" Read more 145 customers mention fabric quality, 107 positive, 38 negative 145 customers mention \"Fabric quality\" 107 positive 38 negative Customers appreciate the fabric of the dress, describing it as beautiful and suitable for summer wear, with one customer noting it's easy to care for. \" I love the material . Soft and cool. I could have sized down one size but the fit is still good. Very forgiving in style. Length is great. I love it. \" Read more \" I love the fit, the color , I got beautiful blue flowers , and fabric . I’m 5’3 160 lbs, I got large and fit great.... \" Read more \" I don’t like it. I should have returned it. Cheap material . Ugly in person \" Read more \" This is a very pretty dress! It fits me perfectly. I love the fabric , and the pink floral print is just lovely. \" Read more",
+    "items": [
+      {
+        "title": "5.0 out of 5 stars Beautiful and comfy",
+        "body": "Beautiful dress! I received many compliments when I first wore it. The colors were perfect for either spring or summer. The second time I wore it, I used a pair of yellow canvas shoes I got here, and it looked so well! You can dress it up or down. The first time, I wore it with a cardigan and nice shoes, and it looked dressy. I wore it for work and for church which means it’s versatile. The best is that it’s not hot! It didn’t seem see through, but I wore it with shape-wear under it in my skin color. The fabric is light. It has pockets! I am 5’9” and wear size 16-18. I bought a XXL. It fit perfectly. Read more",
+        "author": "ReadtoMe",
+        "rating": 5.0,
+        "date": "July 13, 2025",
+        "verified": false,
+        "images": []
+      },
+      {
+        "title": "5.0 out of 5 stars Fits perfectly and is so comfortable!",
+        "body": "This dress came right on time. When I opened the package I was surprised to feel the quality of the fabric and that there was no bad smell on the clothing! You can tell this dress was made with care. The seams are neat and sturdy and the fabric is thick enough to be sturdy and light enough to be cool in the heat! The dress is stretchy and easily accommodated my growing pregnant belly! The style is adorable, you can wear it casually and with a cute pair of cowgirl boots it makes a great outfit for church. The size is dead on and the dress has beautifully hidden POCKETS! This dress is a steal and I want it in every color. The value for the cost is amazing I highly recommend this dress! Read more",
+        "author": "Amara Walton",
+        "rating": 5.0,
+        "date": "July 22, 2025",
+        "verified": false,
+        "images": []
+      },
+      {
+        "title": "4.0 out of 5 stars Great dresses--different colors might fit differently",
+        "body": "This is a comfy and stylish dress! I ordered XXL because I'm tall and have bit of a spare tire. The top fits well and the skirt part flows and doesn't hug my curves. I bought black, olive, and the orange/rust color, and it seems that the olive doesn't fit as well. It's tighter in the top and the seam around the top is also uncomfortable (itchy/scratchy)--I think maybe because it's tighter. I plan on trying a couple other colors because they'll be perfect summer dresses otherwise. Read more",
+        "author": "k_otter",
+        "rating": 4.0,
+        "date": "July 1, 2025",
+        "verified": false,
+        "images": []
+      },
+      {
+        "title": "5.0 out of 5 stars Super cute!",
+        "body": "I have tried many “empire waist” dresses with not such great results. This one, however, is super cute, super comfortable and fits just right. I am 5’3” and 118 lbs, ordered size M in black.The fabric is like a thick, stretchy T-shirt, very soft and easy to pull on (over the head), unlike some non-stretchy fabrics. On me, the length is also just right (mid-calf). The style is cute, but not “cutesy”, which is important to me, being perhaps older than many of you! Read more",
+        "author": "aubaine",
+        "rating": 5.0,
+        "date": "September 8, 2025",
+        "verified": false,
+        "images": []
+      },
+      {
+        "title": "5.0 out of 5 stars Nice dress",
+        "body": "Cute dress. The color is nice and fit and style is nice. It is flattering. It can be dresses up or worn casual for everyday wear. Read more",
+        "author": "recycle stuff",
+        "rating": 5.0,
+        "date": "October 26, 2025",
+        "verified": false,
+        "images": []
+      },
+      {
+        "title": "3.0 out of 5 stars Loved the fit, but fabric discoloration on both dresses",
+        "body": "I really loved the style and fit of this dress—it was true to size and very flattering. Unfortunately, both times I ordered it, there were two perfectly square patches on each side of the chest area that had a brownish tinge to them. It looked like a defect in the fabric, and it was noticeable once I tried it on. I returned the first one and reordered, hoping it was just a one-off issue, but the second dress had the exact same problem. I would have kept it otherwise, because I really liked the dress. Read more",
+        "author": "beachgirl721",
+        "rating": 3.0,
+        "date": "October 16, 2025",
+        "verified": false,
+        "images": []
+      },
+      {
+        "title": "5.0 out of 5 stars Confortable dress",
+        "body": "Very pretty and comfortable dress. I have gotten a lot of compliments when I wear it. Looks like denim but is a softer, stretchy material. The fit is looser, but fits well. Read more",
+        "author": "AMCow",
+        "rating": 5.0,
+        "date": "October 26, 2025",
+        "verified": false,
+        "images": []
+      },
+      {
+        "title": "5.0 out of 5 stars easy breezy",
+        "body": "I love feeling put together when working from home. During breaks I sometimes run errands or walk my dogs. At 5 pm I want to be ready to run out the door. This dress is casual, inexpensive, cool in summer, looks great on Zoom and very comfy. The perfect house dress. I feel like I could easily wear in the fall with a sweater or scarf to change it up. I'm 5'8\" and it hits just below the knee. I would not want it any shorter. One reviewer said she thought the top seam was too high. I found that wearing the right bra with the right lift made a huge difference. I got a denim blue color and am considering purchasing more in other patterns/shades. I seriously would like several for an easy to grab and get dressed WFH wardrobe. It's better than I expected, given the price. Read more",
+        "author": "Dr Ed",
+        "rating": 5.0,
+        "date": "August 1, 2025",
+        "verified": false,
+        "images": []
+      }
+    ]
+  },
+  "short_description": "Womens Dress V Neck is made for a polished look that still feels comfortable to wear. It is designed to sit cleanly on the body with a flattering shape that works for day plans and dressier moments without feeling overdone.\n\nThe fit focuses on balance rather than extremes, so you can move naturally while still getting a defined silhouette. Choose your usual size for a closer look, or size up if you prefer a little more ease through the waist and hips.\n\nStyling is simple: keep accessories minimal for a clean finish, or add a jacket and statement shoes when you want a sharper outfit. This piece photographs well thanks to smooth lines and a structured feel that stays put once you have it adjusted.\n\nWith the right fit and simple styling, this item becomes an easy go-to when you want something that looks intentional without requiring extra effort.\n\nTo keep it looking sharp, follow the care label first and avoid high heat when drying or steaming if the material is sensitive.\n\nIf you are between sizes, choose based on how close you like the fit through the waist and hips, then adjust with your usual layering choices.",
+  "about_this_item": "Womens Dress V Neck is made for a polished look that still feels comfortable to wear. It is designed to sit cleanly on the body with a flattering shape that works for day plans and dressier moments without feeling overdone.\n\nThe fit focuses on balance rather than extremes, so you can move naturally while still getting a defined silhouette. Choose your usual size for a closer look, or size up if you prefer a little more ease through the waist and hips.\n\nStyling is simple: keep accessories minimal for a clean finish, or add a jacket and statement shoes when you want a sharper outfit. This piece photographs well thanks to smooth lines and a structured feel that stays put once you have it adjusted.\n\nWith the right fit and simple styling, this item becomes an easy go-to when you want something that looks intentional without requiring extra effort.\n\nTo keep it looking sharp, follow the care label first and avoid high heat when drying or steaming if the material is sensitive.\n\nIf you are between sizes, choose based on how close you like the fit through the waist and hips, then adjust with your usual layering choices.",
+  "long_description": "Womens Dress V Neck is a versatile piece you can reach for when you want a put-together look that still feels comfortable. The goal is simple: a silhouette that reads polished, photographs well, and stays wearable for a full day or a long night.\n\nFit and sizing Fit is where most outfits win or lose. This design aims for a balanced shape with a defined line through the torso, a clean waist, and a smooth finish through the hips and legs. If you prefer a more relaxed feel, size up; if you like a closer fit, stay true to size. Sizes may include: 5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 11.\n\nFabric and comfort Comfort is not just about softness. It is also about movement and how the fabric behaves as you walk, sit, and stand. A fabric blend with a bit of give helps it keep its shape while still feeling wearable.\n\nHighlights A clean neckline and a refined silhouette for an elevated look. Designed to layer easily with jackets, wraps, or sweaters. Works well with both minimal accessories and statement pieces.\n\nHow to style Styling ideas: keep it minimal with neutral shoes and one standout accessory. For a relaxed daytime look, add a denim jacket or cardigan. For events, switch to a bolder shoe and a small clutch for a sharper finish.\n\nColor notes Available colors may include: Pink Yellow Navy Floral, Pink Floral, Deep Green, Orange Red Floral, Black Yellow Flower, Orange Floral, Peach, Orange Rust, Black, Grey Khaki Polka Dot, Rust Red White Dot, Lake Green, Blue Yellow Floral, Grey Pink Floral. If a shade is sold out, check back as availability can change.\n\nCare Care guidance matters if you want it to keep its shape and finish. Follow the label first.",
+  "long_description_blocks": [
+    {
+      "type": "p",
+      "text": "Womens Dress V Neck is a versatile piece you can reach for when you want a put-together look that still feels comfortable. The goal is simple: a silhouette that reads polished, photographs well, and stays wearable for a full day or a long night."
+    },
+    {
+      "type": "p",
+      "text": "Fit and sizing Fit is where most outfits win or lose. This design aims for a balanced shape with a defined line through the torso, a clean waist, and a smooth finish through the hips and legs. If you prefer a more relaxed feel, size up; if you like a closer fit, stay true to size. Sizes may include: 5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 11."
+    },
+    {
+      "type": "img",
+      "src": "https://m.media-amazon.com/images/I/41fFdjnLYOL._SL1500_.jpg",
+      "alt": "Womens Dress V Neck details image 1"
+    },
+    {
+      "type": "p",
+      "text": "Fabric and comfort Comfort is not just about softness. It is also about movement and how the fabric behaves as you walk, sit, and stand. A fabric blend with a bit of give helps it keep its shape while still feeling wearable."
+    },
+    {
+      "type": "img",
+      "src": "https://m.media-amazon.com/images/I/41ic3cWu0%2BL._SL1500_.jpg",
+      "alt": "Womens Dress V Neck details image 2"
+    },
+    {
+      "type": "p",
+      "text": "Highlights A clean neckline and a refined silhouette for an elevated look. Designed to layer easily with jackets, wraps, or sweaters. Works well with both minimal accessories and statement pieces."
+    },
+    {
+      "type": "img",
+      "src": "https://m.media-amazon.com/images/I/41apCEIhfVL._SL1500_.jpg",
+      "alt": "Womens Dress V Neck details image 3"
+    },
+    {
+      "type": "p",
+      "text": "How to style Styling ideas: keep it minimal with neutral shoes and one standout accessory. For a relaxed daytime look, add a denim jacket or cardigan. For events, switch to a bolder shoe and a small clutch for a sharper finish."
+    },
+    {
+      "type": "img",
+      "src": "https://m.media-amazon.com/images/I/41xUsJLbdIL._SL1500_.jpg",
+      "alt": "Womens Dress V Neck details image 4"
+    },
+    {
+      "type": "p",
+      "text": "Color notes Available colors may include: Pink Yellow Navy Floral, Pink Floral, Deep Green, Orange Red Floral, Black Yellow Flower, Orange Floral, Peach, Orange Rust, Black, Grey Khaki Polka Dot, Rust Red White Dot, Lake Green, Blue Yellow Floral, Grey Pink Floral. If a shade is sold out, check back as availability can change."
+    },
+    {
+      "type": "img",
+      "src": "https://m.media-amazon.com/images/I/4180xhTzQrL._SL1500_.jpg",
+      "alt": "Womens Dress V Neck details image 5"
+    },
+    {
+      "type": "p",
+      "text": "Care Care guidance matters if you want it to keep its shape and finish. Follow the label first."
+    }
+  ],
+  "videos": [
+    {
+      "id": "d7377e1e-618f-43b4-88d9-0f315459fd0b",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d7377e1e-618f-43b4-88d9-0f315459fd0b/default.jobtemplate.hls.m3u8",
+      "sources": [
+        {
+          "type": "application/x-mpegURL",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d7377e1e-618f-43b4-88d9-0f315459fd0b/default.jobtemplate.hls.m3u8"
+        }
+      ],
+      "poster": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1cdae205-6087-4b77-8eb7-4006d3e3a5ed.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+    },
+    {
+      "id": "e22633cc-c0a0-4eb4-80df-5e7f196cbee1",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e22633cc-c0a0-4eb4-80df-5e7f196cbee1/default.jobtemplate.hls.m3u8",
+      "sources": [
+        {
+          "type": "application/x-mpegURL",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e22633cc-c0a0-4eb4-80df-5e7f196cbee1/default.jobtemplate.hls.m3u8"
+        }
+      ],
+      "poster": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1cdae205-6087-4b77-8eb7-4006d3e3a5ed.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+    },
+    {
+      "id": "8c291d48-ac6f-4fda-9ba0-8e601c5c5d83",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8c291d48-ac6f-4fda-9ba0-8e601c5c5d83/default.vertical.jobtemplate.hls.m3u8",
+      "sources": [
+        {
+          "type": "application/x-mpegURL",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8c291d48-ac6f-4fda-9ba0-8e601c5c5d83/default.vertical.jobtemplate.hls.m3u8"
+        }
+      ],
+      "poster": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1cdae205-6087-4b77-8eb7-4006d3e3a5ed.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+    },
+    {
+      "id": "d32b779b-c093-4632-b32e-5e1cc8bdc528",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d32b779b-c093-4632-b32e-5e1cc8bdc528/default.vertical.jobtemplate.hls.m3u8",
+      "sources": [
+        {
+          "type": "application/x-mpegURL",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d32b779b-c093-4632-b32e-5e1cc8bdc528/default.vertical.jobtemplate.hls.m3u8"
+        }
+      ],
+      "poster": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1cdae205-6087-4b77-8eb7-4006d3e3a5ed.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+    },
+    {
+      "id": "58ca5a85-eb88-4b09-9140-e9781c599730",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/58ca5a85-eb88-4b09-9140-e9781c599730/default.vertical.jobtemplate.hls.m3u8",
+      "sources": [
+        {
+          "type": "application/x-mpegURL",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/58ca5a85-eb88-4b09-9140-e9781c599730/default.vertical.jobtemplate.hls.m3u8"
+        }
+      ],
+      "poster": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1cdae205-6087-4b77-8eb7-4006d3e3a5ed.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+    },
+    {
+      "id": "981bfbc6-59c2-46be-86aa-5eab40382654",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/981bfbc6-59c2-46be-86aa-5eab40382654/default.vertical.jobtemplate.hls.m3u8",
+      "sources": [
+        {
+          "type": "application/x-mpegURL",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/981bfbc6-59c2-46be-86aa-5eab40382654/default.vertical.jobtemplate.hls.m3u8"
+        }
+      ],
+      "poster": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1cdae205-6087-4b77-8eb7-4006d3e3a5ed.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+    },
+    {
+      "id": "e1c5ea4a-03c2-4381-85b7-5a6d17f3130c",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e1c5ea4a-03c2-4381-85b7-5a6d17f3130c/default.jobtemplate.hls.m3u8",
+      "sources": [
+        {
+          "type": "application/x-mpegURL",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e1c5ea4a-03c2-4381-85b7-5a6d17f3130c/default.jobtemplate.hls.m3u8"
+        }
+      ],
+      "poster": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1cdae205-6087-4b77-8eb7-4006d3e3a5ed.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+    },
+    {
+      "id": "789798d7-dc72-4624-97c0-1fd0207cbc85",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/789798d7-dc72-4624-97c0-1fd0207cbc85/default.vertical.jobtemplate.hls.m3u8",
+      "sources": [
+        {
+          "type": "application/x-mpegURL",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/789798d7-dc72-4624-97c0-1fd0207cbc85/default.vertical.jobtemplate.hls.m3u8"
+        }
+      ],
+      "poster": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1cdae205-6087-4b77-8eb7-4006d3e3a5ed.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+    },
+    {
+      "id": "05f7be15-19d0-4b7c-9bd2-7e490f715926",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/05f7be15-19d0-4b7c-9bd2-7e490f715926/default.jobtemplate.hls.m3u8",
+      "sources": [
+        {
+          "type": "application/x-mpegURL",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/05f7be15-19d0-4b7c-9bd2-7e490f715926/default.jobtemplate.hls.m3u8"
+        }
+      ],
+      "poster": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1cdae205-6087-4b77-8eb7-4006d3e3a5ed.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+    },
+    {
+      "id": "35df27c7-5806-459d-a509-79496c696ecb",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/35df27c7-5806-459d-a509-79496c696ecb/default.vertical.jobtemplate.hls.m3u8",
+      "sources": [
+        {
+          "type": "application/x-mpegURL",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/35df27c7-5806-459d-a509-79496c696ecb/default.vertical.jobtemplate.hls.m3u8"
+        }
+      ],
+      "poster": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1cdae205-6087-4b77-8eb7-4006d3e3a5ed.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+    },
+    {
+      "id": "8bf5b698-1fac-43bf-bffc-95e54de2df40",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8bf5b698-1fac-43bf-bffc-95e54de2df40/videopreview.jobtemplate.mp4.default.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8bf5b698-1fac-43bf-bffc-95e54de2df40/videopreview.jobtemplate.mp4.default.mp4"
+        }
+      ],
+      "poster": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1cdae205-6087-4b77-8eb7-4006d3e3a5ed.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+    },
+    {
+      "id": "db53582b-a490-4219-a6a6-6ceb38acffc0",
+      "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/db53582b-a490-4219-a6a6-6ceb38acffc0/videopreview.jobtemplate.mp4.default.mp4",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "src": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/db53582b-a490-4219-a6a6-6ceb38acffc0/videopreview.jobtemplate.mp4.default.mp4"
+        }
+      ],
+      "poster": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1cdae205-6087-4b77-8eb7-4006d3e3a5ed.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+    }
+  ],
+  "color_swatches": {
+    "Pink Yellow Navy Floral": "https://m.media-amazon.com/images/I/51Po2Aj37jL._AC_SR38,50_.jpg",
+    "Pink Floral": "https://m.media-amazon.com/images/I/41oShrrwPWL._AC_SR38,50_.jpg",
+    "Deep Green": "https://m.media-amazon.com/images/I/31WZr8dBKhL._AC_SR38,50_.jpg",
+    "Orange Red Floral": "https://m.media-amazon.com/images/I/514ZjIuYwpL._AC_SR38,50_.jpg",
+    "Black Yellow Flower": "https://m.media-amazon.com/images/I/419jGMbXQ+L._AC_SR38,50_.jpg",
+    "Orange Floral": "https://m.media-amazon.com/images/I/513CWFL8LSL._AC_SR38,50_.jpg",
+    "Peach": "https://m.media-amazon.com/images/I/31SINh3g2uL._AC_SR38,50_.jpg",
+    "Orange Rust": "https://m.media-amazon.com/images/I/31Xpo8jDPDL._AC_SR38,50_.jpg",
+    "Black": "https://m.media-amazon.com/images/I/31CHIaCdEeL._AC_SR38,50_.jpg",
+    "Grey Khaki Polka Dot": "https://m.media-amazon.com/images/I/41RcApW6u3L._AC_SR38,50_.jpg",
+    "Rust Red White Dot": "https://m.media-amazon.com/images/I/510kK3SHYKL._AC_SR38,50_.jpg",
+    "Lake Green": "https://m.media-amazon.com/images/I/31oEM9gzTHL._AC_SR38,50_.jpg",
+    "Blue Yellow Floral": "https://m.media-amazon.com/images/I/41MTGB-fOKL._AC_SR38,50_.jpg",
+    "Grey Pink Floral": "https://m.media-amazon.com/images/I/411joBOIp0L._AC_SR38,50_.jpg",
+    "Royal Blue": "https://m.media-amazon.com/images/I/312Ur0MsH+L._AC_SR38,50_.jpg",
+    "Sky Blue": "https://m.media-amazon.com/images/I/31BHL7kIRML._AC_SR38,50_.jpg",
+    "Blue Red Floral": "https://m.media-amazon.com/images/I/51ApXemMFgL._AC_SR38,50_.jpg",
+    "Blue": "https://m.media-amazon.com/images/I/31letLjQjwL._AC_SR38,50_.jpg",
+    "Deep Navy Blue": "https://m.media-amazon.com/images/I/31+Ustft8tL._AC_SR38,50_.jpg",
+    "Hot Pink": "https://m.media-amazon.com/images/I/315QSKRP5ZL._AC_SR38,50_.jpg",
+    "Multicolour Floral": "https://m.media-amazon.com/images/I/41Fr+U-RuKL._AC_SR38,50_.jpg",
+    "Navy Blue": "https://m.media-amazon.com/images/I/31KiO8EMOwL._AC_SR38,50_.jpg",
+    "Olive": "https://m.media-amazon.com/images/I/31r62MJiAUL._AC_SR38,50_.jpg",
+    "Red": "https://m.media-amazon.com/images/I/31RhTD9ZM0L._AC_SR38,50_.jpg",
+    "Wine Red": "https://m.media-amazon.com/images/I/31hOxl6gcPL._AC_SR38,50_.jpg",
+    "Blue Floral": "https://m.media-amazon.com/images/I/51V-vdRmeYL._AC_SR38,50_.jpg",
+    "Yellow Purple Floral": "https://m.media-amazon.com/images/I/41-CFaaQNTL._AC_SR38,50_.jpg",
+    "Forest": "https://m.media-amazon.com/images/I/31IzaKRuyhL._AC_SR38,50_.jpg"
+  },
+  "color_image_key": {
+    "Pink Yellow Navy Floral": "818niU-GENL",
+    "Pink Floral": "811x3Ie3DTL",
+    "Deep Green": "61VwpzlCHAL",
+    "Orange Red Floral": "81FlTcs1MbL",
+    "Black Yellow Flower": "71LG5xzipHL",
+    "Orange Floral": "81NjqWRA1XL",
+    "Peach": "61YZbnHF6iL",
+    "Orange Rust": "61ByAXW4syL",
+    "Black": "61vy9PWf+XL",
+    "Grey Khaki Polka Dot": "71y18cQ0QYL",
+    "Rust Red White Dot": "71DQm2b1NkL",
+    "Lake Green": "61-f02XNKVL",
+    "Blue Yellow Floral": "81xBZVo06iL",
+    "Grey Pink Floral": "81wvJpMvoWL",
+    "Royal Blue": "61Jwb5k1ZoL",
+    "Sky Blue": "61UdpPshh+L",
+    "Blue Red Floral": "81u5CzrJyuL",
+    "Blue": "61THxyW3T3L",
+    "Deep Navy Blue": "61UtPt13dNL",
+    "Hot Pink": "61tsGajDHNL",
+    "Multicolour Floral": "71dHUC4COlL",
+    "Navy Blue": "61JxfcdSFjL",
+    "Olive": "61cuflXIOHL",
+    "Red": "61Gb1jbw7mL",
+    "Wine Red": "611OOF1eLWL",
+    "Blue Floral": "81ydWGEkAZL",
+    "Yellow Purple Floral": "71vv3aOT76L",
+    "Forest": "61yC3YgEPUL"
+  },
+  "color_images": {
+    "Pink Yellow Navy Floral": [
+      "https://m.media-amazon.com/images/I/818niU-GENL._SL1500_.jpg"
+    ],
+    "Pink Floral": [
+      "https://m.media-amazon.com/images/I/811x3Ie3DTL._SL1500_.jpg"
+    ],
+    "Deep Green": [
+      "https://m.media-amazon.com/images/I/61VwpzlCHAL._SL1500_.jpg"
+    ],
+    "Orange Red Floral": [
+      "https://m.media-amazon.com/images/I/81FlTcs1MbL._SL1500_.jpg"
+    ],
+    "Black Yellow Flower": [
+      "https://m.media-amazon.com/images/I/71LG5xzipHL._SL1500_.jpg"
+    ],
+    "Orange Floral": [
+      "https://m.media-amazon.com/images/I/81NjqWRA1XL._SL1500_.jpg"
+    ],
+    "Peach": [
+      "https://m.media-amazon.com/images/I/61YZbnHF6iL._SL1500_.jpg"
+    ],
+    "Orange Rust": [
+      "https://m.media-amazon.com/images/I/61ByAXW4syL._SL1500_.jpg"
+    ],
+    "Black": [
+      "https://m.media-amazon.com/images/I/61vy9PWf+XL._SL1500_.jpg"
+    ],
+    "Grey Khaki Polka Dot": [
+      "https://m.media-amazon.com/images/I/71y18cQ0QYL._SL1500_.jpg"
+    ],
+    "Rust Red White Dot": [
+      "https://m.media-amazon.com/images/I/71DQm2b1NkL._SL1500_.jpg"
+    ],
+    "Lake Green": [
+      "https://m.media-amazon.com/images/I/61-f02XNKVL._SL1500_.jpg"
+    ],
+    "Blue Yellow Floral": [
+      "https://m.media-amazon.com/images/I/81xBZVo06iL._SL1500_.jpg"
+    ],
+    "Grey Pink Floral": [
+      "https://m.media-amazon.com/images/I/81wvJpMvoWL._SL1500_.jpg"
+    ],
+    "Royal Blue": [
+      "https://m.media-amazon.com/images/I/61Jwb5k1ZoL._SL1500_.jpg"
+    ],
+    "Sky Blue": [
+      "https://m.media-amazon.com/images/I/61UdpPshh+L._SL1500_.jpg"
+    ],
+    "Blue Red Floral": [
+      "https://m.media-amazon.com/images/I/81u5CzrJyuL._SL1500_.jpg"
+    ],
+    "Blue": [
+      "https://m.media-amazon.com/images/I/61THxyW3T3L._SL1500_.jpg"
+    ],
+    "Deep Navy Blue": [
+      "https://m.media-amazon.com/images/I/61UtPt13dNL._SL1500_.jpg"
+    ],
+    "Hot Pink": [
+      "https://m.media-amazon.com/images/I/61tsGajDHNL._SL1500_.jpg"
+    ],
+    "Multicolour Floral": [
+      "https://m.media-amazon.com/images/I/71dHUC4COlL._SL1500_.jpg"
+    ],
+    "Navy Blue": [
+      "https://m.media-amazon.com/images/I/61JxfcdSFjL._SL1500_.jpg"
+    ],
+    "Olive": [
+      "https://m.media-amazon.com/images/I/61cuflXIOHL._SL1500_.jpg"
+    ],
+    "Red": [
+      "https://m.media-amazon.com/images/I/61Gb1jbw7mL._SL1500_.jpg"
+    ],
+    "Wine Red": [
+      "https://m.media-amazon.com/images/I/611OOF1eLWL._SL1500_.jpg"
+    ],
+    "Blue Floral": [
+      "https://m.media-amazon.com/images/I/81ydWGEkAZL._SL1500_.jpg"
+    ],
+    "Yellow Purple Floral": [
+      "https://m.media-amazon.com/images/I/71vv3aOT76L._SL1500_.jpg"
+    ],
+    "Forest": [
+      "https://m.media-amazon.com/images/I/61yC3YgEPUL._SL1500_.jpg"
+    ]
+  },
+  "related": [
+    {
+      "id": "womens-maxi-dress-formal-cocktail-ruched-maxi-sleeveless-bodycon",
+      "title": "Womens Maxi Dress Formal Cocktail Ruched Maxi Sleeveless Bodycon",
+      "price": 48.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Formal",
+      "images": [
+        "https://m.media-amazon.com/images/I/51lcEKwzt8L._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress",
+      "title": "Womens Maxi Dress",
+      "price": 99.0,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Formal",
+      "images": [
+        "https://m.media-amazon.com/images/I/51MWKDRcToL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-formal",
+      "title": "Womens Maxi Dress Formal",
+      "price": 79.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Formal",
+      "images": [
+        "https://m.media-amazon.com/images/I/51eAiny1x-L._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-ruched-formal-maxi-bodycon",
+      "title": "Womens Maxi Dress Ruched Formal Maxi Bodycon",
+      "price": 62.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Club & Night Out",
+      "images": [
+        "https://m.media-amazon.com/images/I/61ipOhuw3WL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-dress-cocktail",
+      "title": "Womens Dress Cocktail",
+      "price": 37.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Club & Night Out",
+      "images": [
+        "https://m.media-amazon.com/images/I/61+EOqv4F9L._SL1500_.jpg"
+      ]
+    }
+  ],
+  "customer_also_viewed": [
+    {
+      "id": "womens-maxi-dress",
+      "title": "Womens Maxi Dress",
+      "price": 26.45,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Casual",
+      "images": [
+        "https://m.media-amazon.com/images/I/713OuBdQBYL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-dress",
+      "title": "Womens Dress",
+      "price": 564.0,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Casual",
+      "images": [
+        "https://m.media-amazon.com/images/I/614g9yo8opL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-formal-cocktail-maxi-split",
+      "title": "Womens Maxi Dress Formal Cocktail Maxi Split",
+      "price": 59.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Formal",
+      "images": [
+        "https://m.media-amazon.com/images/I/61G8RF1nKaL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-dress-formal",
+      "title": "Womens Dress Formal",
+      "price": 89.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Formal",
+      "images": [
+        "https://m.media-amazon.com/images/I/51Ba9fw8pTL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-dress-split-sleeveless-cocktail-bodycon",
+      "title": "Womens Dress Split Sleeveless Cocktail Bodycon",
+      "price": 27.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Club & Night Out",
+      "images": [
+        "https://m.media-amazon.com/images/I/51OoLUBGjtL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress",
+      "title": "Womens Maxi Dress",
+      "price": 79.0,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Wedding Dresses",
+      "images": [
+        "https://m.media-amazon.com/images/I/51nJyQaIwAL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-cocktail-mermaid",
+      "title": "Womens Maxi Dress Cocktail Mermaid",
+      "price": 79.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Formal",
+      "images": [
+        "https://m.media-amazon.com/images/I/51QRiCCVj+L._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "womens-maxi-dress-formal-evening-bodycon-short-sleeve",
+      "title": "Womens Maxi Dress Formal Evening Bodycon Short Sleeve",
+      "price": 63.99,
+      "category": "Clothing, Shoes & Jewelry > Women > Clothing > Dresses > Club & Night Out",
+      "images": [
+        "https://m.media-amazon.com/images/I/61whKp-35lL._SL1500_.jpg"
+      ]
+    }
+  ]
+}
